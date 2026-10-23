@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "Tiếng Anh phù hợp cho học sinh ADHD",
+    "description": "Chương trình tiếng Anh phù hợp cho học sinh ADHD của SYA tôn trọng cách học và tốc độ học riêng của từng học sinh. Học sinh luyện nói và giao tiếp qua lớp học 1:1 hoặc nhóm nhỏ."
+  },
+  "home": {
+    "englishTitle": "ADHD-Friendly English Learning",
+    "title": "Tiếng Anh phù hợp cho học sinh ADHD",
+    "description": "Chương trình tiếng Anh tôn trọng cách học và tốc độ học khác nhau của mỗi học sinh.",
+    "points": [
+      "Lớp tiếng Anh 1:1 theo nhu cầu cá nhân",
+      "Lớp tiếng Anh nhóm nhỏ",
+      "Luyện nói và giao tiếp theo từng bước",
+      "Tiết học được điều chỉnh theo đặc điểm của học sinh"
+    ],
+    "cta": "Xem chi tiết",
+    "imageAlt": "Học sinh học hội thoại tiếng Anh 1:1 cùng giáo viên"
+  },
+  "page": {
+    "breadcrumbCurrent": "Tiếng Anh phù hợp cho học sinh ADHD",
+    "hero": {
+      "title": "Tiếng Anh phù hợp cho học sinh ADHD",
+      "englishTitle": "ADHD-Friendly English Learning",
+      "copy": "Không phải một cách dạy cho mọi học sinh, mà là cách học tiếng Anh phù hợp với từng em.",
+      "description": "Mỗi học sinh có cách tập trung và tốc độ học khác nhau. SYA cân nhắc trình độ tiếng Anh và đặc điểm học tập riêng của từng học sinh để mang đến các lớp tiếng Anh theo từng bước, lấy giao tiếp thực tế làm trọng tâm.",
+      "cta": "Tư vấn lớp tiếng Anh theo nhu cầu"
+    },
+    "approach": {
+      "title": "Giáo dục tiếng Anh theo nhu cầu, phù hợp với đặc điểm của học sinh",
+      "items": [
+        {
+          "title": "Mục tiêu học tập riêng",
+          "description": "Chúng tôi định hướng tiết học dựa trên trình độ tiếng Anh và mục tiêu học tập của học sinh."
+        },
+        {
+          "title": "Học theo từng bước",
+          "description": "Nhiệm vụ học tập được chia thành các bước nhỏ, rõ ràng để luyện nói và giao tiếp."
+        },
+        {
+          "title": "Điều chỉnh cách dạy",
+          "description": "Chúng tôi điều chỉnh cách giải thích, thời lượng hoạt động và phản hồi theo phản ứng và tình hình học tập của học sinh."
+        },
+        {
+          "title": "Phản hồi tích cực",
+          "description": "Chúng tôi tôn trọng sự nỗ lực và tham gia của học sinh và đưa ra phản hồi cụ thể."
+        }
+      ]
+    },
+    "formats": {
+      "title": "Hai hình thức lớp học",
+      "items": [
+        {
+          "title": "Lớp 1:1 theo nhu cầu cá nhân",
+          "points": [
+            "Tập trung vào trình độ tiếng Anh và mục tiêu học tập của từng học sinh",
+            "Điều chỉnh tốc độ và cách giải thích theo phản ứng của học sinh",
+            "Luyện nói và giao tiếp cá nhân"
+          ],
+          "imageAlt": "Học sinh học tiếng Anh 1:1 cùng giáo viên"
+        },
+        {
+          "title": "Lớp nhóm nhỏ",
+          "points": [
+            "Luyện giao tiếp và hội thoại tiếng Anh giữa các học sinh",
+            "Hoạt động có trình tự rõ ràng và nhiệm vụ hợp tác",
+            "Trải nghiệm sử dụng tiếng Anh cùng các bạn khác"
+          ],
+          "imageAlt": "Các học sinh học tiếng Anh theo nhóm nhỏ cùng giáo viên"
+        }
+      ],
+      "note": "Sĩ số nhóm, thời gian học và học phí sẽ được thông báo khi tư vấn."
+    },
+    "audience": {
+      "title": "Từ trẻ em đến thanh thiếu niên",
+      "description": "Chúng tôi tư vấn hình thức lớp học phù hợp dựa trên độ tuổi, trình độ tiếng Anh và mục tiêu học tập của học sinh.",
+      "note": "Chúng tôi không quyết định việc học sinh có thể tham gia hay không chỉ dựa vào việc có chẩn đoán ADHD hay không. Phạm vi hỗ trợ giáo dục có thể dành cho từng học sinh sẽ được xác nhận trong quá trình tư vấn."
+    },
+    "process": {
+      "title": "Quy trình học",
+      "steps": [
+        "Tư vấn với phụ huynh và xác định mục tiêu học tập",
+        "Tìm hiểu trình độ tiếng Anh và nhu cầu học tập của học sinh",
+        "Đề xuất hình thức lớp học và định hướng học tập phù hợp",
+        "Tiến hành lớp học và phản hồi học tập"
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "items": [
+        {
+          "question": "Học sinh ở độ tuổi nào có thể tham gia?",
+          "answer": "Chương trình dành cho trẻ em đến thanh thiếu niên. Chúng tôi sẽ tư vấn hình thức lớp học phù hợp dựa trên độ tuổi, trình độ tiếng Anh và mục tiêu học tập của học sinh."
+        },
+        {
+          "question": "Có thể chọn giữa lớp 1:1 và lớp nhóm nhỏ không?",
+          "answer": "Chúng tôi tổ chức cả hai hình thức lớp học. Trong quá trình tư vấn, chúng tôi sẽ đề xuất hình thức phù hợp dựa trên đặc điểm học tập, mục tiêu và mong muốn của gia đình."
+        },
+        {
+          "question": "Học sinh mới bắt đầu học tiếng Anh có thể đăng ký tư vấn không?",
+          "answer": "Có. Chúng tôi sẽ kiểm tra trình độ tiếng Anh hiện tại của học sinh, sau đó đề xuất định hướng học tập ở mức độ phù hợp."
+        },
+        {
+          "question": "Cách dạy có thể điều chỉnh theo đặc điểm học tập của học sinh không?",
+          "answer": "Chúng tôi điều chỉnh cách giải thích, thời lượng hoạt động và phản hồi theo phản ứng và tình hình học tập của học sinh. Phạm vi hỗ trợ cụ thể dành cho từng học sinh sẽ được cùng xác nhận trong quá trình tư vấn."
+        },
+        {
+          "question": "Làm thế nào để biết lịch học và học phí?",
+          "answer": "Lịch học, sĩ số nhóm và học phí hiện chưa được xác định và có thể khác nhau tùy theo hình thức lớp và thời gian học. Thông tin chi tiết sẽ được cung cấp khi tư vấn."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Hãy tư vấn lớp tiếng Anh phù hợp với con bạn.",
+      "description": "Khi bạn cho chúng tôi biết độ tuổi, trình độ tiếng Anh, mục tiêu học tập và hình thức lớp học mong muốn của học sinh, chúng tôi sẽ tư vấn định hướng học tập phù hợp.",
+      "button": "Tư vấn lớp tiếng Anh theo nhu cầu"
+    },
+    "disclaimer": "Chương trình tiếng Anh phù hợp cho học sinh ADHD là chương trình giáo dục tiếng Anh, không phải dịch vụ y tế hay trị liệu. Chương trình không cung cấp chẩn đoán hay điều trị và không đảm bảo cải thiện triệu chứng."
+  },
+  "consultation": {
+    "title": "Tư vấn chương trình tiếng Anh phù hợp cho học sinh ADHD",
+    "notice": "Yêu cầu này sẽ được tiếp nhận như một yêu cầu tư vấn chương trình tiếng Anh phù hợp cho học sinh ADHD. Vui lòng cho chúng tôi biết độ tuổi, hình thức lớp học mong muốn, trình độ tiếng Anh và mục tiêu học tập của học sinh.",
+    "studentAgeLabel": "Tuổi của học sinh",
+    "studentAgePlaceholder": "Ví dụ: 9",
+    "classFormatLabel": "Hình thức lớp học mong muốn",
+    "classFormats": {
+      "oneOnOne": "Lớp 1:1 theo nhu cầu cá nhân",
+      "smallGroup": "Lớp nhóm nhỏ",
+      "undecided": "Quyết định sau khi tư vấn"
+    },
+    "levelLabel": "Trình độ tiếng Anh hiện tại của học sinh",
+    "goalLabel": "Mục tiêu học tập",
+    "goalPlaceholder": "Ví dụ: Tôi muốn con luyện nói tiếng Anh một cách tự tin.",
+    "messagePlaceholder": "Ví dụ: Hãy cho chúng tôi biết đặc điểm học tập của học sinh hoặc những điều cần lưu ý trong giờ học."
+  }
+}

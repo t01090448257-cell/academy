@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "title": "ADHD-Friendly English Learning",
+    "description": "SYA's ADHD-Friendly English Learning respects each student's way and pace of learning. Students build speaking and conversation skills in 1:1 or small-group classes."
+  },
+  "home": {
+    "englishTitle": "ADHD-Friendly English Learning",
+    "title": "ADHD-Friendly English Learning",
+    "description": "English learning that respects each student's own way and pace of learning.",
+    "points": [
+      "Personalized 1:1 English classes",
+      "Small-group English classes",
+      "Step-by-step speaking and conversation practice",
+      "Lessons adapted to each student's characteristics"
+    ],
+    "cta": "Learn More",
+    "imageAlt": "A student in a 1:1 English conversation class with a teacher"
+  },
+  "page": {
+    "breadcrumbCurrent": "ADHD-Friendly English Learning",
+    "hero": {
+      "title": "ADHD-Friendly English Learning",
+      "englishTitle": "ADHD-Friendly English Learning",
+      "copy": "Not one method for every student, but English learning that fits each student.",
+      "description": "Every student focuses and learns at a different pace. SYA considers each student's English level and individual learning characteristics to provide step-by-step English classes centered on real communication.",
+      "cta": "Ask About Personalized English Classes"
+    },
+    "approach": {
+      "title": "Personalized English learning that considers each student",
+      "items": [
+        {
+          "title": "Individual learning goals",
+          "description": "We set the direction of classes based on the student's English level and learning goals."
+        },
+        {
+          "title": "Step-by-step learning",
+          "description": "Learning tasks are broken into clear, small steps for speaking and conversation practice."
+        },
+        {
+          "title": "Adjusting how we teach",
+          "description": "We adjust explanations, activity length and feedback according to the student's responses and learning situation."
+        },
+        {
+          "title": "Positive feedback",
+          "description": "We respect each student's effort and participation and give specific feedback."
+        }
+      ]
+    },
+    "formats": {
+      "title": "Two class formats",
+      "items": [
+        {
+          "title": "Personalized 1:1 Classes",
+          "points": [
+            "Focus on the individual student's English level and learning goals",
+            "Class pace and explanations adjusted to the student's responses",
+            "Individual speaking and conversation practice"
+          ],
+          "imageAlt": "A student in a 1:1 English class with a teacher"
+        },
+        {
+          "title": "Small-Group Classes",
+          "points": [
+            "English communication and conversation practice between students",
+            "Activities with a clear sequence and cooperative tasks",
+            "The experience of using English together with other students"
+          ],
+          "imageAlt": "Students learning English in a small group with a teacher"
+        }
+      ],
+      "note": "Group size, class hours and fees are provided during consultation."
+    },
+    "audience": {
+      "title": "From children to teenagers",
+      "description": "We consult with families to find a suitable class format based on the student's age, English level and learning goals.",
+      "note": "We do not decide whether a student can join based on an ADHD diagnosis alone. The scope of educational support we can offer each student is confirmed during consultation."
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        "Parent consultation and learning goals",
+        "Understanding the student's English level and learning needs",
+        "Recommending a suitable class format and learning direction",
+        "Classes and learning feedback"
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What ages can join?",
+          "answer": "The program is for children through teenagers. We recommend a suitable class format through consultation, based on the student's age, English level and learning goals."
+        },
+        {
+          "question": "Can we choose between 1:1 and small-group classes?",
+          "answer": "We offer both class formats. During consultation, we recommend the format that suits the student, considering their learning characteristics, goals and your preferences."
+        },
+        {
+          "question": "Can a student who is new to English apply for a consultation?",
+          "answer": "Yes. We first check the student's current English level and then suggest a class direction at the right level."
+        },
+        {
+          "question": "Can the teaching approach be adjusted to the student's learning characteristics?",
+          "answer": "We adjust explanations, activity length and feedback according to the student's responses and learning situation. The specific support we can offer each student is confirmed together during consultation."
+        },
+        {
+          "question": "How can I check class schedules and fees?",
+          "answer": "Class schedules, group size and fees have not yet been finalized and may vary by class format and duration. Details are provided during consultation."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Find the right English class for your child.",
+      "description": "Tell us your child's age, English level, learning goals and preferred class format, and we will recommend a suitable learning direction.",
+      "button": "Ask About Personalized English Classes"
+    },
+    "disclaimer": "ADHD-Friendly English Learning is an English education program, not a medical or therapeutic service. It does not provide diagnosis or treatment and does not guarantee any improvement in symptoms."
+  },
+  "consultation": {
+    "title": "ADHD-Friendly English Learning Consultation",
+    "notice": "This request will be received as an ADHD-Friendly English Learning inquiry. Please tell us the student's age, preferred class format, English level and learning goals.",
+    "studentAgeLabel": "Student's Age",
+    "studentAgePlaceholder": "e.g. 9",
+    "classFormatLabel": "Preferred Class Format",
+    "classFormats": {
+      "oneOnOne": "Personalized 1:1 Class",
+      "smallGroup": "Small-Group Class",
+      "undecided": "Decide after consultation"
+    },
+    "levelLabel": "Student's Current English Level",
+    "goalLabel": "Learning Goals",
+    "goalPlaceholder": "e.g. I'd like my child to practice speaking English with confidence.",
+    "messagePlaceholder": "e.g. Let us know about the student's learning characteristics or anything we should keep in mind in class."
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "About",
+    "programs": "Curriculum",
+    "campus": "Philippines Guide",
+    "services": "Tuition & Dorm",
+    "admission": "Admission",
+    "community": "Community"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "Cebu's premier English immersion courses, tailored to your goals",
+    "ctaConsult": "KakaoTalk / Online Consult",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "Begin in Cebu,",
+    "headlineLine2": "real change in your English",
+    "accent": "Speaking & Conversation",
+    "description": "Premium English education built around speaking and conversation,\nwhere you use English in daily life and at local schools.",
+    "ctaPrimary": "Book a Consultation",
+    "ctaPrograms": "Explore Programs",
+    "ctaCost": "See Program Costs",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "Children from age 5 to adults"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "Tailored 2 · 4 · 8 · 12-week programs"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "Regular classes start twice a month"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "Built around up to 4 hours of 1:1 lessons a day — an English program of about 8 hours a day where learning and daily life flow naturally together"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "SYA's resort-style campus in Cebu with palm trees and a pool"
+  },
+  "langSwitcher": {
+    "label": "Language"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "Premium English education, the SYA way",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "English education centered on speaking",
+        "description": "We go beyond grammar and test drills, building the ability to truly listen, speak, and use English."
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "English that continues beyond the classroom",
+        "description": "Through everyday life in Cebu and joining classes at a local school, students put what they learn into real situations."
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "A premium environment where learning and living come together",
+        "description": "Comfortable accommodation and a relaxed living environment create a study program with a healthy balance of learning and rest."
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "Live in Cebu for a month,\nand experience real English.",
+    "description": [
+      "We connect English conversation study\nand life in Cebu into one experience.",
+      "Adults, students and children can each choose a program\nthat fits their goals and schedule,\nand experience English in class and in everyday life."
+    ],
+    "audienceNote": "Adults, children and families can consult with us about the program that fits their goals.",
+    "consultCta": "Ask About a Month in Cebu",
+    "image": {
+      "alt": "Island hopping on the sea in Cebu",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "English centered on speaking",
+        "description": "Learn through speaking and conversation,\nand use what you learn in everyday life."
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "Experiencing English in daily life",
+        "description": "Beyond the classroom, students use English\nin Cebu's everyday life\nand a variety of living environments."
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Experience a local private school firsthand",
+        "description": "Based on arrangements with the school,\nstudents have a special opportunity to experience\nthe real learning environment of a local private school."
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "Local School Experience",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "Learn English in Cebu, experience a local school environment\nand its educational culture, and gain opportunities\nto use English in real, everyday life.",
+      "conditionNote": "Actual availability and schedules will be provided based on discussions with the local school and program operating conditions.",
+      "imageAlt": "A teacher and students having a class together in a local school classroom"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "SYA premium English programs,\nchosen around your goals and schedule",
+    "subtitle": "Centered on speaking and conversation, for children through adults, with 2-, 4-, 8- and 12-week options.",
+    "viewAll": "View All Programs",
+    "learnMore": "Learn More",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2 · 4 · 8 · 12 weeks"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "Built around up to 4 hours of 1:1 lessons a day — an English program of about 8 hours a day where learning and daily life flow naturally together"
+    },
+    "audienceLabel": "For",
+    "familyOptionsLabel": "Family options",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "Regular Programs",
+        "description": "Core English programs that build practical, real-world English centered on speaking and conversation.",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "Two intakes a month · 1st & 3rd Monday"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "Camp Programs",
+        "description": "Programs that combine English learning with daily life, designed around school vacations and family stays."
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "Intensive ESL",
+        "summary": "Centered on speaking and conversation, this program balances listening and speaking and builds practical English at each student's own level.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "Students and adults who want to build practical English, from basic conversation to natural communication",
+        "purpose": "Build the ability to use English confidently in real situations through speaking- and conversation-focused classes.",
+        "direction": "We assess each student's level, balance listening and speaking, and repeatedly practice expressions you can use right away in real conversations.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Build speaking confidence and fluency through conversations on everyday and varied topics."
+          },
+          {
+            "title": "Listening",
+            "description": "Understand natural-speed English and respond naturally in conversation."
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "Learning content and pace are adjusted to each student's level and goals."
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "Business English",
+        "summary": "A practical program that helps you communicate confidently in English in real work situations such as meetings, emails and presentations.",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "Professionals who use English at work and adults preparing for a new job or career move",
+        "purpose": "Develop the English communication skills needed in real workplace situations, with a practical focus.",
+        "direction": "Through repeated speaking and writing practice based on real work scenarios such as meetings, emails and presentations, we aim for confident communication.",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "Learn expressions for running meetings, sharing opinions and reaching agreement."
+          },
+          {
+            "title": "Business Email",
+            "description": "Learn to structure and phrase emails clearly for each situation."
+          },
+          {
+            "title": "Presentation",
+            "description": "Practice structuring presentations and delivering key messages effectively."
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "Study Abroad Prep",
+        "summary": "Prepare the English you need for school life abroad: academic expressions plus speaking, presentations and discussions.",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "Students preparing to study overseas, join an exchange program or start school abroad",
+        "purpose": "Prepare in advance the English skills needed for school life and academic settings abroad.",
+        "direction": "Speaking practice centers on situations you will meet while studying abroad, such as joining class, presenting and discussing.",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "Learn academic English commonly used in classes and assignments."
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "Practice presenting your ideas and taking part in discussions."
+          },
+          {
+            "title": "School Life English",
+            "description": "Prepare the English needed to communicate with classmates and teachers."
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "Summer / Winter Vacation Camp",
+        "summary": "During school vacations, students combine English study with a variety of daily-life experiences, focusing on practical speaking and conversation.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "Mainly children and teens",
+        "purpose": "Build confidence in English by combining study and daily-life experiences in Cebu during the school break.",
+        "direction": "Classes center on speaking and conversation, and we value the experience of actually using what students learn in everyday life.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Conversation practice in class helps students get comfortable speaking English."
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "Students naturally use the English they learn through a variety of daily experiences."
+          },
+          {
+            "title": "Confidence in English",
+            "description": "Students build confidence as they enjoy expressing themselves in English."
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "Year-round Family Camp",
+        "summary": "A family English program where children and parents live together in Cebu while learning English.",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "Families who want to live in Cebu together and learn English with their children",
+        "purpose": "Let families live together in Cebu and learn English in a way that fits their family setup.",
+        "direction": "Families choose who takes classes based on their make-up and schedule, and all classes focus on speaking and conversation.",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "Speaking- and conversation-focused classes matched to each child's level."
+          },
+          {
+            "title": "English for Parents",
+            "description": "When parents enroll too, they learn practical English for daily life and travel."
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "Daily life in Cebu creates opportunities for the whole family to use English."
+          }
+        ],
+        "familyOptions": [
+          "Children only",
+          "Children + 1 parent",
+          "Children + 2 parents"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "SYA's regular English programs, where you learn\nEnglish you can use in real life,\ncentered on Speaking & Conversation",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "Three programs\nfor your purpose in learning English",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "Learn English you can use in real life,\ncentered on Speaking & Conversation."
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "Learn practical English expressions and communication\nyou can use right away at work and in daily life."
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "Prepare for your next stage of education and study abroad,\nand build confidence learning and communicating in English."
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "Speak the English you learn in class,\nuse it in everyday life in Cebu,\nand build real confidence in English."
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "Ready to start learning English?"
+    },
+    "campPage": {
+      "description": "Learn English, live in Cebu,\nand share activities and special experiences.",
+      "consultCta": "Book a Camp Consultation",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "Two camps that combine English\nwith special experiences in Cebu",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "A program to experience English learning\nand a variety of Cebu activities during school vacations",
+          "imageAlt": "Friends enjoying island hopping on the sea in Cebu"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "A family program where children and parents live in Cebu together,\ndiscovering English and new experiences",
+          "imageAlt": "Children studying outdoors with a teacher"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "Centered on Speaking & Conversation"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Real life beyond the classroom"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Experience Cebu's nature and culture"
+          },
+          {
+            "label": "CARE",
+            "text": "A balance between learning and daily life"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "Built around up to 4 hours of 1:1 lessons a day — an English program of about 8 hours a day where learning and daily life flow naturally together, centered on speaking and conversation"
+          },
+          {
+            "label": "MEALS",
+            "text": "Three buffet meals a day"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Experiencing Cebu's nature and culture"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Time to use English outside the classroom"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "Comfortable rest and daily care"
+          }
+        ],
+        "note": "A detailed schedule will be shared once camp dates are confirmed."
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "A comfortable place to stay keeps\nlearning and rest in balance.",
+          "imageAlt": "Room at BE Pods Lahug"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "Three Buffet Meals a Day",
+          "description": "Meals are provided for a comfortable camp life.",
+          "imageAlt": "Buffet with a variety of fruit"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "Children can join on their own,\nor together with their parents.",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "Vacation Camp: summer & winter breaks · Family Camp: year-round · Exact dates provided during consultation"
+      },
+      "closingTitle": "Find the right camp for your child.",
+      "closingSummerCta": "Summer / Winter Camp Consultation",
+      "closingFamilyCta": "Family Camp Consultation",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "Choose Your SYA Experience",
+      "includesLabel": "Included Programs",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "SYA's regular English programs that build\nboth your English skills and your ability to use them",
+        "imageAlt": "Students in a conversation class with a view of the sea"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "SYA camp programs that bring together English,\nlife in Cebu, activities and family experiences",
+        "imageAlt": "Friends enjoying island hopping on the sea in Cebu"
+      }
+    },
+    "detail": {
+      "pageTitle": "Programs",
+      "pageSubtitle": "SYA English programs centered on speaking and conversation, chosen around your goals and schedule",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "Program Goal",
+      "audienceLabel": "Recommended For",
+      "directionLabel": "Teaching Approach",
+      "focusAreasLabel": "Key Learning Areas",
+      "durationLabel": "Program Length",
+      "classHoursLabel": "Class Hours",
+      "openingsLabel": "Start Dates",
+      "timetableLabel": "Daily Schedule",
+      "timetablePending": "A detailed schedule will be shared once it is finalized. All programs are built around up to 4 hours of 1:1 lessons a day, as an English program of about 8 hours a day where learning and daily life flow naturally together.",
+      "timeHeader": "Time",
+      "subjectHeader": "Class",
+      "consultTitle": "Interested in this program?",
+      "consultDescription": "We'll recommend the right program and length based on your goals, schedule and family setup.",
+      "consultCta": "Consult About This Program",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Local School Experience (Optional)",
+        "description": "An optional program that lets students experience a local school environment and its educational culture while learning English in Cebu, with opportunities to use English in real life.",
+        "conditionNote": "Actual availability and schedules depend on the student's age, discussions with the local school, and program operating conditions, and are provided during consultation.",
+        "consultCta": "Ask About the Local School Experience"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "SYA program costs,\nclearly laid out",
+    "description": "Check estimated costs by program and length of study,\nand request a personalized quote through a consultation if needed.",
+    "durationLabel": "Length of study",
+    "weeks": {
+      "2": "2 weeks",
+      "4": "4 weeks",
+      "8": "8 weeks",
+      "12": "12 weeks"
+    },
+    "tuitionFeeLabel": "Tuition",
+    "allDurationsLabel": "Tuition by length",
+    "onRequest": "On request",
+    "perChild": "Per child",
+    "familyParentNote": "Costs for accompanying parents are provided during consultation.",
+    "notes": [
+      "Prices shown are tuition only; accommodation and local fees are separate.",
+      "Current prices are initial reference rates and may change.",
+      "Items marked “On request” will be confirmed during consultation."
+    ],
+    "consultCta": "Request a Custom Quote",
+    "calculatorCta": "Estimate Your Cost"
+  },
+  "estimator": {
+    "title": "Cost Estimator",
+    "subtitle": "Choose a program, length of study, participants and accommodation to see your estimated cost.",
+    "steps": {
+      "course": "Program",
+      "duration": "Length of study",
+      "participant": "Participants",
+      "stay": "Accommodation",
+      "parents": "Accompanying parents"
+    },
+    "participantTypes": {
+      "adult": "Adult",
+      "student": "Child / Teen"
+    },
+    "childCountLabel": "Children",
+    "parentCountLabel": "Parents",
+    "stayOptions": {
+      "included": "Accommodation included",
+      "none": "No accommodation needed"
+    },
+    "stayNote": "Room assignment and accommodation costs are provided during consultation.",
+    "summaryTitle": "Estimated Cost",
+    "lines": {
+      "tuition": "Tuition",
+      "additionalChild": "Additional child",
+      "parent": "Accompanying parent",
+      "stay": "Accommodation",
+      "option": "Additional option"
+    },
+    "educationSubtotal": "Tuition subtotal",
+    "totalLabel": "Estimated total",
+    "knownTotalLabel": "Confirmed subtotal",
+    "totalNote": "Items marked “On request” are not included in the total. Local fees are separate.",
+    "consultCta": "Consult with These Options"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "A premium hotel where study\nand rest flow naturally together",
+    "description": "After a day focused on learning,\nstudents can rest well in a clean,\ncomfortable place to stay.",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "Lobby lounge at BE Pods Lahug"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "A steady day that begins\nin a comfortable room",
+      "description": "With comfortable bedding and a tidy room,\nstudents can rest well after class.",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "Twin room at BE Pods Lahug"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "A living environment balanced\nfor learning and rest",
+      "description": "After class, students can unwind by the pool and loungers at the end of the day.",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "Swimming pool and loungers at BE Pods Lahug"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "Everyday convenience\nthroughout your stay",
+      "description": "Spaces for daily needs help students keep a steady routine, even during a longer stay.",
+      "gym": {
+        "caption": "Fitness",
+        "text": "A space for light exercise and a healthy daily rhythm",
+        "alt": "Fitness area at BE Pods Lahug"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "A space that supports everyday needs during a longer stay",
+        "alt": "Living space with a washing machine at BE Pods Lahug"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "A day at BE Pods",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "Courtyard pool surrounded by the BE Pods Lahug building"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "Bright bedroom with large windows at BE Pods Lahug"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "Guests enjoying the pool"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "Depending on room availability at BE Pods, it may be used as additional accommodation."
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "Even after class,\nyour day stays comfortable.",
+      "description": "Not only the place where you learn English,\nbut also where you stay and how you spend your days\nbecome one learning experience.",
+      "imageAlt": "Swimming pool at BE Pods Lahug"
+    }
+  },
+  "localFees": {
+    "title": "Local Payment Guide",
+    "subtitle": "SSP, visa extension and accommodation-related items",
+    "heading": "Local Fees in the Philippines",
+    "description": "These are cost items related to staying and living in the Philippines. Amounts and payment timing depend on your length of stay and schedule and are provided during consultation.",
+    "columns": {
+      "item": "Item",
+      "amount": "Amount",
+      "note": "Details"
+    },
+    "onRequest": "On request",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "Study permit required for foreign students taking language courses in the Philippines"
+      },
+      "visaExtension1": {
+        "name": "Visa Extension (stays over 30 days)",
+        "note": "Required if you stay beyond 30 days after visa-free entry"
+      },
+      "visaExtension2": {
+        "name": "Additional Visa Extension (stays over 59 days)",
+        "note": "Further extensions are required depending on length of stay"
+      },
+      "acrICard": {
+        "name": "ACR I-Card (Alien Registration)",
+        "note": "Alien registration card required for stays of 59 days or more"
+      },
+      "accommodationDeposit": {
+        "name": "Accommodation Deposit",
+        "note": "Amount and refund conditions provided during consultation"
+      },
+      "accommodationUtilities": {
+        "name": "Accommodation Utilities (electricity/water)",
+        "note": "Varies by accommodation and usage; provided during consultation"
+      },
+      "courseMaterials": {
+        "name": "Course Materials",
+        "note": "Varies by program and level; provided during consultation"
+      },
+      "airportPickup": {
+        "name": "Airport Pick-up",
+        "note": "Pick-up on arrival at Mactan-Cebu International Airport — details and cost provided during consultation"
+      }
+    },
+    "depositBox": {
+      "title": "Accommodation Deposit",
+      "description": "The amount and refund conditions of the accommodation deposit are provided during consultation."
+    },
+    "paymentBox": {
+      "title": "Payment Information",
+      "description": "The payment currency and timing for local fees are provided during consultation, based on your schedule."
+    }
+  },
+  "consultation": {
+    "interestsLabel": "Experiences of Interest",
+    "interests": {
+      "cebuMonthStay": "One-Month Stay in Cebu",
+      "localSchool": "Local School Experience"
+    },
+    "noneLabel": "None"
+  },
+  "comingSoon": {
+    "badge": "Coming Soon",
+    "message": "This page is currently under construction. We'll be back soon with more.",
+    "backHome": "Back to Home"
+  }
+}

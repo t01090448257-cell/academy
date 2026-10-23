@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "О нас",
+    "programs": "Учебные программы",
+    "campus": "Жизнь на Филиппинах",
+    "services": "Стоимость и общежитие",
+    "admission": "Поступление",
+    "community": "Сообщество"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "Лучшие курсы английского языка в Себу, подобранные под ваши цели",
+    "ctaConsult": "KakaoTalk / Онлайн-консультация",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "Всё начинается в Себу —",
+    "headlineLine2": "настоящие перемены в английском",
+    "accent": "Speaking & Conversation",
+    "description": "Премиальное англоязычное образование с упором на разговорную речь и живое общение,\nгде английский используют в повседневной жизни и в местных школах.",
+    "ctaPrimary": "Записаться на консультацию",
+    "ctaPrograms": "Смотреть программы",
+    "ctaCost": "Узнать стоимость обучения",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "Дети с 5 лет и взрослые"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "Программы на 2 · 4 · 8 · 12 недель"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "Набор в группы 2 раза в месяц"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "Программа английского около 8 часов в день, в основе которой — до 4 часов индивидуальных занятий 1:1, а учёба и повседневная жизнь естественно продолжают друг друга"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "Курортный кампус SYA в Себу с пальмами и бассейном"
+  },
+  "langSwitcher": {
+    "label": "Язык"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "Премиальное обучение английскому в стиле SYA",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "Обучение, в центре которого — разговорная речь",
+        "description": "Мы не ограничиваемся грамматикой и решением тестов, а развиваем умение слушать, говорить и по-настоящему пользоваться английским."
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "Английский, который продолжается за пределами класса",
+        "description": "Повседневная жизнь в Себу и участие в уроках местной школы позволяют применять выученное в реальных ситуациях."
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "Премиальная среда, где учёба и быт в гармонии",
+        "description": "Комфортное проживание и уютная бытовая среда создают условия, в которых учёба и отдых находятся в балансе."
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "Месяц жизни в Себу —\nи настоящий английский.",
+    "description": [
+      "Мы объединяем изучение разговорного английского\nи жизнь в Себу в единый опыт.",
+      "Взрослые, школьники и дети могут выбрать программу\nпод свои цели и график\nи применять английский на занятиях и в повседневной жизни."
+    ],
+    "audienceNote": "Взрослые, дети и семьи могут получить консультацию по программе, подходящей их целям.",
+    "consultCta": "Консультация: месяц в Себу",
+    "image": {
+      "alt": "Прогулка на лодке по островам у побережья Себу",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "Английский, в центре которого — речь",
+        "description": "Учимся с упором на разговорную речь\nи применяем выученное в повседневной жизни."
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "Английский в повседневной жизни",
+        "description": "За пределами класса студенты\nпо-настоящему пользуются английским\nв повседневной жизни Себу и разных бытовых ситуациях."
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Знакомство с местной частной школой",
+        "description": "На основе договорённости со школой\nпредоставляется особая возможность познакомиться\nс реальной учебной средой местной частной школы."
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "Опыт местной школы",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "Изучая английский на Себу, вы познакомитесь\nсо средой и образовательной культурой местной школы\nи получите возможность использовать английский в реальной жизни.",
+      "conditionNote": "Возможность участия и сроки сообщаются с учётом согласования с местной школой и условий проведения программы.",
+      "imageAlt": "Учитель и ученики на уроке в классе местной школы"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "Премиальные программы английского SYA —\nпод ваши цели и график",
+    "subtitle": "С упором на разговорную речь и общение — для детей и взрослых, в формате 2, 4, 8 или 12 недель.",
+    "viewAll": "Все программы",
+    "learnMore": "Подробнее",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2 · 4 · 8 · 12 недель"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "Программа английского около 8 часов в день, в основе которой — до 4 часов индивидуальных занятий 1:1, а учёба и повседневная жизнь естественно продолжают друг друга"
+    },
+    "audienceLabel": "Для кого",
+    "familyOptionsLabel": "Состав семьи",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "Основные курсы",
+        "description": "Основные языковые программы, развивающие практическое владение английским с упором на разговорную речь и общение.",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "Набор 2 раза в месяц · 1-й и 3-й понедельник"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "Лагерные программы",
+        "description": "Программы, сочетающие изучение английского и повседневную жизнь, — для каникул и семейных поездок."
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "Интенсивный ESL",
+        "summary": "С упором на разговорную речь и общение программа уравновешивает аудирование и говорение и интенсивно развивает практический английский с учётом уровня каждого.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "Школьники, студенты и взрослые, которые хотят развить практический английский — от базового общения до свободной речи",
+        "purpose": "Развить умение уверенно пользоваться английским в реальных ситуациях на занятиях с упором на разговорную речь.",
+        "direction": "Мы определяем уровень каждого, выстраиваем баланс аудирования и говорения и многократно отрабатываем выражения, которые сразу пригодятся в живом общении.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Уверенность и беглость речи в разговорах на повседневные и разнообразные темы."
+          },
+          {
+            "title": "Listening",
+            "description": "Понимание английского в естественном темпе и умение естественно реагировать в разговоре."
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "Содержание и темп обучения подстраиваются под уровень и цели каждого."
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "Деловой английский",
+        "summary": "Практико-ориентированная программа, которая помогает уверенно общаться на английском в рабочих ситуациях: на встречах, в переписке и на презентациях.",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "Специалисты, которым нужен английский в работе, а также взрослые, готовящиеся к трудоустройству или смене работы",
+        "purpose": "Освоить навыки делового общения на английском, необходимые в реальных рабочих ситуациях.",
+        "direction": "Отрабатываем устную и письменную речь на основе реальных рабочих сценариев — встреч, переписки и презентаций — с целью уверенного общения.",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "Выражения для ведения встреч, высказывания мнения и согласования решений."
+          },
+          {
+            "title": "Business Email",
+            "description": "Чёткая структура и формулировки деловых писем для разных ситуаций."
+          },
+          {
+            "title": "Presentation",
+            "description": "Практика построения презентаций и донесения ключевых мыслей."
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "Подготовка к учёбе за рубежом",
+        "summary": "Подготовка английского для учёбы за границей: академические выражения, а также разговорная речь, выступления и дискуссии.",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "Учащиеся, которые готовятся к поступлению за рубежом, программам обмена или учёбе за границей",
+        "purpose": "Заранее подготовить английский, необходимый для школьной жизни и учёбы за рубежом.",
+        "direction": "Разговорная практика строится вокруг ситуаций учёбы за рубежом: участие в уроках, выступления и дискуссии.",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "Академические выражения, часто используемые на занятиях и в заданиях."
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "Практика выступлений со своими идеями и участия в дискуссиях."
+          },
+          {
+            "title": "School Life English",
+            "description": "Английский для общения с одноклассниками и преподавателями."
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "Летний / зимний лагерь",
+        "summary": "Во время каникул ученики совмещают изучение английского с разнообразным жизненным опытом и интенсивно практикуют живой разговорный английский.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "В основном дети и подростки",
+        "purpose": "Развить уверенность в английском, совмещая учёбу и жизненный опыт в Себу во время каникул.",
+        "direction": "На основе занятий с упором на разговорную речь мы уделяем особое внимание опыту применения выученного английского в повседневной жизни.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Разговорная практика на занятиях помогает привыкнуть говорить по-английски."
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "Выученный английский естественно применяется в разнообразных жизненных ситуациях."
+          },
+          {
+            "title": "Confidence in English",
+            "description": "Удовольствие от общения на английском постепенно формирует уверенность."
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "Круглогодичный семейный лагерь",
+        "summary": "Семейная программа, в которой дети и родители вместе живут в Себу и изучают английский.",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "Семьи, которые хотят вместе с детьми жить в Себу и изучать английский",
+        "purpose": "Дать семье возможность вместе жить в Себу и изучать английский в формате, подходящем её составу.",
+        "direction": "Кто будет заниматься, семья выбирает с учётом своего состава и графика, а занятия строятся на разговорной речи и общении.",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "Занятия с упором на разговорную речь с учётом уровня ребёнка."
+          },
+          {
+            "title": "English for Parents",
+            "description": "Если родители тоже учатся, они осваивают практический английский для быта и путешествий."
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "Жизнь в Себу создаёт возможности для всей семьи пользоваться английским."
+          }
+        ],
+        "familyOptions": [
+          "Занимаются только дети",
+          "Дети + 1 родитель",
+          "Дети + 2 родителя"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "Основные программы SYA, где с упором\nна Speaking & Conversation изучают английский\nдля реальной жизни",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "Три программы\nпод ваши цели в изучении английского",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "Изучайте английский для реальной жизни\nс упором на Speaking & Conversation."
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "Осваивайте практичные выражения и навыки общения,\nкоторые сразу пригодятся в работе и в жизни."
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "Готовьтесь к следующему этапу обучения и учёбе за рубежом,\nобретая уверенность в учёбе и общении на английском."
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "Говорите на английском, выученном в классе,\nиспользуйте его в повседневной жизни Себу\nи обретайте уверенность в языке."
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "Готовы начать изучать английский?"
+    },
+    "campPage": {
+      "description": "Изучайте английский, живите в Себу\nи получайте яркие впечатления вместе.",
+      "consultCta": "Консультация по лагерю",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "Два лагеря, объединяющие английский\nс особыми впечатлениями в Себу",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "Программа, совмещающая изучение английского\nи разнообразные активности в Себу во время каникул",
+          "imageAlt": "Друзья на лодочной прогулке по островам у побережья Себу"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "Семейная программа, где дети и родители вместе живут в Себу,\nоткрывая для себя английский и новые впечатления",
+          "imageAlt": "Дети занимаются на свежем воздухе вместе с преподавателем"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "С упором на Speaking & Conversation"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Реальная жизнь за пределами класса"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Знакомство с природой и культурой Себу"
+          },
+          {
+            "label": "CARE",
+            "text": "Баланс между учёбой и повседневной жизнью"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "Программа английского около 8 часов в день, в основе которой — до 4 часов индивидуальных занятий 1:1, а учёба и повседневная жизнь естественно продолжают друг друга; в центре занятий — разговорная речь"
+          },
+          {
+            "label": "MEALS",
+            "text": "Трёхразовое питание — шведский стол"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Знакомство с природой и культурой Себу"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Время для английского вне класса"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "Спокойный отдых и забота о быте"
+          }
+        ],
+        "note": "Подробное расписание будет опубликовано после утверждения дат лагеря."
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "Комфортное проживание помогает сохранять\nбаланс между учёбой и отдыхом.",
+          "imageAlt": "Номер в BE Pods Lahug"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "Шведский стол 3 раза в день",
+          "description": "Питание для комфортной жизни в лагере.",
+          "imageAlt": "Шведский стол с разнообразными фруктами"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "Дети могут участвовать самостоятельно\nили вместе с родителями.",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "Каникулярный лагерь: летние и зимние каникулы · Семейный лагерь: круглый год · Точные даты — на консультации"
+      },
+      "closingTitle": "Подберите лагерь для вашего ребёнка на консультации.",
+      "closingSummerCta": "Консультация: летний / зимний лагерь",
+      "closingFamilyCta": "Консультация: семейный лагерь",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "Выберите свой опыт в SYA",
+      "includesLabel": "Входящие программы",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "Основные программы SYA, развивающие\nи знание английского, и умение им пользоваться",
+        "imageAlt": "Студенты на разговорном занятии в классе с видом на море"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "Лагерные программы SYA, объединяющие английский\nс жизнью в Себу, активностями и семейным опытом",
+        "imageAlt": "Друзья на лодочной прогулке по островам у побережья Себу"
+      }
+    },
+    "detail": {
+      "pageTitle": "Программы",
+      "pageSubtitle": "Программы английского SYA с упором на разговорную речь — под ваши цели и график",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "Цель программы",
+      "audienceLabel": "Кому подойдёт",
+      "directionLabel": "Подход к обучению",
+      "focusAreasLabel": "Основные направления",
+      "durationLabel": "Продолжительность",
+      "classHoursLabel": "Учебная нагрузка",
+      "openingsLabel": "Даты начала",
+      "timetableLabel": "Распорядок дня",
+      "timetablePending": "Подробное расписание будет опубликовано после его утверждения. Все программы проводятся из расчёта до 4 часов занятий в день.",
+      "timeHeader": "Время",
+      "subjectHeader": "Занятие",
+      "consultTitle": "Заинтересовала эта программа?",
+      "consultDescription": "Мы подберём подходящую программу и продолжительность с учётом ваших целей, графика и состава семьи.",
+      "consultCta": "Консультация по этой программе",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Опыт местной школы (по желанию)",
+        "description": "Дополнительная программа, которая во время изучения английского на Себу позволяет познакомиться со средой и образовательной культурой местной школы и использовать английский в реальной жизни.",
+        "conditionNote": "Возможность участия и сроки зависят от возраста ученика, согласования с местной школой и условий проведения программы и сообщаются на консультации.",
+        "consultCta": "Консультация: знакомство с местной школой"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "Прозрачная стоимость\nобучения в SYA",
+    "description": "Узнайте ориентировочную стоимость по программе и сроку обучения,\nа при необходимости получите индивидуальный расчёт на консультации.",
+    "durationLabel": "Срок обучения",
+    "weeks": {
+      "2": "2 недели",
+      "4": "4 недели",
+      "8": "8 недель",
+      "12": "12 недель"
+    },
+    "tuitionFeeLabel": "Стоимость обучения",
+    "allDurationsLabel": "Стоимость по срокам",
+    "onRequest": "По запросу",
+    "perChild": "За 1 ребёнка",
+    "familyParentNote": "Стоимость для сопровождающих родителей сообщается на консультации.",
+    "notes": [
+      "Указана стоимость обучения; проживание и местные сборы оплачиваются отдельно.",
+      "Текущие цены — начальные ориентиры и могут измениться.",
+      "Позиции с пометкой «По запросу» уточняются на консультации."
+    ],
+    "consultCta": "Индивидуальный расчёт",
+    "calculatorCta": "Рассчитать стоимость"
+  },
+  "estimator": {
+    "title": "Калькулятор стоимости",
+    "subtitle": "Выберите программу, срок, участников и проживание, чтобы увидеть ориентировочную стоимость.",
+    "steps": {
+      "course": "Программа",
+      "duration": "Срок обучения",
+      "participant": "Участники",
+      "stay": "Проживание",
+      "parents": "Сопровождающие родители"
+    },
+    "participantTypes": {
+      "adult": "Взрослый",
+      "student": "Ребёнок / подросток"
+    },
+    "childCountLabel": "Дети",
+    "parentCountLabel": "Родители",
+    "stayOptions": {
+      "included": "С проживанием",
+      "none": "Без проживания"
+    },
+    "stayNote": "Размещение и стоимость проживания сообщаются на консультации.",
+    "summaryTitle": "Ориентировочная стоимость",
+    "lines": {
+      "tuition": "Обучение",
+      "additionalChild": "Дополнительный ребёнок",
+      "parent": "Сопровождающий родитель",
+      "stay": "Проживание",
+      "option": "Дополнительная опция"
+    },
+    "educationSubtotal": "Итого за обучение",
+    "totalLabel": "Ориентировочный итог",
+    "knownTotalLabel": "Сумма подтверждённых позиций",
+    "totalNote": "Позиции «По запросу» не входят в итог. Местные сборы оплачиваются отдельно.",
+    "consultCta": "Консультация с этими параметрами"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "Премиальный отель, где учёба\nи отдых естественно дополняют друг друга",
+    "description": "После дня, посвящённого учёбе,\nможно как следует отдохнуть\nв чистом и уютном пространстве.",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "Лобби-лаунж BE Pods Lahug"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "Спокойный день начинается\nв уютном номере",
+      "description": "Удобные постели и аккуратный номер\nпозволяют полноценно отдохнуть после занятий.",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "Двухместный номер в BE Pods Lahug"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "Среда, где учёба\nи отдых в равновесии",
+      "description": "После занятий можно спокойно завершить день у бассейна с шезлонгами.",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "Бассейн и шезлонги в BE Pods Lahug"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "Бытовые удобства\nна время проживания",
+      "description": "Пространства для повседневных нужд помогают сохранять привычный ритм даже при длительном проживании.",
+      "gym": {
+        "caption": "Fitness",
+        "text": "Пространство для лёгких тренировок и здорового ритма жизни",
+        "alt": "Фитнес-зона BE Pods Lahug"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "Пространство для бытовых удобств при длительном проживании",
+        "alt": "Жилое пространство со стиральной машиной в BE Pods Lahug"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "Один день в BE Pods",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "Бассейн во внутреннем дворе BE Pods Lahug"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "Светлая спальня с большими окнами в BE Pods Lahug"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "Отдых у бассейна"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "В зависимости от наличия номеров в BE Pods может использоваться как дополнительное размещение."
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "И после занятий\nдень остаётся комфортным.",
+      "description": "Не только место, где изучают английский,\nно и место проживания, и повседневная жизнь\nстановятся единым образовательным опытом.",
+      "imageAlt": "Бассейн в BE Pods Lahug"
+    }
+  },
+  "localFees": {
+    "title": "Местные платежи",
+    "subtitle": "SSP, продление визы и расходы на проживание",
+    "heading": "Местные платежи на Филиппинах (Local Fees)",
+    "description": "Это статьи расходов, связанные с пребыванием и жизнью на Филиппинах. Суммы и сроки оплаты зависят от длительности пребывания и графика и сообщаются на консультации.",
+    "columns": {
+      "item": "Статья",
+      "amount": "Сумма",
+      "note": "Пояснение"
+    },
+    "onRequest": "По запросу",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "Учебное разрешение для иностранных студентов, проходящих языковое обучение на Филиппинах"
+      },
+      "visaExtension1": {
+        "name": "Продление визы (пребывание более 30 дней)",
+        "note": "Требуется при пребывании более 30 дней после безвизового въезда"
+      },
+      "visaExtension2": {
+        "name": "Дополнительное продление визы (более 59 дней)",
+        "note": "В зависимости от срока пребывания требуется дополнительное продление"
+      },
+      "acrICard": {
+        "name": "ACR I-Card (регистрационная карта иностранца)",
+        "note": "Регистрационная карта иностранца, необходимая при пребывании от 59 дней"
+      },
+      "accommodationDeposit": {
+        "name": "Депозит за проживание",
+        "note": "Сумма и условия возврата сообщаются на консультации"
+      },
+      "accommodationUtilities": {
+        "name": "Коммунальные услуги (электричество, вода)",
+        "note": "Зависят от места проживания и потребления; сообщаются на консультации"
+      },
+      "courseMaterials": {
+        "name": "Учебные материалы",
+        "note": "Зависят от программы и уровня; сообщаются на консультации"
+      },
+      "airportPickup": {
+        "name": "Трансфер из аэропорта",
+        "note": "Встреча в международном аэропорту Мактан-Себу — порядок и стоимость сообщаются на консультации"
+      }
+    },
+    "depositBox": {
+      "title": "Депозит за проживание",
+      "description": "Сумма и условия возврата депозита за проживание сообщаются на консультации."
+    },
+    "paymentBox": {
+      "title": "Порядок оплаты",
+      "description": "Валюта и сроки оплаты местных платежей сообщаются на консультации с учётом вашего графика."
+    }
+  },
+  "consultation": {
+    "interestsLabel": "Интересующий опыт",
+    "interests": {
+      "cebuMonthStay": "Месяц жизни в Себу",
+      "localSchool": "Знакомство с местной школой"
+    },
+    "noneLabel": "Нет"
+  },
+  "comingSoon": {
+    "badge": "Скоро открытие",
+    "message": "Эта страница сейчас находится в разработке. Скоро мы вернёмся с новым содержанием.",
+    "backHome": "Вернуться на главную"
+  }
+}

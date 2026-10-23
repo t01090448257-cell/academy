@@ -1,0 +1,338 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model accommodation_bookings {
+  id                   BigInt      @id @default(autoincrement())
+  enrollment_id        BigInt
+  hotel_id             BigInt
+  check_in_date        DateTime    @db.Date
+  check_out_date       DateTime    @db.Date
+  nights               Int
+  room_type            String?     @db.VarChar(100)
+  guest_count          Int         @default(1)
+  status               String      @default("reserved") @db.VarChar(30)
+  accommodation_amount Decimal     @default(0) @db.Decimal(12, 2)
+  memo                 String?
+  created_at           DateTime    @default(now()) @db.Timestamptz(6)
+  updated_at           DateTime    @default(now()) @db.Timestamptz(6)
+  enrollments          enrollments @relation(fields: [enrollment_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  hotels               hotels      @relation(fields: [hotel_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([check_in_date, check_out_date], map: "idx_accommodation_dates")
+}
+
+model admin_logs {
+  id            BigInt       @id @default(autoincrement())
+  admin_user_id BigInt?
+  action        String       @db.VarChar(50)
+  table_name    String       @db.VarChar(100)
+  record_id     BigInt?
+  old_data      Json?
+  new_data      Json?
+  ip_address    String?      @db.Inet
+  created_at    DateTime     @default(now()) @db.Timestamptz(6)
+  admin_users   admin_users? @relation(fields: [admin_user_id], references: [id], onUpdate: NoAction)
+
+  @@index([created_at], map: "idx_admin_logs_created")
+}
+
+model app_settings {
+  id                     Int       @id @default(1)
+  academy_name           String    @default("SYA Academy") @db.VarChar(200)
+  contact_phone          String?   @db.VarChar(50)
+  contact_email          String?   @db.VarChar(255)
+  address                String?
+  default_currency       String    @default("KRW") @db.Char(3)
+  default_payment_method String    @default("bank_transfer") @db.VarChar(30)
+  default_enrollment_status String  @default("inquiry") @db.VarChar(30)
+  updated_by_admin_id    BigInt?
+  created_at             DateTime  @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime  @default(now()) @db.Timestamptz(6)
+  updated_by_admin       admin_users? @relation("app_settings_updated_by_admin", fields: [updated_by_admin_id], references: [id], onDelete: SetNull, onUpdate: NoAction)
+
+  @@index([updated_by_admin_id])
+}
+
+model admin_users {
+  id            BigInt          @id @default(autoincrement())
+  username      String          @unique @db.VarChar(100)
+  password_hash String
+  name          String          @db.VarChar(100)
+  email         String?         @db.VarChar(255)
+  role_id       BigInt
+  is_active     Boolean         @default(true)
+  last_login_at DateTime?       @db.Timestamptz(6)
+  created_at    DateTime        @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime        @default(now()) @db.Timestamptz(6)
+  admin_logs           admin_logs[]
+  app_settings_updated app_settings[] @relation("app_settings_updated_by_admin")
+  roles                roles           @relation(fields: [role_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  consultations        consultations[]
+  assigned_enrollments enrollments[]   @relation("enrollment_assigned_admin")
+  received_payments    payments[]      @relation("payment_received_by_admin")
+  processed_refunds    refunds[]       @relation("refund_processed_by_admin")
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model consultations {
+  id                BigInt       @id @default(autoincrement())
+  student_id        BigInt?
+  name              String       @db.VarChar(100)
+  phone             String?      @db.VarChar(30)
+  email             String?      @db.VarChar(255)
+  inquiry_type      String?      @db.VarChar(50)
+  message           String?
+  status            String       @default("new") @db.VarChar(30)
+  assigned_admin_id BigInt?
+  created_at        DateTime     @default(now()) @db.Timestamptz(6)
+  updated_at        DateTime     @default(now()) @db.Timestamptz(6)
+  consulted_at           DateTime? @db.Date
+  result                 String?
+  next_consultation_date DateTime? @db.Date
+  counterpart_type       String    @default("student") @db.VarChar(20)
+  guardian_id            BigInt?
+  source                  String?   @db.VarChar(30)
+  age_group               String?   @db.VarChar(20)
+  /// DB FK: fk_consultations_program_code → programs(code) (Prisma relation은 두지 않음)
+  program_code            String?   @db.VarChar(30)
+  duration_weeks          Int?
+  stay_option             String?   @db.VarChar(30)
+  preferred_start_date    DateTime? @db.Date
+  english_level           String?   @db.VarChar(20)
+  cebu_month_stay         Boolean   @default(false)
+  local_school_experience Boolean   @default(false)
+  locale                  String?   @db.VarChar(10)
+  students          students?    @relation(fields: [student_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  admin_users       admin_users? @relation(fields: [assigned_admin_id], references: [id], onUpdate: NoAction, map: "fk_consultations_assigned_admin")
+  guardians         guardians?   @relation(fields: [guardian_id], references: [id], onDelete: SetNull, onUpdate: NoAction)
+
+  @@index([status], map: "idx_consultations_status")
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model discount_policies {
+  id                   BigInt                 @id @default(autoincrement())
+  code                 String                 @unique @db.VarChar(50)
+  name                 String                 @db.VarChar(100)
+  discount_type        String                 @db.VarChar(20)
+  discount_value       Decimal                @db.Decimal(12, 2)
+  target_type          String                 @db.VarChar(30)
+  max_uses_per_student Int?
+  allow_duplicate      Boolean                @default(false)
+  valid_from           DateTime?              @db.Date
+  valid_until          DateTime?              @db.Date
+  is_active            Boolean                @default(true)
+  created_at           DateTime               @default(now()) @db.Timestamptz(6)
+  updated_at           DateTime               @default(now()) @db.Timestamptz(6)
+  enrollment_discounts enrollment_discounts[]
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model enrollment_discounts {
+  id                 BigInt            @id @default(autoincrement())
+  enrollment_id      BigInt
+  discount_policy_id BigInt
+  discount_amount    Decimal           @db.Decimal(12, 2)
+  created_at         DateTime          @default(now()) @db.Timestamptz(6)
+  discount_policies  discount_policies @relation(fields: [discount_policy_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  enrollments        enrollments       @relation(fields: [enrollment_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@unique([enrollment_id, discount_policy_id])
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model enrollments {
+  id                     BigInt                   @id @default(autoincrement())
+  enrollment_no          String                   @unique @db.VarChar(30)
+  student_id             BigInt
+  program_id             BigInt?
+  program_option_id      BigInt?
+  start_date             DateTime?                @db.Date
+  end_date               DateTime?                @db.Date
+  enrollment_type        String                   @default("program_and_accommodation") @db.VarChar(30)
+  status                 String                   @default("inquiry") @db.VarChar(30)
+  previous_enrollment_id BigInt?
+  base_amount            Decimal                  @default(0) @db.Decimal(12, 2)
+  discount_amount        Decimal                  @default(0) @db.Decimal(12, 2)
+  final_amount           Decimal                  @default(0) @db.Decimal(12, 2)
+  memo                   String?
+  created_at             DateTime                 @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime                 @default(now()) @db.Timestamptz(6)
+  assigned_admin_id      BigInt?
+  accommodation_bookings accommodation_bookings[]
+  enrollment_discounts   enrollment_discounts[]
+  enrollments            enrollments?             @relation("enrollmentsToenrollments", fields: [previous_enrollment_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  other_enrollments      enrollments[]            @relation("enrollmentsToenrollments")
+  programs               programs?                @relation(fields: [program_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  program_options        program_options?         @relation(fields: [program_option_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  students               students                 @relation(fields: [student_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  assigned_admin          admin_users?             @relation("enrollment_assigned_admin", fields: [assigned_admin_id], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  payments               payments[]
+  refunds                refunds[]
+
+  @@index([start_date], map: "idx_enrollments_start_date")
+  @@index([student_id], map: "idx_enrollments_student")
+}
+
+model guardians {
+  id                BigInt              @id @default(autoincrement())
+  name              String              @db.VarChar(100)
+  relationship      String?             @db.VarChar(30)
+  phone             String?             @db.VarChar(30)
+  email             String?             @db.VarChar(255)
+  created_at        DateTime            @default(now()) @db.Timestamptz(6)
+  updated_at        DateTime            @default(now()) @db.Timestamptz(6)
+  student_guardians student_guardians[]
+  consultations     consultations[]
+}
+
+model hotels {
+  id                     BigInt                   @id @default(autoincrement())
+  name                   String                   @db.VarChar(200)
+  address                String?
+  phone                  String?                  @db.VarChar(50)
+  description            String?
+  is_primary             Boolean                  @default(false)
+  is_active              Boolean                  @default(true)
+  created_at             DateTime                 @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime                 @default(now()) @db.Timestamptz(6)
+  accommodation_bookings accommodation_bookings[]
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model payments {
+  id             BigInt      @id @default(autoincrement())
+  enrollment_id  BigInt
+  payment_date   DateTime    @default(now()) @db.Timestamptz(6)
+  amount         Decimal     @db.Decimal(12, 2)
+  payment_method String      @db.VarChar(30)
+  status         String      @default("completed") @db.VarChar(30)
+  payer_name     String?     @db.VarChar(100)
+  transaction_id String?     @db.VarChar(200)
+  memo           String?
+  created_at     DateTime    @default(now()) @db.Timestamptz(6)
+  received_by_admin_id BigInt?
+  received_by_admin admin_users? @relation("payment_received_by_admin", fields: [received_by_admin_id], references: [id], onDelete: SetNull, onUpdate: NoAction)
+  updated_at     DateTime    @default(now()) @db.Timestamptz(6)
+  enrollments    enrollments @relation(fields: [enrollment_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  refunds        refunds[]
+
+  @@index([enrollment_id], map: "idx_payments_enrollment")
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model program_options {
+  id             BigInt           @id @default(autoincrement())
+  program_id     BigInt
+  name           String           @db.VarChar(100)
+  duration_weeks Int
+  description    String?
+  is_active      Boolean          @default(true)
+  /// 홈페이지(연수비용 학비표·맞춤견적서) 표시 여부 — 프로그램별 최대 4개 (API에서 확인)
+  is_public      Boolean          @default(false)
+  /// 홈페이지 표시 순서 (1~99, 작을수록 먼저)
+  display_order  Int?
+  created_at     DateTime         @default(now()) @db.Timestamptz(6)
+  updated_at     DateTime         @default(now()) @db.Timestamptz(6)
+  enrollments    enrollments[]
+  programs       programs         @relation(fields: [program_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  program_prices program_prices[]
+
+  @@unique([program_id, duration_weeks])
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model program_prices {
+  id                BigInt          @id @default(autoincrement())
+  program_option_id BigInt
+  price             Decimal         @db.Decimal(12, 2)
+  currency          String          @default("KRW") @db.Char(3)
+  valid_from        DateTime        @db.Date
+  valid_until       DateTime?       @db.Date
+  is_active         Boolean         @default(true)
+  created_at        DateTime        @default(now()) @db.Timestamptz(6)
+  program_options   program_options @relation(fields: [program_option_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model programs {
+  id              BigInt            @id @default(autoincrement())
+  code            String            @unique @db.VarChar(30)
+  name            String            @db.VarChar(100)
+  description     String?
+  is_active       Boolean           @default(true)
+  created_at      DateTime          @default(now()) @db.Timestamptz(6)
+  updated_at      DateTime          @default(now()) @db.Timestamptz(6)
+  enrollments     enrollments[]
+  program_options program_options[]
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model refunds {
+  id            BigInt      @id @default(autoincrement())
+  payment_id    BigInt?
+  enrollment_id BigInt
+  refund_date   DateTime    @default(now()) @db.Timestamptz(6)
+  refund_amount Decimal     @db.Decimal(12, 2)
+  refund_reason String?
+  refund_method String?     @db.VarChar(30)
+  status        String      @default("requested") @db.VarChar(30)
+  memo          String?
+  created_at    DateTime    @default(now()) @db.Timestamptz(6)
+  enrollments   enrollments @relation(fields: [enrollment_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  payments      payments?   @relation(fields: [payment_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  processed_by_admin_id BigInt?
+  updated_at DateTime @default(now()) @db.Timestamptz(6)
+  processed_by_admin admin_users? @relation("refund_processed_by_admin", fields: [processed_by_admin_id], references: [id], onDelete: SetNull, onUpdate: NoAction)
+
+  @@index([enrollment_id], map: "idx_refunds_enrollment")
+}
+
+model roles {
+  id          BigInt        @id @default(autoincrement())
+  code        String        @unique @db.VarChar(30)
+  name        String        @db.VarChar(100)
+  description String?
+  created_at  DateTime      @default(now()) @db.Timestamptz(6)
+  admin_users admin_users[]
+}
+
+model student_guardians {
+  id          BigInt    @id @default(autoincrement())
+  student_id  BigInt
+  guardian_id BigInt
+  is_primary  Boolean   @default(false)
+  created_at  DateTime  @default(now()) @db.Timestamptz(6)
+  guardians   guardians @relation(fields: [guardian_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  students    students  @relation(fields: [student_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@unique([student_id, guardian_id])
+}
+
+model students {
+  id                BigInt              @id @default(autoincrement())
+  student_no        String?             @unique @db.VarChar(30)
+  name              String              @db.VarChar(100)
+  name_en           String?             @db.VarChar(100)
+  birth_date        DateTime?           @db.Date
+  gender            String?             @db.VarChar(20)
+  nationality       String?             @db.VarChar(50)
+  phone             String?             @db.VarChar(30)
+  email             String?             @db.VarChar(255)
+  status            String              @default("active") @db.VarChar(30)
+  memo              String?
+  created_at        DateTime            @default(now()) @db.Timestamptz(6)
+  updated_at        DateTime            @default(now()) @db.Timestamptz(6)
+  consultations     consultations[]
+  enrollments       enrollments[]
+  student_guardians student_guardians[]
+
+  @@index([name], map: "idx_students_name")
+  @@index([phone], map: "idx_students_phone")
+}

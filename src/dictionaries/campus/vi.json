@@ -1,0 +1,599 @@
+{
+  "page": {
+    "title": "Hướng dẫn cuộc sống tại Philippines",
+    "subtitle": "Hướng dẫn đầy đủ về cuộc sống tại Cebu, giúp bạn yên tâm chuẩn bị từ lúc xuất cảnh đến sinh hoạt tại địa phương",
+    "breakfastComboLabel": "Thực đơn sáng {n}",
+    "difficultyLabel": "Độ khó",
+    "activityImageAlt": "Hoạt động cuối tuần của SYA tại Cebu"
+  },
+  "consultCard": {
+    "title": "Trung tâm tư vấn nhập học & du học",
+    "phoneLabel": "Số điện thoại tư vấn",
+    "kakaoLabel": "Tư vấn qua KakaoTalk",
+    "ctaButton": "Đăng ký tư vấn trực tuyến 1:1 nhanh",
+    "accreditation": "Được TESDA thuộc Bộ Giáo dục Philippines chính thức cấp phép"
+  },
+  "meals": {
+    "sidebarTitle": "Thông tin bữa ăn (3 bữa buffet/ngày)",
+    "heroBadge": "3 bữa buffet kiểu khách sạn mỗi ngày",
+    "heroHeading": "Thực đơn cân bằng dinh dưỡng cho cả vị ngon và sức khỏe",
+    "heroDesc": "Trong khu bếp lớn được quản lý vệ sinh nghiêm ngặt, bếp trưởng chuyên món Hàn cùng đội ngũ đầu bếp địa phương tận tâm phục vụ thực đơn tươi ngon, đa dạng gồm món Hàn, món Philippines và món fusion theo hình thức buffet 3 bữa mỗi ngày.",
+    "timeLabels": {
+      "breakfast": "Bữa sáng (Breakfast)",
+      "lunch": "Bữa trưa (Lunch)",
+      "dinner": "Bữa tối (Dinner)"
+    },
+    "timeValues": {
+      "breakfast": "07:00 - 08:00",
+      "lunch": "12:00 - 13:00",
+      "dinner": "18:00 - 19:00"
+    },
+    "checklist": [
+      "Buffet tự chọn cho cả 3 bữa mỗi ngày",
+      "Ngày món ăn truyền thống thế giới vào thứ Năm hằng tuần",
+      "Trái cây nhiệt đới theo mùa mỗi buổi tối",
+      "Khử trùng bếp định kỳ theo tiêu chuẩn chuyên nghiệp"
+    ],
+    "tabs": {
+      "lunch": "Bữa trưa (buffet trưa) 9 set",
+      "dinner": "Bữa tối (buffet tối) 9 set",
+      "breakfast": "Bữa sáng",
+      "globalDay": "Ngày món ăn truyền thống đa quốc gia",
+      "fruit": "Tráng miệng trái cây nhiệt đới",
+      "weekly": "Thực đơn tuần (ví dụ)"
+    },
+    "lunchGalleryTitle": "Thư viện món tiêu biểu bữa trưa (tổng cộng 9 set)",
+    "lunchGallerySubtitle": "Món chính giàu dinh dưỡng, canh nóng và nhiều món ăn kèm giúp nạp lại năng lượng sau giờ học",
+    "dinnerGalleryTitle": "Thư viện món tiêu biểu bữa tối (tổng cộng 9 set)",
+    "dinnerGallerySubtitle": "Tiệc thịt ba chỉ nướng, thịt heo chiên xù, sườn bò hầm… các món thịt thịnh soạn và trái cây tươi sau một ngày dài",
+    "breakfastHeading": "Bữa sáng nhẹ nhàng, lành mạnh để bắt đầu ngày mới",
+    "breakfastDesc": "Mỗi sáng, bạn có thể tự do lựa chọn theo sở thích: cơm mới nấu với canh nóng, cháo rau dinh dưỡng mềm mịn, quầy bánh mì nướng (bánh mì sandwich, mứt dâu, bơ, phô mai), ngũ cốc bắp với sữa tươi, bánh mì cuộn và trái cây theo mùa để bắt đầu một ngày tràn đầy năng lượng.",
+    "breakfastAlwaysTitle": "Quầy bữa sáng đặc biệt luôn có sẵn mỗi ngày",
+    "globalDayHeading": "Thứ Năm hằng tuần: Traditional Food Day (món đặc biệt giao lưu văn hóa đa quốc gia)",
+    "globalDayDesc": "Phát huy đặc điểm của khuôn viên toàn cầu nơi học viên từ Hàn Quốc, Nhật Bản, Đài Loan, Việt Nam, Mông Cổ, Nga… cùng sinh sống, vào thứ Năm hằng tuần chúng tôi phục vụ buffet đặc biệt với các món ăn truyền thống tiêu biểu của từng quốc gia. Đây là chương trình được yêu thích, nơi học viên nếm thử văn hóa ẩm thực của nhau và tự nhiên trò chuyện bằng tiếng Anh với bạn bè trong bữa ăn.",
+    "globalDayMenuLabel": "Món tiêu biểu",
+    "fruitHeading": "Trái cây nhiệt đới tươi ngon, không giới hạn mỗi ngày",
+    "fruitDesc": "Mỗi tối tại buffet, bạn có thể thưởng thức thỏa thích các loại trái cây tươi đặc sản địa phương có độ ngọt cao như xoài (xoài Carabao), dứa, đu đủ, chuối ngọt và dưa hấu mát lạnh.",
+    "fruitCaptions": [
+      "Xoài Carabao và đu đủ ngọt lịm",
+      "Quầy trái cây tươi theo mùa được cắt sẵn",
+      "Tráng miệng dưa hấu, dứa và chuối"
+    ],
+    "weeklyHeading": "Hướng dẫn thực đơn tuần tiêu chuẩn (ví dụ chu kỳ 1 tuần)",
+    "weeklyNote": "Thực đơn có thể thay đổi tùy theo nguồn cung nguyên liệu",
+    "weeklyDayHeader": "Thứ",
+    "weeklyBreakfastHeader": "Bữa sáng (07:00 - 08:00)",
+    "weeklyLunchHeader": "Bữa trưa (12:00 - 13:00)",
+    "weeklyDinnerHeader": "Bữa tối (18:00 - 19:00)",
+    "safetyHeading": "Nguyên tắc quản lý an toàn chế biến và vệ sinh",
+    "safetyBullets": [
+      "Chỉ sử dụng nước uống và nước nấu ăn an toàn đã qua hệ thống lọc nước dùng cho nấu nướng.",
+      "Dụng cụ bếp như dao, thớt, khăn lau được phân màu riêng cho thịt/hải sản/rau và khử trùng ở nhiệt độ cao.",
+      "Nguyên liệu tươi được nhập vào sáng sớm và sử dụng hết trong ngày theo nguyên tắc.",
+      "Học viên bị dị ứng với thực phẩm nhất định (đậu phộng, giáp xác…) vui lòng báo trước cho quản lý trước khi bắt đầu khóa học để được hướng dẫn thực đơn thay thế."
+    ]
+  },
+  "lunchSets": [
+    {
+      "title": "Set cơm trộn bibimbap truyền thống",
+      "tags": [
+        "#MónHàn",
+        "#GiàuDinhDưỡng",
+        "#MónNgonNhất"
+      ],
+      "desc": "Cơm trộn rau namul, canh tương đậu doenjang đậm đà, kim chi cải thảo, trứng ốp la, trái cây theo mùa"
+    },
+    {
+      "title": "Xiên gà đặc biệt & mì janchi",
+      "tags": [
+        "#MónĐặcBiệt",
+        "#Xiên",
+        "#MónĐượcYêuThích"
+      ],
+      "desc": "Cơm, mì nước nóng, xiên gà nướng BBQ, xiên bánh gạo cay ngọt, kim chi cải thảo, dưa hấu"
+    },
+    {
+      "title": "Cơm jjajang kiểu Hoa & canh chả cá",
+      "tags": [
+        "#FusionHoa",
+        "#BữaĂnNoNê"
+      ],
+      "desc": "Cơm jjajang đậm vị, củ cải xào, kim chi củ cải giòn, canh chả cá nóng, kim chi"
+    },
+    {
+      "title": "Chả thịt dongeurangttaeng tự làm & khoai tây viên",
+      "tags": [
+        "#MónĂnKèmHàn",
+        "#ChiênGiòn"
+      ],
+      "desc": "Cơm, chả thịt dongeurangttaeng đặc biệt, gỏi dưa leo chua ngọt, khoai tây viên chiên giòn, canh giá đỗ thanh mát"
+    },
+    {
+      "title": "Canh bánh gạo sủi cảo nước hầm xương & xiên thập cẩm",
+      "tags": [
+        "#ThựcĐơnThịnhSoạn",
+        "#PhongCáchNgàyLễ"
+      ],
+      "desc": "Cơm, canh bánh gạo sủi cảo nước hầm xương bò, xiên thập cẩm, rau củ chiên thập cẩm, salad trái cây, kim chi"
+    },
+    {
+      "title": "Bò bulgogi niêu đất & sujebi dai mềm",
+      "tags": [
+        "#BòBulgogi",
+        "#CựcKỳĐượcƯaChuộng"
+      ],
+      "desc": "Cơm, bò bulgogi mặn ngọt, khoai tây sợi xào, salad bắp cải tươi, kim chi cải thảo, canh bột xé tay sujebi"
+    },
+    {
+      "title": "Cơm hayashi mềm mịn & miến trộn japchae cung đình",
+      "tags": [
+        "#Japchae",
+        "#CơmHayashi"
+      ],
+      "desc": "Cơm hayashi, canh trứng thanh, miến trộn japchae cung đình với bò và rau, salad cà chua bắp cải, kim chi củ cải"
+    },
+    {
+      "title": "Cơm gà sốt mayo mặn ngọt",
+      "tags": [
+        "#CơmTô",
+        "#ĐầyDinhDưỡng"
+      ],
+      "desc": "Cơm gà sốt mayo, hành tây ngâm chua, canh kim chi cay, salad bắp ngọt, kim chi cải thảo, trái cây theo mùa"
+    },
+    {
+      "title": "Cơm chiên kiểu Hoa & mì jjajang",
+      "tags": [
+        "#NgàyMónHoa",
+        "#MónBánChạy"
+      ],
+      "desc": "Cơm chiên trứng tơi xốp, mì jjajang, củ cải vàng muối, canh trứng hành lá, kim chi cải thảo"
+    }
+  ],
+  "dinnerSets": [
+    {
+      "title": "Set thịt heo chiên xù sốt cà ri tự làm",
+      "tags": [
+        "#ThịtHeoChiênXù",
+        "#CàRiĐặcBiệt"
+      ],
+      "desc": "Cơm, thịt heo chiên xù sốt cà ri tự làm giòn rụm, canh trứng thanh, salad bắp cải, hành tây ngâm, kim chi"
+    },
+    {
+      "title": "Tiệc BBQ thịt ba chỉ nướng than hoa",
+      "tags": [
+        "#ThịtBaChỉ",
+        "#TiệcThịt",
+        "#HàiLòngSố1"
+      ],
+      "desc": "Cơm, thịt ba chỉ nướng vàng, rau cuốn tươi thập cẩm, hành trộn cay, tương ssamjang, canh tương đậu doenjang đậm đà"
+    },
+    {
+      "title": "Sườn bò hầm & miến trộn japchae cung đình",
+      "tags": [
+        "#SườnBò",
+        "#MónBổDưỡng"
+      ],
+      "desc": "Cơm, sườn bò hầm mềm, canh bò củ cải thanh mát, bắp cải luộc cuốn, miến trộn japchae cung đình, kim chi"
+    },
+    {
+      "title": "Thịt heo bulgogi nướng lửa & rau muống xào",
+      "tags": [
+        "#BulgogiNướngLửa",
+        "#RauĐịaPhương"
+      ],
+      "desc": "Cơm, thịt heo bulgogi nướng lửa đậm vị, rau muống (kangkong) xào, hành tây ngâm, canh tương doenjang"
+    },
+    {
+      "title": "Thịt heo xào cay & kim chi trộn tươi giòn",
+      "tags": [
+        "#ThịtHeoXàoCay",
+        "#HươngVịHànQuốc"
+      ],
+      "desc": "Cơm, thịt heo xào cay ngọt, giá đỗ trộn giòn, kim chi cải thảo trộn tươi, canh đậu phụ tương doenjang thanh mát, cà chua"
+    },
+    {
+      "title": "Thịt thăn heo chiên xù & mousse khoai lang",
+      "tags": [
+        "#HeoChiênXùTựLàm",
+        "#TrángMiệngNgọt"
+      ],
+      "desc": "Cơm, thịt thăn heo chiên xù giòn, salad mousse khoai lang ngọt, rau củ xào thập cẩm, canh kim chi cay"
+    },
+    {
+      "title": "Heo chua ngọt bột nếp & canh tương ớt gochujang cay",
+      "tags": [
+        "#HeoChuaNgọtBộtNếp",
+        "#CanhCay"
+      ],
+      "desc": "Cơm, heo chua ngọt bột nếp dai giòn, canh bí ngòi tương ớt gochujang cay nồng, dưa leo trộn, salad cà chua tươi mát"
+    },
+    {
+      "title": "Cá chiên xù giòn & salad bí đỏ",
+      "tags": [
+        "#CáChiênXù",
+        "#SốtTartar"
+      ],
+      "desc": "Cá chiên xù sốt tartar, salad bí đỏ ngọt, kim chi xào cay, canh mực củ cải thanh mát, salad rau xanh"
+    },
+    {
+      "title": "Gà kkanpunggi cay ngọt & khoai lang bọc đường",
+      "tags": [
+        "#Kkanpunggi",
+        "#KhoaiLangBọcĐường"
+      ],
+      "desc": "Cơm, gà rút xương kkanpunggi giòn, khoai lang bọc đường giòn ngoài mềm trong, rong biển trộn chua ngọt, súp nấm mềm mịn, kim chi"
+    }
+  ],
+  "breakfastCombos": [
+    "Cơm, xúc xích, trứng bác, bánh mì nướng, canh trứng, kim chi cải thảo",
+    "Bánh mì nướng, cháo rau, ngũ cốc bắp, sữa tươi, bánh mì cuộn, dưa hấu theo mùa",
+    "Cơm, trứng ốp la, bánh mì nướng, canh giá đỗ thanh mát, kim chi cải thảo, chả cá xào, dứa",
+    "Cháo rau dinh dưỡng, sandwich trứng, bánh mì nướng mứt dâu, ngũ cốc, chuối",
+    "Cơm chiên rau củ, bánh mì nướng bơ, trứng ốp la, xúc xích, canh trứng, kim chi cải thảo, táo",
+    "Cơm cuộn trứng omurice, bánh mì nướng, súp bắp mềm mịn, xúc xích Vienna, kim chi cải thảo",
+    "Club sandwich, bánh mì cuộn mới nướng, ngũ cốc, cháo trắng mềm, sữa, dứa",
+    "Cơm, gà viên chiên giòn, trứng bác, kim chi cải thảo, canh trứng thanh, bánh mì cuộn, táo",
+    "Cơm chiên trứng rau củ, trứng ốp la, xúc xích nướng, kim chi cải thảo, canh giá đỗ, dưa hấu ngọt"
+  ],
+  "breakfastAlways": [
+    "🍞 Bánh mì nướng mới ra lò & bánh mì cuộn (mứt dâu/bơ)",
+    "🥣 Cháo rau dinh dưỡng & cháo trắng",
+    "🥛 2 loại ngũ cốc & sữa tươi",
+    "☕ Cà phê hạt & trà nóng / nước ép"
+  ],
+  "globalDayCountries": [
+    {
+      "name": "Hàn Quốc (Korea)",
+      "desc": "Món Hàn chính gốc mang hương vị nấu của mẹ cùng các món canh hầm cay nồng",
+      "menu": "Bò bulgogi, sườn bò hầm cung đình, canh kim chi, thịt ba chỉ luộc, miến trộn japchae"
+    },
+    {
+      "name": "Trung Quốc (China)",
+      "desc": "Món Hoa chính gốc thơm mùi lửa cùng các món chiên giòn",
+      "menu": "Đậu phụ Tứ Xuyên (mapo), thịt heo chiên sốt chua ngọt guo bao rou, tôm sốt ớt, cơm chiên Dương Châu"
+    },
+    {
+      "name": "Nhật Bản (Japan)",
+      "desc": "Cơm tô và cà ri kiểu gia đình Nhật thanh nhẹ mà đậm đà",
+      "menu": "Tonkatsu, katsudon, cà ri bò Nhật đậm vị, yakisoba, súp miso"
+    },
+    {
+      "name": "Đài Loan (Taiwan)",
+      "desc": "Các món thịt đậm đà tái hiện hương vị chợ đêm Đài Loan",
+      "menu": "Lu rou fan (cơm thịt heo kho), mì bò kiểu Đài Loan, gà chiên ji pai"
+    },
+    {
+      "name": "Việt Nam (Vietnam)",
+      "desc": "Các món ăn tiêu biểu của Việt Nam với rau thơm tươi và nước dùng trong, đậm vị",
+      "menu": "Phở bò, gỏi cuốn, bún chả, bánh mì"
+    },
+    {
+      "name": "Philippines",
+      "desc": "BBQ mặn ngọt và những món ăn dân dã tiêu biểu của Philippines",
+      "menu": "Gà adobo (Adobo), xiên nướng BBQ, sisig (Sisig), rau muống kangkong"
+    },
+    {
+      "name": "Thái Lan (Thailand)",
+      "desc": "Món Thái tuyệt hảo với sự hòa quyện của gia vị chua, ngọt và cay",
+      "menu": "Pad Thai, cà ri cua pu pad pong, cơm chiên dứa, tom yum"
+    },
+    {
+      "name": "Mông Cổ (Mongolia)",
+      "desc": "Các món thịt mọng nước và bánh bao kiểu Mông Cổ no bụng",
+      "menu": "Khuushuur (bánh nhân thịt chiên), buuz, bít tết bò kiểu Mông Cổ"
+    },
+    {
+      "name": "Nga (Russia)",
+      "desc": "Súp và món thịt chính gốc Nga ấm áp, no nê",
+      "menu": "Bò stroganoff, súp củ dền borscht, bánh kếp blini"
+    }
+  ],
+  "weeklyTable": [
+    {
+      "day": "Thứ Hai",
+      "breakfast": "Cơm chiên rau củ, canh trứng, xúc xích, bánh mì nướng, kim chi, dưa hấu",
+      "lunch": "Cơm trộn rau namul truyền thống, canh tương doenjang, bánh kim chi, trứng ốp la, táo",
+      "dinner": "Thịt thăn heo chiên xù tự làm, súp, salad bắp cải, kim chi, xoài"
+    },
+    {
+      "day": "Thứ Ba",
+      "breakfast": "Cơm, trứng bác, canh giá đỗ, bánh mì cuộn, ngũ cốc, chuối",
+      "lunch": "Bò bulgogi, canh sujebi thanh, khoai tây kho, kim chi, kim chi trộn tươi",
+      "dinner": "BBQ thịt ba chỉ nướng than hoa, rau cuốn thập cẩm, hành trộn, canh tương doenjang, dứa"
+    },
+    {
+      "day": "Thứ Tư",
+      "breakfast": "Cháo bò rau củ dinh dưỡng, sandwich trứng, sữa, bánh mì nướng mứt, táo",
+      "lunch": "Cơm jjajang kiểu Hoa, canh chả cá nóng, sủi cảo chiên sốt chua ngọt, củ cải vàng muối, kim chi củ cải",
+      "dinner": "Thịt heo xào cay, canh đậu phụ tương doenjang, giá đỗ trộn, rau cuốn thập cẩm, đu đủ"
+    },
+    {
+      "day": "Thứ Năm",
+      "breakfast": "Cơm, gà viên chiên, trứng ốp la, bánh mì nướng, canh kim chi, dưa hấu",
+      "lunch": "Cơm gà sốt mayo, canh udon thanh, salad bắp, kim chi củ cải, trái cây",
+      "dinner": "[Global Day] Phở bò Việt Nam & gỏi cuốn, tráng miệng xoài"
+    },
+    {
+      "day": "Thứ Sáu",
+      "breakfast": "Cơm cuộn trứng omurice, súp bắp, xúc xích Vienna, bánh mì cuộn, dứa",
+      "lunch": "Canh bánh gạo sủi cảo nước hầm xương, xiên thập cẩm, đồ chiên thập cẩm, kim chi trộn tươi, kim chi",
+      "dinner": "Gà rút xương kkanpunggi giòn, khoai lang bọc đường, canh trứng hành lá, salad, chuối"
+    },
+    {
+      "day": "Thứ Bảy",
+      "breakfast": "Brunch cuối tuần (bánh pancake, xúc xích, thịt xông khói, trứng bác, cà phê)",
+      "lunch": "Cơm hayashi, thịt heo chiên xù mini, miến trộn japchae, salad bắp cải, kim chi",
+      "dinner": "Sườn bò hầm cung đình, canh bò củ cải, miến trộn japchae, kim chi cải thảo, trái cây theo mùa"
+    },
+    {
+      "day": "Chủ Nhật",
+      "breakfast": "Brunch cuối tuần (club sandwich, ngũ cốc, nước ép trái cây, bánh mì cuộn)",
+      "lunch": "Mì janchi, xiên gà nướng BBQ, xiên bánh gạo, kim chi, dưa hấu",
+      "dinner": "Set cá chiên xù, sốt tartar, salad bí đỏ, kim chi xào, xoài"
+    }
+  ],
+  "activities": {
+    "sidebarTitle": "Hoạt động (tour cuối tuần ở Cebu)",
+    "heroBadge": "Chương trình hoạt động cuối tuần & sau giờ học",
+    "heroHeading": "Trong tuần học tập tập trung, cuối tuần phiêu lưu khó quên tại Cebu",
+    "heroDesc": "Thông qua các hoạt động, bạn sẽ giải tỏa căng thẳng học tập tích tụ trong tuần, đồng thời sử dụng tiếng Anh thực tế cùng bạn bè đa quốc gia và tạo nên những kỷ niệm đáng nhớ suốt đời.",
+    "heroBoxLabel": "Hoạt động định kỳ",
+    "heroBoxValue": "Tổ chức mỗi cuối tuần",
+    "heroBoxNote": "Đăng ký tại quầy thông tin của trường",
+    "checklist": [
+      "Quản lý người Hàn Quốc đi cùng và chăm sóc riêng",
+      "Di chuyển khứ hồi bằng xe van đưa đón riêng của trường",
+      "Quay chụp dưới nước bằng GoPro và gửi ảnh",
+      "Giao tiếp tiếng Anh thực tế với bạn bè đa quốc gia"
+    ],
+    "filters": {
+      "all": "Xem tất cả (8 tour)",
+      "marine": "Giải trí biển & vượt thác",
+      "history": "Lịch sử Cebu & văn hóa thành phố",
+      "waterpark": "Công viên nước & hoạt động trong nhà"
+    },
+    "galleryLabel": "Ảnh thực tế tại chỗ (nhấn để phóng to)",
+    "highlightsLabel": "Điểm nổi bật của tour",
+    "scheduleLabel": "Lịch trình & đặt chỗ",
+    "applyLabel": "Đăng ký",
+    "applyValue": "Quầy thông tin tầng 1 của trường",
+    "minGroupLabel": "Số người tối thiểu",
+    "minGroupValue": "Từ 4 người trở lên",
+    "safetyHeading": "An toàn và lưu ý dành cho người tham gia hoạt động",
+    "safetyBullets": [
+      "Bắt buộc mặc áo phao và đội mũ bảo hiểm trong tất cả các hoạt động biển/mạo hiểm.",
+      "Khi thời tiết xấu hoặc có bão, lịch trình sẽ được hoãn hoặc hoàn tiền để đảm bảo an toàn cho học viên.",
+      "Vui lòng kiểm tra kỹ việc đã tham gia bảo hiểm du lịch nước ngoài trước khi khởi hành tour.",
+      "Học viên phải tuân thủ nghiêm giờ tập trung và giờ quay về đã quy định; việc tách đoàn riêng lẻ bị hạn chế nghiêm ngặt."
+    ]
+  },
+  "tours": [
+    {
+      "difficulty": "Trung bình",
+      "title": "Tour ngắm cá mập voi Oslob",
+      "location": "Oslob, phía nam Cebu (khoảng 3 giờ bằng xe của trường)",
+      "duration": "Tour trong ngày (khởi hành 04:00 sáng – về lúc 16:00 chiều)",
+      "desc": "Tour được tổ chức tại Oslob, cách trung tâm Cebu hoặc khu vực Mactan khoảng 3 giờ đi xe. Vừa lặn ống thở giữa làn nước xanh ngọc lục bảo, vừa quan sát ngay bên cạnh những chú cá mập voi khổng lồ dài 5–10m — hoạt động đặc trưng tiêu biểu khó có thể trải nghiệm ở bất cứ nơi nào khác trên thế giới.",
+      "highlights": [
+        "Lặn ống thở cận cảnh cá mập voi hoang dã hiếm có trên thế giới",
+        "Kết hợp tham quan thác Tumalog (Tumalog) tuyệt đẹp, nơi được cho là nguồn cảm hứng của phim Avatar",
+        "Bao gồm quay chụp dưới nước chuyên trách bằng máy quay chống nước (GoPro)",
+        "Có quản lý người Hàn Quốc dẫn đoàn và di chuyển bằng xe van máy lạnh riêng"
+      ],
+      "schedule": "Tổ chức cách tuần vào thứ Bảy hoặc Chủ Nhật / Đăng ký tại văn phòng trường trước 3 ngày"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Tour đảo (island hopping) & lặn ống thở",
+      "location": "Công viên quốc gia biển Mactan (đảo Hilutungan, đảo Nalusuan)",
+      "duration": "Tour trong ngày (khởi hành 09:00 sáng – về lúc 15:30 chiều)",
+      "desc": "Hoạt động giải trí biển được yêu thích nhất tại Cebu, nơi có thiên nhiên tuyệt đẹp và làn nước xanh ngọc trong vắt. Học viên đi thuyền bangka truyền thống của Philippines ra vùng biển trong lành để ngắm đàn cá nhiệt đới và rạn san hô đủ màu sắc, rồi thưởng thức tiệc BBQ hải sản thịnh soạn cùng trái cây nhiệt đới ngay trên thuyền.",
+      "highlights": [
+        "Lặn ống thở ngắm hàng nghìn con cá nhiệt đới trong khu bảo tồn biển",
+        "Bữa trưa trên thuyền với sườn nướng than hoa và hải sản tôm sú tươi",
+        "Trải nghiệm câu cá bằng dây trên thuyền và chụp ảnh đẹp tại bãi cát xanh ngọc",
+        "Người mới cũng an toàn nhờ trợ lý địa phương chăm sóc dưới nước 1:1"
+      ],
+      "schedule": "Tổ chức định kỳ vào thứ Bảy hằng tuần / Mọi lứa tuổi đều có thể tham gia"
+    },
+    {
+      "difficulty": "Mạo hiểm",
+      "title": "Vượt thác mạo hiểm Kawasan (canyoneering)",
+      "location": "Thác Kawasan, Badian (khoảng 3 giờ 30 phút bằng xe của trường)",
+      "duration": "Tour trong ngày (khởi hành 05:30 sáng – về lúc 18:00 tối)",
+      "desc": "Cuộc phiêu lưu mạo hiểm đầy sôi động tại thác Kawasan, cách trung tâm Cebu khoảng 4 giờ. Là một trong 3 địa điểm canyoneering nổi tiếng nhất thế giới, bạn sẽ nhảy thác, leo vách đá và trượt tự nhiên theo dòng nước chảy qua những hẻm núi nguyên sơ kỳ vĩ, tận hưởng nguồn năng lượng nguyên sơ của thiên nhiên.",
+      "highlights": [
+        "Nhảy vách đá theo từng cấp độ 3m–12m trên một trong 3 cung canyoneering hàng đầu thế giới",
+        "Trượt nước và thả trôi theo dòng trong hẻm núi tự nhiên",
+        "Mũ bảo hiểm, áo phao và 2 hướng dẫn viên địa phương chuyên nghiệp đi kèm sát sao",
+        "Ngắm thác Kawasan 3 tầng xanh ngọc và dùng bữa buffet địa phương"
+      ],
+      "schedule": "Dành cho học viên từ đủ 12 tuổi trở lên / Bắt buộc mang giày đi nước và áo rash guard"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Pháo đài San Pedro & tour di sản",
+      "location": "Trung tâm thành phố Cebu (20 phút bằng xe của trường)",
+      "duration": "Tour nửa ngày (khởi hành 13:30 chiều – về lúc 17:00)",
+      "desc": "Được xây dựng năm 1565, pháo đài San Pedro là pháo đài đá hình tam giác lâu đời nhất Philippines. Nơi đây từng là căn cứ của phong trào độc lập Cebu cuối thời thuộc địa Tây Ban Nha, doanh trại quân đội Mỹ thời thuộc địa Mỹ và trại giam tù binh thời Nhật chiếm đóng — một di sản văn hóa lâu đời phản ánh trọn vẹn lịch sử cận hiện đại của Philippines.",
+      "highlights": [
+        "Kiến trúc quân sự Phục hưng Tây Ban Nha và tường thành đá cổ kính",
+        "Tham quan bảo tàng hiện vật lịch sử Cebu và phòng trưng bày tư liệu cổ",
+        "Chụp ảnh đầy cảm xúc trong khu vườn kiểu Tây Ban Nha yên tĩnh",
+        "Dạo bộ khám phá văn hóa trên phố Colon truyền thống ở trung tâm Cebu"
+      ],
+      "schedule": "Tour dạo phố nhẹ nhàng sau giờ học ngày thường hoặc chiều Chủ Nhật"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Thánh giá Magellan & Vương cung thánh đường Santo Niño",
+      "location": "Quảng trường trước Tòa thị chính Cebu (20 phút bằng xe của trường)",
+      "duration": "Tour nửa ngày (khởi hành 13:30 chiều – về lúc 17:30)",
+      "desc": "Đây là cây thánh giá đầu tiên do nhà hàng hải người Bồ Đào Nha Magellan dựng lên khi đặt chân đến Philippines năm 1521 trong chuyến đi vòng quanh thế giới. Nhờ truyền thuyết mang lại phép màu, nơi đây thu hút rất nhiều khách hành hương; cây thánh giá được bọc bằng gỗ tindalo để tránh hư hại. Cùng với Vương cung thánh đường Santo Niño nổi tiếng với tượng Chúa Hài Đồng ngay bên cạnh, nơi này được xem là thánh địa đức tin của Philippines.",
+      "highlights": [
+        "Di tích lịch sử được UNESCO ghi nhận, khởi điểm của công cuộc truyền giáo Công giáo tại Philippines",
+        "Ngắm bức bích họa thế kỷ 16 về cuộc đổ bộ của Magellan được lưu giữ trên trần đình bát giác",
+        "Trải nghiệm nghi thức cầu nguyện thắp nến truyền thống (vũ công Sinulog) cầu sức khỏe và trường thọ",
+        "Hành hương bên trong Vương cung thánh đường Santo Niño với lịch sử 450 năm"
+      ],
+      "schedule": "Nằm ở trung tâm thành phố nên được kết hợp với mua sắm tại Ayala Mall"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Tour điểm nhấn thành phố & di sản Cebu",
+      "location": "Khắp nội thành Cebu + vùng lân cận (di chuyển bằng xe của trường)",
+      "duration": "Tour cả ngày (khởi hành 09:00 sáng – về lúc 19:00 tối)",
+      "desc": "Tour thành phố tham quan các danh thắng tiêu biểu ở trung tâm và vùng ven Cebu trong một ngày. Từ không khí địa phương sôi động của chợ truyền thống đến thánh địa hành hương hùng vĩ và điểm ngắm cảnh đêm nhìn toàn cảnh thành phố Cebu — bạn có thể trải nghiệm nhiều gương mặt đa dạng của Cebu.",
+      "highlights": [
+        "Khám phá chợ truyền thống địa phương tại chợ Carbon (Carbon Market)",
+        "Hành hương tại đền Simala (Simala Shrine) với kiến trúc vàng óng ấn tượng",
+        "Chiêm ngưỡng kiến trúc kiểu Hy Lạp hùng vĩ của đền Leah (Temple of Leah)",
+        "Ngắm hoàng hôn & cảnh đêm thành phố Cebu từ đài quan sát Tops Cebu (Tops Cebu)"
+      ],
+      "schedule": "Tổ chức định kỳ 1–2 lần mỗi tháng / Sắp xếp thành tour cả ngày do quãng đường di chuyển"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Công viên nước Cebu Water World",
+      "location": "Thành phố Mandaue (khoảng 15 phút bằng xe của trường)",
+      "duration": "Nửa ngày hoặc cả ngày (khởi hành 10:00 sáng – về lúc 16:30 chiều)",
+      "desc": "Công viên nước lớn nhất Cebu và được yêu thích nhất, nằm gần khuôn viên trường. Với 10 máng trượt nước mạo hiểm siêu lớn, nhiều trò chơi, dòng sông lười dài 200 mét thư thái và hồ tạo sóng nhân tạo cùng nhiều điểm vui chơi khác, đây là nơi lý tưởng để xả stress cùng bạn bè vào cuối tuần.",
+      "highlights": [
+        "10 máng trượt nước tốc độ cao siêu lớn đầy cảm giác mạnh",
+        "Dòng sông lười (Lazy River) dài 200 mét và hồ tạo sóng cỡ lớn",
+        "Khu vui chơi nước dành riêng cho trẻ em",
+        "Chỉ cách khuôn viên trường 15 phút, di chuyển gần và nhẹ nhàng"
+      ],
+      "schedule": "Mở cửa thường xuyên vào cuối tuần / Giảm giá nhóm đặc biệt khi xuất trình thẻ học viên"
+    },
+    {
+      "difficulty": "Dễ",
+      "title": "Sân trượt băng SM Seaside",
+      "location": "Tầng 3, SM Seaside City Cebu (khoảng 20 phút bằng xe của trường)",
+      "duration": "Tour nửa ngày (khởi hành 13:00 chiều – về lúc 17:00)",
+      "desc": "Sân băng đạt chuẩn Olympic duy nhất khu vực Visayas – Mindanao, nơi bạn có thể vui chơi mát lạnh giữa thời tiết nóng bức của Philippines. Dù lần đầu trượt băng, ai cũng có thể an toàn tận hưởng trên mặt băng nhờ dụng cụ hỗ trợ hình gấu Bắc Cực và huấn luyện viên riêng — một hoạt động trong nhà rất được yêu thích.",
+      "highlights": [
+        "Sân băng chuẩn Olympic (30×60m) duy nhất khu vực Visayas – Mindanao",
+        "Dụng cụ hỗ trợ hình gấu Bắc Cực và huấn luyện viên trượt băng cho người mới",
+        "Cơ sở trong nhà máy lạnh mạnh, thoải mái không lo nóng",
+        "Nằm trong SM Seaside Mall nên dễ dàng kết hợp mua sắm và ăn uống"
+      ],
+      "schedule": "Tổ chức chiều Chủ Nhật cách tuần / Bao gồm thuê giày trượt"
+    }
+  ],
+  "visa": {
+    "sidebarTitle": "Hướng dẫn cấp visa & SSP",
+    "heading": "Tổng hợp giấy tờ bắt buộc khi du học Philippines (SSP & visa)",
+    "items": [
+      {
+        "title": "1. SSP (Special Study Permit) - Giấy phép học tập đặc biệt",
+        "desc": "Theo luật của Cục Di trú Philippines, đây là giấy phép chính thức mà người nước ngoài nhập cảnh bằng visa du lịch bắt buộc phải có để học ngoại ngữ hợp pháp. Bất kể thời gian khóa học, trường sẽ làm thủ tục cấp thay cho học viên trong tuần đầu tiên sau khi đến Philippines; thời hạn hiệu lực là 6 tháng. (Chi phí: 6,800 PHP)"
+      },
+      {
+        "title": "2. Nhập cảnh miễn visa 30 ngày & gia hạn visa lưu trú",
+        "desc": "Công dân mang quốc tịch Hàn Quốc được tự động miễn visa 30 ngày khi nhập cảnh Philippines. Học viên lưu trú trên 4 tuần (8/12/16 tuần…) phải gia hạn visa theo từng đợt 30 ngày thông qua Cục Di trú Philippines; mọi thủ tục gia hạn đều do phòng hành chính của trường Anh ngữ SYA thực hiện thay, nên học viên không cần tự đến Cục Di trú."
+      },
+      {
+        "title": "3. ACR I-Card (thẻ đăng ký người nước ngoài)",
+        "desc": "Thẻ nhận dạng bắt buộc cấp cho mọi người nước ngoài lưu trú tại Philippines từ 59 ngày trở lên (thời điểm gia hạn lần 2 đối với học viên khóa 8 tuần). Mỗi lần cấp có hiệu lực 1 năm. (Chi phí: 3,500 PHP)"
+      }
+    ],
+    "warning": "Cảnh báo visa khi chuyên cần dưới 80%: Theo quy định của Cục Di trú Philippines, nếu tỷ lệ chuyên cần tại trường Anh ngữ chính quy dưới 80%, giấy phép SSP có thể bị hủy. SYA theo dõi chặt chẽ tình hình chuyên cần thông qua hệ thống quản lý học vụ."
+  },
+  "pickup": {
+    "sidebarTitle": "Hướng dẫn đón sân bay an toàn",
+    "heading": "Hướng dẫn khi đến sân bay & đón an toàn",
+    "cards": [
+      {
+        "tag": "Đón tại sân bay quốc tế Mactan-Cebu (CEB) — ga quốc tế",
+        "title": "Nhân viên cầm bảng SYA chờ trước cửa đến",
+        "bullets": [
+          "Sau khi nhận hành lý và ra cửa ga quốc tế, nhân viên cầm bảng SYA sẽ chờ bạn.",
+          "Nhân viên người Hàn Quốc hoặc tài xế riêng sẽ đưa bạn đến xe đón chuyên dụng một cách an toàn.",
+          "Từ sân bay đến khuôn viên SYA tại Cebu mất khoảng 25–30 phút."
+        ]
+      },
+      {
+        "tag": "Đón khi đến bằng chuyến bay nối nội địa",
+        "title": "Điểm hẹn tại cửa ra ga nội địa nhà ga số 1",
+        "bullets": [
+          "Khi đến bằng chuyến bay nội địa quá cảnh qua Manila…, chúng tôi sẽ chờ tại địa điểm đã hẹn trước cửa ga nội địa.",
+          "Nếu bạn báo trước số hiệu chuyến bay và thời gian nối chuyến qua KakaoTalk, chúng tôi sẽ chờ theo đúng lịch.",
+          "Kể cả khi đến vào đêm khuya hoặc sáng sớm, chúng tôi vẫn hướng dẫn nhận phòng ký túc xá an toàn 24 giờ."
+        ]
+      }
+    ],
+    "hotlineTitle": "Đường dây nóng đón sân bay khẩn cấp 24 giờ",
+    "hotlineDesc": "Khi chuyến bay bị trễ hoặc hủy, hãy nhắn ngay cho chúng tôi qua kênh KakaoTalk SYA_ACADEMY hoặc số liên lạc khẩn cấp. Chúng tôi sẽ kiểm tra lịch bay theo thời gian thực và đón bạn suôn sẻ dù chuyến bay bị trễ."
+  },
+  "localLife": {
+    "sidebarTitle": "Thông tin sinh hoạt & vật giá tại địa phương",
+    "heading": "Hướng dẫn chi phí sinh hoạt & tiền tiêu vặt tại Philippines",
+    "cards": [
+      {
+        "label": "Tiền tiêu vặt khuyến nghị mỗi tháng (gồm cuối tuần)",
+        "value": "₩300,000 - ₩500,000",
+        "note": "Cà phê, ăn ngoài, mua sắm, massage…"
+      },
+      {
+        "label": "Mẹo đổi tiền",
+        "value": "Travelog / Travel Wallet",
+        "note": "Rút peso ngay tại ATM địa phương"
+      },
+      {
+        "label": "Liên lạc tại địa phương (dữ liệu)",
+        "value": "Globe / Smart eSIM",
+        "note": "Dữ liệu không giới hạn ₩10,000-20,000/tháng"
+      }
+    ],
+    "bullets": [
+      "Ký túc xá cung cấp 3 bữa ăn: Cả ngày thường lẫn cuối tuần đều được phục vụ miễn phí 3 bữa buffet món Hàn mỗi ngày, nên tiền tiêu vặt cá nhân chủ yếu chỉ dùng cho hoạt động cuối tuần (tour đảo, massage, cà phê) hoặc mua đồ dùng cá nhân.",
+      "Dịch vụ y tế tại địa phương: Ngay gần trường có các bệnh viện đa khoa lớn của Cebu (Chong Hua Hospital, UC Med) và phòng khám có thể khám bằng tiếng Hàn; nếu tham gia bảo hiểm du học sinh nước ngoài trước khi xuất cảnh, bạn có thể yêu cầu bảo hiểm chi trả toàn bộ chi phí khám chữa bệnh."
+    ]
+  },
+  "packing": {
+    "sidebarTitle": "Danh sách đồ cần chuẩn bị khi xuất cảnh",
+    "heading": "Danh sách kiểm tra đồ cần thiết trước khi xuất cảnh",
+    "categories": [
+      {
+        "title": "Giấy tờ bắt buộc phải mang theo",
+        "items": [
+          "Hộ chiếu (bắt buộc còn hạn từ 6 tháng trở lên tính từ ngày xuất cảnh)",
+          "Vé máy bay điện tử khứ hồi (bắt buộc có chuyến về hoặc chuyến đi nước thứ ba)",
+          "Ảnh chụp màn hình mã QR đã hoàn tất đăng ký e-Travel Philippines",
+          "Giấy chứng nhận bảo hiểm du lịch/du học sinh nước ngoài bằng tiếng Anh",
+          "5 ảnh thẻ cỡ hộ chiếu (dùng cho SSP và gia hạn visa)"
+        ]
+      },
+      {
+        "title": "Thiết bị điện tử & đồ dùng học tập",
+        "items": [
+          "Laptop hoặc máy tính bảng & bộ sạc (cho lớp 1:1 và bài tập)",
+          "Tai nghe có dây (để luyện nghe và ghi âm phát âm)",
+          "Phích chuyển đổi 110V chân dẹt (loại A, 2 chân) & ổ cắm nối dài",
+          "Sạc dự phòng (bắt buộc mang theo hành lý xách tay)",
+          "Dụng cụ ghi chép cá nhân và sổ từ vựng"
+        ]
+      },
+      {
+        "title": "Quần áo & đồ vệ sinh cá nhân",
+        "items": [
+          "Quần áo mùa hè (áo ngắn tay, quần short, đồ linen…)",
+          "Áo cardigan/áo hoodie dài tay mỏng (phòng học có máy lạnh)",
+          "Đồ bơi, áo rash guard, giày đi nước (cho hoạt động cuối tuần)",
+          "Bộ lọc nước gỉ cho vòi sen (khuyến nghị cho người có da nhạy cảm)",
+          "Kem chống nắng, kính râm, mũ"
+        ]
+      },
+      {
+        "title": "Thuốc dự phòng & tài chính",
+        "items": [
+          "Thuốc thông dụng (thuốc cầm tiêu chảy, thuốc tiêu hóa, thuốc đau đầu, thuốc cảm, băng dán, thuốc chống muỗi)",
+          "Thẻ ghi nợ quốc tế Travelog/Travel Wallet",
+          "Đô la Mỹ dự phòng (tờ $100 mới) hoặc một ít peso",
+          "Thuốc kê đơn cá nhân đang dùng thường xuyên và đơn thuốc bằng tiếng Anh"
+        ]
+      }
+    ]
+  }
+}

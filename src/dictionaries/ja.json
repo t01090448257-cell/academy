@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "学院紹介",
+    "programs": "教育課程",
+    "campus": "フィリピン生活ガイド",
+    "services": "学費・寮費案内",
+    "admission": "入学案内",
+    "community": "コミュニティ"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "あなたの目標に合わせたセブ最高の英語イマージョンコース",
+    "ctaConsult": "カカオトーク / オンライン相談",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "セブから始まる、",
+    "headlineLine2": "本物の英語への変化",
+    "accent": "Speaking & Conversation",
+    "description": "スピーキングと会話を中心に学び、\n日常生活や現地の学校で英語を使うプレミアム英語教育。",
+    "ctaPrimary": "相談を申し込む",
+    "ctaPrograms": "コースを見る",
+    "ctaCost": "留学費用を確認する",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "5歳のお子様から大人まで"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "2・4・8・12週間のオーダーメイド留学"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "毎月2回 正規クラス開講"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "1日最大4時間の1:1マンツーマン授業を中心に、学習と生活が自然につながる1日約8時間の英語プログラム"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "ヤシの木とプールのあるセブのSYAリゾート型キャンパス"
+  },
+  "langSwitcher": {
+    "label": "言語選択"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "SYAならではのプレミアム英語教育",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "話すことを中心にした英語教育",
+        "description": "文法や問題演習にとどまらず、実際に聞いて話し、英語を使う力を育てます。"
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "教室の外でも続く英語",
+        "description": "セブでの日常と現地の学校の授業への参加を通して、学んだ英語を実際の場面で活用します。"
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "学びと生活が調和するプレミアムな環境",
+        "description": "快適な宿泊施設とくつろげる生活環境のもと、学習と休息のバランスがとれた留学環境を提供します。"
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "セブで1か月暮らし、\n本物の英語を体験しよう。",
+    "description": [
+      "英会話の学習とセブでの生活を\nひとつの体験としてつなげます。",
+      "大人から学生、お子様まで\nそれぞれの目的と日程に合わせてプログラムを選び、\n授業と実際の生活の中で英語を体験できます。"
+    ],
+    "audienceNote": "大人からお子様、ご家族まで、それぞれの目的に合ったプログラムをご相談いただけます。",
+    "consultCta": "セブ1か月滞在について相談する",
+    "image": {
+      "alt": "セブの海でアイランドホッピングを楽しむ様子",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "話すことが中心の英語",
+        "description": "スピーキングと会話を中心に学び、\n学んだ英語を実際の生活の中で活用します。"
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "生活の中で英語を体験する",
+        "description": "教室で学んだ英語を超えて、\nセブの日常とさまざまな生活環境の中で\n実際に英語を使う経験を提供します。"
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "現地の私立学校を直接体験する",
+        "description": "学校側との協議に基づき、\n現地私立学校の実際の教育環境を体験できる\n特別な教育の機会を提供します。"
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "現地学校体験",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "セブで英語を学びながら、\n現地の学校環境や教育文化を体験し、\n実際の生活の中で英語を使う機会を提供します。",
+      "conditionNote": "実際の参加可否や日程は、現地学校との協議およびプログラムの運営条件に応じてご案内します。",
+      "imageAlt": "現地の学校の教室で先生と生徒たちが一緒に授業をしている様子"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "目標とスケジュールに合わせて選べる\nSYAプレミアム英語プログラム",
+    "subtitle": "スピーキングと会話を中心に、お子様から大人まで2・4・8・12週間の日程に合わせてお選びいただけます。",
+    "viewAll": "すべてのコースを見る",
+    "learnMore": "詳しく見る",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2週間 · 4週間 · 8週間 · 12週間"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "1日最大4時間の1:1マンツーマン授業を中心に、学習と生活が自然につながる1日約8時間の英語プログラム"
+    },
+    "audienceLabel": "対象",
+    "familyOptionsLabel": "家族構成",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "レギュラーコース",
+        "description": "スピーキングと会話を中心に、実践的な英語運用力を伸ばす正規英語コースです。",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "毎月2回開講 · 第1・第3月曜日"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "キャンプコース",
+        "description": "長期休暇やご家族での滞在目的に合わせ、英語学習と生活を一緒に体験するプログラムです。"
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "インテンシブESL",
+        "summary": "スピーキングと会話を中心に、聞く力と話す力のバランスを整え、一人ひとりのレベルに合わせて実践的な英語力を集中的に高めます。",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "基礎的な会話から自然なコミュニケーションまで、実践的な英語力を身につけたい学生・社会人",
+        "purpose": "スピーキングと会話中心の授業で、実際の場面で自信を持って英語を使う力を育てます。",
+        "direction": "一人ひとりのレベルを把握して聞く・話すのバランスを整え、実際の会話ですぐに使える表現を繰り返し練習します。",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "日常やさまざまなテーマの会話を通して、話す自信と流暢さを育てます。"
+          },
+          {
+            "title": "Listening",
+            "description": "自然なスピードの英語を聞き取り、会話に自然に反応する力を身につけます。"
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "一人ひとりのレベルと目標に合わせて、学習内容とペースを調整します。"
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "ビジネス実務英語",
+        "summary": "会議、メール、プレゼンテーションなど実際の業務の場面で、自信を持って英語でコミュニケーションできるよう実務中心に学びます。",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "仕事で英語を使う社会人、就職・転職を準備している方",
+        "purpose": "実際の業務で必要な英語コミュニケーション力を実務中心に身につけます。",
+        "direction": "会議、メール、プレゼンテーションなど実際の業務場面をもとに、話す・書く練習を重ね、自信のあるコミュニケーションを目指します。",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "会議の進行、意見の提示や調整など、業務の会話に必要な表現を学びます。"
+          },
+          {
+            "title": "Business Email",
+            "description": "場面に合ったメールの構成と表現で、明確に伝える方法を学びます。"
+          },
+          {
+            "title": "Presentation",
+            "description": "要点を伝えるプレゼンテーションの構成と伝え方を実践します。"
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "留学準備",
+        "summary": "海外の学校生活や学業環境に必要な英語表現と、スピーキング・発表・ディスカッションなど実際の留学生活に必要な英語を準備します。",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "海外の学校への進学、交換留学、留学を控えた学生",
+        "purpose": "海外での学校生活や学業環境で必要な英語力を事前に準備します。",
+        "direction": "授業への参加、発表、ディスカッションなど、留学生活で出会う場面を中心にスピーキング練習を行います。",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "授業や課題でよく使われる学術的な英語表現を学びます。"
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "自分の考えを発表し、ディスカッションに参加する練習をします。"
+          },
+          {
+            "title": "School Life English",
+            "description": "クラスメートや先生とのコミュニケーションに必要な英語を準備します。"
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "夏休み・冬休みキャンプ",
+        "summary": "休暇期間中に英語学習とさまざまな生活体験をともにしながら、スピーキングと会話中心の実践英語を集中的に体験します。",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "お子様・中高生中心",
+        "purpose": "休暇期間にセブで英語学習と生活体験をともにし、英語への自信を育てます。",
+        "direction": "スピーキングと会話中心の授業をもとに、学んだ英語を生活の中で実際に使ってみる体験を大切にしています。",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "授業での会話練習を通して、英語で話すことに慣れていきます。"
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "さまざまな生活体験の中で、学んだ英語を自然に使います。"
+          },
+          {
+            "title": "Confidence in English",
+            "description": "英語で表現する楽しさを感じながら自信を積み重ねます。"
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "通年ファミリーキャンプ",
+        "summary": "お子様と保護者が一緒にセブで生活しながら英語を学べる、ご家族向けのオーダーメイド英語プログラムです。",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "お子様と一緒にセブで暮らしながら英語を学びたいご家族",
+        "purpose": "ご家族が一緒にセブで生活しながら、家族構成に合わせて英語を学べるようにします。",
+        "direction": "家族構成と日程に合わせて受講者を選び、スピーキングと会話中心の授業で進めます。",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "お子様のレベルに合わせたスピーキング・会話中心の授業を行います。"
+          },
+          {
+            "title": "English for Parents",
+            "description": "保護者も受講する場合、生活や旅行に役立つ実践英語を学びます。"
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "セブでの生活の中で、家族で英語を使う機会をつくります。"
+          }
+        ],
+        "familyOptions": [
+          "お子様のみ受講",
+          "お子様 + 保護者1名",
+          "お子様 + 保護者2名"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "Speaking & Conversationを中心に\n実際の生活で使える英語を学ぶ\nSYAの正規英語教育プログラム",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "英語を学ぶ目的に合わせた\n3つの教育課程",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "Speaking & Conversationを中心に、\n実際の生活で使える英語を学びます。"
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "仕事と日常ですぐに活用できる\n実用的な英語表現とコミュニケーションを身につけます。"
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "次の教育段階と海外での学業に備え、\n英語で学び、伝える自信を育てます。"
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "教室で学んだ英語を実際に話し、\nセブの日常の中で使いながら、\n英語への自信を育てていきます。"
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "英語の学習を始める準備はできましたか？"
+    },
+    "campPage": {
+      "description": "英語を学び、セブで暮らしながら、\nさまざまなアクティビティと特別な体験をともにします。",
+      "consultCta": "キャンプの相談を申し込む",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "英語とセブでの特別な体験を\nともに楽しむ2つのキャンプ",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "休暇中に英語学習とセブのさまざまなアクティビティを\nともに体験するプログラム",
+          "imageAlt": "セブの海で友人とアイランドホッピングを楽しむ様子"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "お子様と保護者が一緒にセブで暮らしながら、\n英語と新しい体験に出会うファミリープログラム",
+          "imageAlt": "屋外で先生と一緒に学ぶ子どもたち"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "Speaking & Conversation中心"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "教室の外で体験する実際の生活"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "セブの自然と文化を体験"
+          },
+          {
+            "label": "CARE",
+            "text": "学びと生活のバランスがとれた環境"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "1日最大4時間の1:1マンツーマン授業を中心に、学習と生活が自然につながる1日約8時間の英語プログラム、スピーキングと会話中心の授業"
+          },
+          {
+            "label": "MEALS",
+            "text": "1日3食のビュッフェ"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "セブの自然と文化を体験"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "教室の外で英語を使う時間"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "心地よい休息と生活のサポート"
+          }
+        ],
+        "note": "詳しい時間割はキャンプ日程の確定後にご案内します。"
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "快適な宿泊環境で、学びと休息を\nバランスよく続けられます。",
+          "imageAlt": "BE Pods Lahugの客室"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "1日3食ビュッフェ",
+          "description": "快適なキャンプ生活のための食事をご用意します。",
+          "imageAlt": "さまざまなフルーツが並ぶビュッフェ"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "お子様だけでも、\n保護者の方と一緒でも参加できます。",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "休暇キャンプ：夏休み・冬休み · ファミリーキャンプ：通年 · 具体的な日程はご相談時にご案内"
+      },
+      "closingTitle": "お子様に合ったキャンプをご相談ください。",
+      "closingSummerCta": "夏休み・冬休みキャンプの相談",
+      "closingFamilyCta": "ファミリーキャンプの相談",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "あなたに合ったSYAの体験を選ぶ",
+      "includesLabel": "対象プログラム",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "英語力と実際に使う力を育てる\nSYAの正規英語教育プログラム",
+        "imageAlt": "海の見える教室で会話の授業を受ける生徒たち"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "英語とセブでの生活、アクティビティ、家族での体験を\nともに楽しむSYAのキャンププログラム",
+        "imageAlt": "セブの海で友人とアイランドホッピングを楽しむ様子"
+      }
+    },
+    "detail": {
+      "pageTitle": "教育課程",
+      "pageSubtitle": "スピーキングと会話を中心に、目標とスケジュールに合わせて選べるSYAの英語プログラム",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "コースの目的",
+      "audienceLabel": "おすすめの対象",
+      "directionLabel": "教育方針",
+      "focusAreasLabel": "主な学習領域",
+      "durationLabel": "研修期間",
+      "classHoursLabel": "基本授業時間",
+      "openingsLabel": "開講日",
+      "timetableLabel": "日課時間割",
+      "timetablePending": "詳しい時間割は運営日程が確定し次第ご案内いたします。すべてのコースは、1日最大4時間の1:1マンツーマン授業を中心に、学習と生活が自然につながる1日約8時間の英語プログラムとして運営しています。",
+      "timeHeader": "時間",
+      "subjectHeader": "授業内容",
+      "consultTitle": "このコースが気になりますか？",
+      "consultDescription": "学習目標や日程、家族構成に合わせて、最適なコースと研修期間をご案内します。",
+      "consultCta": "このコースの相談を申し込む",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "現地学校体験（選択）",
+        "description": "セブで英語を学びながら、現地の学校環境や教育文化を体験し、実際の生活の中で英語を使うことができる選択プログラムです。",
+        "conditionNote": "実際の参加可否や日程は、生徒の年齢、現地学校との協議およびプログラムの運営条件に応じて、ご相談の際にご案内します。",
+        "consultCta": "現地の学校体験について相談する"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "わかりやすく確認できる\nSYAの留学費用",
+    "description": "コースと研修期間に応じた概算費用を確認でき、\n必要に応じてご相談でお見積もりをご案内します。",
+    "durationLabel": "研修期間",
+    "weeks": {
+      "2": "2週間",
+      "4": "4週間",
+      "8": "8週間",
+      "12": "12週間"
+    },
+    "tuitionFeeLabel": "授業料",
+    "allDurationsLabel": "期間別授業料",
+    "onRequest": "ご相談時にご案内",
+    "perChild": "お子様1名あたり",
+    "familyParentNote": "保護者同伴の費用はご相談時にご案内します。",
+    "notes": [
+      "表示金額は授業料のみで、宿泊費と現地支払費用は別途です。",
+      "現在の金額は初期の目安であり、変更される場合があります。",
+      "「ご相談時にご案内」の項目は、ご相談の際に正確にご案内します。"
+    ],
+    "consultCta": "お見積もりを相談する",
+    "calculatorCta": "概算費用を計算する"
+  },
+  "estimator": {
+    "title": "概算費用計算機",
+    "subtitle": "コース、研修期間、参加者、宿泊の有無を選ぶと概算費用を確認できます。",
+    "steps": {
+      "course": "コース",
+      "duration": "研修期間",
+      "participant": "参加者",
+      "stay": "宿泊",
+      "parents": "保護者同伴人数"
+    },
+    "participantTypes": {
+      "adult": "大人",
+      "student": "お子様・中高生"
+    },
+    "childCountLabel": "お子様の人数",
+    "parentCountLabel": "保護者の人数",
+    "stayOptions": {
+      "included": "宿泊あり",
+      "none": "宿泊なし"
+    },
+    "stayNote": "宿泊先の手配と宿泊費はご相談時にご案内します。",
+    "summaryTitle": "概算費用",
+    "lines": {
+      "tuition": "授業料",
+      "additionalChild": "お子様追加",
+      "parent": "保護者同伴",
+      "stay": "宿泊費",
+      "option": "追加オプション"
+    },
+    "educationSubtotal": "授業料小計",
+    "totalLabel": "概算合計",
+    "knownTotalLabel": "確定金額の合計",
+    "totalNote": "「ご相談時にご案内」の項目は合計に含まれません。現地支払費用は別途です。",
+    "consultCta": "この条件で相談を申し込む"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "学びと休息が自然につながる\nプレミアムホテル",
+    "description": "学習に集中する一日を過ごし、\n快適な空間でゆっくり休めるよう、\n清潔で居心地のよい宿泊環境をご用意しています。",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "BE Pods Lahugのロビーラウンジ"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "快適な客室から始まる\n穏やかな一日",
+      "description": "心地よい寝具と清潔な客室で、\n授業後にしっかりと休むことができます。",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "BE Pods Lahugのツインルーム"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "学びと休息のバランスを支える\n生活環境",
+      "description": "授業の後は、プールやデッキチェアのある空間でゆったりと一日を締めくくれます。",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "BE Pods Lahugのプールとデッキチェア"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "滞在中に必要な\n暮らしの便利さ",
+      "description": "長期滞在でも生活のリズムを保てるよう、日常に必要な空間を備えています。",
+      "gym": {
+        "caption": "Fitness",
+        "text": "軽く体を動かし、健康的な生活リズムを保てる空間",
+        "alt": "BE Pods Lahugのフィットネススペース"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "長期滞在に必要な生活の便利さを支える空間",
+        "alt": "洗濯機のあるBE Pods Lahugの生活スペース"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "BE Podsで過ごす一日",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "建物に囲まれたBE Pods Lahugのプール"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "窓の大きいBE Pods Lahugの客室"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "プールで余暇を楽しむ様子"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "BE Podsの客室状況に応じて、追加の宿泊先として利用する場合があります。"
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "授業が終わった後も、\n心地よい一日が続きます。",
+      "description": "英語を学ぶ場所だけでなく、\n滞在する空間と日常の時間までが\nひとつの教育体験につながります。",
+      "imageAlt": "BE Pods Lahugのプール"
+    }
+  },
+  "localFees": {
+    "title": "現地支払費用のご案内",
+    "subtitle": "SSP・ビザ延長・宿泊関連費用",
+    "heading": "フィリピン現地支払費用（Local Fees）",
+    "description": "フィリピンでの滞在と現地生活に必要な費用項目です。項目ごとの金額と支払時期は、滞在期間と日程に応じてご相談時にご案内します。",
+    "columns": {
+      "item": "項目",
+      "amount": "金額",
+      "note": "ご案内"
+    },
+    "onRequest": "ご相談時にご案内",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "フィリピンで語学研修を受ける外国人学生に必要な就学許可"
+      },
+      "visaExtension1": {
+        "name": "ビザ延長（30日を超える滞在）",
+        "note": "ビザなし入国後30日を超えて滞在する場合に必要"
+      },
+      "visaExtension2": {
+        "name": "ビザ追加延長（59日を超える滞在）",
+        "note": "滞在期間に応じて追加の延長が必要"
+      },
+      "acrICard": {
+        "name": "ACR I-Card（外国人登録証）",
+        "note": "59日以上滞在する場合に発行が必要な外国人登録証"
+      },
+      "accommodationDeposit": {
+        "name": "宿泊保証金",
+        "note": "金額および返金条件はご相談時にご案内"
+      },
+      "accommodationUtilities": {
+        "name": "宿泊先の光熱費（電気・水道）",
+        "note": "宿泊先と使用量により異なるため、ご相談時にご案内"
+      },
+      "courseMaterials": {
+        "name": "教材費",
+        "note": "コースとレベルにより異なるため、ご相談時にご案内"
+      },
+      "airportPickup": {
+        "name": "空港送迎",
+        "note": "マクタン・セブ国際空港到着時の送迎 — 利用方法と費用はご相談時にご案内"
+      }
+    },
+    "depositBox": {
+      "title": "宿泊保証金",
+      "description": "宿泊保証金の金額および返金条件は、ご相談時にご案内します。"
+    },
+    "paymentBox": {
+      "title": "お支払いについて",
+      "description": "現地支払費用の支払通貨と時期は、滞在日程に合わせてご相談時にご案内します。"
+    }
+  },
+  "consultation": {
+    "interestsLabel": "興味のある体験",
+    "interests": {
+      "cebuMonthStay": "セブ1か月滞在",
+      "localSchool": "現地の学校体験"
+    },
+    "noneLabel": "なし"
+  },
+  "comingSoon": {
+    "badge": "準備中",
+    "message": "このページは現在準備中です。近日公開予定です。",
+    "backHome": "ホームに戻る"
+  }
+}

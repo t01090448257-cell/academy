@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "Giới thiệu",
+    "programs": "Chương trình đào tạo",
+    "campus": "Cuộc sống tại Philippines",
+    "services": "Học phí & Ký túc xá",
+    "admission": "Tuyển sinh",
+    "community": "Cộng đồng"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "Khóa học tiếng Anh chuyên sâu hàng đầu tại Cebu, phù hợp với mục tiêu của bạn",
+    "ctaConsult": "KakaoTalk / Tư vấn trực tuyến",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "Bắt đầu tại Cebu,",
+    "headlineLine2": "thay đổi thật sự với tiếng Anh",
+    "accent": "Speaking & Conversation",
+    "description": "Chương trình giáo dục tiếng Anh cao cấp tập trung vào kỹ năng nói và hội thoại,\nsử dụng tiếng Anh trong đời sống hằng ngày và tại trường học địa phương.",
+    "ctaPrimary": "Đăng ký tư vấn",
+    "ctaPrograms": "Xem chương trình học",
+    "ctaCost": "Xem chi phí du học",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "Từ trẻ 5 tuổi đến người lớn"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "Khóa học 2 · 4 · 8 · 12 tuần"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "Khai giảng lớp chính quy 2 lần/tháng"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "Lấy tối đa 4 giờ học 1:1 mỗi ngày làm trọng tâm, chương trình tiếng Anh khoảng 8 giờ mỗi ngày nơi việc học và sinh hoạt gắn kết tự nhiên"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "Khuôn viên kiểu resort của SYA tại Cebu với hàng dừa và hồ bơi"
+  },
+  "langSwitcher": {
+    "label": "Ngôn ngữ"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "Giáo dục tiếng Anh cao cấp theo cách của SYA",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "Giáo dục tiếng Anh lấy kỹ năng nói làm trọng tâm",
+        "description": "Không dừng lại ở ngữ pháp và luyện đề, chúng tôi phát triển khả năng thực sự nghe, nói và sử dụng tiếng Anh."
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "Tiếng Anh tiếp nối cả bên ngoài lớp học",
+        "description": "Thông qua cuộc sống thường ngày tại Cebu và việc tham gia lớp học tại trường địa phương, học viên vận dụng tiếng Anh đã học vào tình huống thực tế."
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "Môi trường cao cấp nơi việc học và sinh hoạt hài hòa",
+        "description": "Với chỗ ở tiện nghi và môi trường sinh hoạt thoải mái, chúng tôi mang đến môi trường du học cân bằng giữa học tập và nghỉ ngơi."
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "Sống một tháng ở Cebu,\ntrải nghiệm tiếng Anh thật sự.",
+    "description": [
+      "Chúng tôi kết nối việc học hội thoại tiếng Anh\nvà cuộc sống tại Cebu thành một trải nghiệm.",
+      "Từ người lớn, học sinh đến trẻ em\nđều có thể chọn chương trình theo mục đích và lịch trình riêng,\nvà trải nghiệm tiếng Anh trong lớp học lẫn cuộc sống thực tế."
+    ],
+    "audienceNote": "Người lớn, trẻ em và gia đình đều có thể được tư vấn chương trình phù hợp với mục đích của mình.",
+    "consultCta": "Tư vấn sống một tháng ở Cebu",
+    "image": {
+      "alt": "Đi thuyền khám phá đảo trên biển Cebu",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "Tiếng Anh lấy kỹ năng nói làm trọng tâm",
+        "description": "Học tập trung vào nói và hội thoại,\nvà vận dụng tiếng Anh đã học vào cuộc sống thực tế."
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "Trải nghiệm tiếng Anh trong cuộc sống",
+        "description": "Vượt ra ngoài lớp học, học viên thực sự sử dụng tiếng Anh\ntrong đời sống thường ngày\nvà nhiều môi trường sinh hoạt tại Cebu."
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Trải nghiệm trực tiếp trường tư thục địa phương",
+        "description": "Dựa trên sự thỏa thuận với nhà trường,\nhọc viên có cơ hội đặc biệt trải nghiệm\nmôi trường giáo dục thực tế của một trường tư thục địa phương."
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "Trải nghiệm trường học địa phương",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "Học tiếng Anh tại Cebu, trải nghiệm môi trường học đường\nvà văn hóa giáo dục địa phương, đồng thời có cơ hội\nsử dụng tiếng Anh trong cuộc sống thực tế.",
+      "conditionNote": "Khả năng tham gia thực tế và lịch trình sẽ được thông báo tùy theo trao đổi với trường học địa phương và điều kiện vận hành chương trình.",
+      "imageAlt": "Giáo viên và học sinh cùng học trong một lớp học của trường địa phương"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "Chương trình tiếng Anh cao cấp SYA,\nlựa chọn theo mục tiêu và lịch trình của bạn",
+    "subtitle": "Tập trung vào kỹ năng nói và hội thoại, dành cho trẻ em đến người lớn, với các lựa chọn 2, 4, 8 và 12 tuần.",
+    "viewAll": "Xem tất cả chương trình",
+    "learnMore": "Xem chi tiết",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2 tuần · 4 tuần · 8 tuần · 12 tuần"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "Lấy tối đa 4 giờ học 1:1 mỗi ngày làm trọng tâm, chương trình tiếng Anh khoảng 8 giờ mỗi ngày nơi việc học và sinh hoạt gắn kết tự nhiên"
+    },
+    "audienceLabel": "Đối tượng",
+    "familyOptionsLabel": "Hình thức gia đình",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "Lớp chính quy",
+        "description": "Chương trình tiếng Anh chính quy giúp nâng cao khả năng sử dụng tiếng Anh thực tế, tập trung vào kỹ năng nói và hội thoại.",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "Khai giảng 2 lần mỗi tháng · Thứ Hai tuần thứ 1 và thứ 3"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "Chương trình trại",
+        "description": "Chương trình kết hợp học tiếng Anh và trải nghiệm cuộc sống, phù hợp với kỳ nghỉ và mục đích lưu trú của gia đình."
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "Intensive ESL",
+        "summary": "Tập trung vào nói và hội thoại, cân bằng giữa nghe và nói, nâng cao khả năng sử dụng tiếng Anh thực tế theo trình độ của từng học viên.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "Học sinh và người lớn muốn nâng cao tiếng Anh thực tế, từ hội thoại cơ bản đến giao tiếp tự nhiên",
+        "purpose": "Phát triển khả năng tự tin sử dụng tiếng Anh trong tình huống thực tế thông qua các lớp học tập trung vào nói và hội thoại.",
+        "direction": "Đánh giá trình độ của từng học viên, cân bằng giữa nghe và nói, luyện tập lặp lại các cách diễn đạt có thể dùng ngay trong hội thoại thực tế.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Xây dựng sự tự tin và lưu loát khi nói qua các cuộc hội thoại về đời sống và nhiều chủ đề khác nhau."
+          },
+          {
+            "title": "Listening",
+            "description": "Nghe hiểu tiếng Anh ở tốc độ tự nhiên và phản hồi tự nhiên trong hội thoại."
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "Điều chỉnh nội dung và tốc độ học theo trình độ và mục tiêu của từng học viên."
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "Tiếng Anh thương mại thực tế",
+        "summary": "Học theo hướng thực tiễn để tự tin giao tiếp bằng tiếng Anh trong các tình huống công việc như họp, email và thuyết trình.",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "Người đi làm cần giao tiếp tiếng Anh trong công việc và người đang chuẩn bị tìm việc hoặc chuyển việc",
+        "purpose": "Rèn luyện kỹ năng giao tiếp tiếng Anh cần thiết trong môi trường công việc thực tế.",
+        "direction": "Luyện nói và viết lặp lại dựa trên các tình huống công việc thực tế như họp, email và thuyết trình, hướng tới giao tiếp tự tin.",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "Học các cách diễn đạt để điều hành cuộc họp, trình bày và thống nhất ý kiến."
+          },
+          {
+            "title": "Business Email",
+            "description": "Học cách bố cục và diễn đạt email rõ ràng theo từng tình huống."
+          },
+          {
+            "title": "Presentation",
+            "description": "Thực hành xây dựng bài thuyết trình và truyền đạt ý chính hiệu quả."
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "Chuẩn bị du học",
+        "summary": "Chuẩn bị các cách diễn đạt cần cho đời sống học đường ở nước ngoài cùng kỹ năng nói, thuyết trình và thảo luận cần thiết khi du học.",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "Học sinh chuẩn bị nhập học ở nước ngoài, tham gia chương trình trao đổi hoặc đi du học",
+        "purpose": "Chuẩn bị trước năng lực tiếng Anh cần thiết cho đời sống học đường và môi trường học tập ở nước ngoài.",
+        "direction": "Luyện nói tập trung vào các tình huống sẽ gặp khi du học như tham gia lớp học, thuyết trình và thảo luận.",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "Học các cách diễn đạt học thuật thường dùng trong lớp học và bài tập."
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "Luyện tập trình bày ý kiến và tham gia thảo luận."
+          },
+          {
+            "title": "School Life English",
+            "description": "Chuẩn bị tiếng Anh cần thiết để giao tiếp với bạn học và giáo viên."
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "Trại hè / Trại đông",
+        "summary": "Trong kỳ nghỉ, học viên kết hợp học tiếng Anh với nhiều trải nghiệm sinh hoạt, trải nghiệm tập trung tiếng Anh thực tế qua nói và hội thoại.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "Chủ yếu là trẻ em và thanh thiếu niên",
+        "purpose": "Xây dựng sự tự tin với tiếng Anh qua việc kết hợp học tập và trải nghiệm cuộc sống tại Cebu trong kỳ nghỉ.",
+        "direction": "Dựa trên các lớp học tập trung vào nói và hội thoại, chúng tôi coi trọng việc trực tiếp sử dụng tiếng Anh đã học trong cuộc sống.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Luyện hội thoại trong lớp giúp học viên quen với việc nói tiếng Anh."
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "Học viên tự nhiên sử dụng tiếng Anh đã học qua nhiều trải nghiệm sinh hoạt."
+          },
+          {
+            "title": "Confidence in English",
+            "description": "Học viên tích lũy sự tự tin khi cảm nhận niềm vui diễn đạt bằng tiếng Anh."
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "Trại gia đình quanh năm",
+        "summary": "Chương trình tiếng Anh dành riêng cho gia đình, nơi con và cha mẹ cùng sinh sống tại Cebu và học tiếng Anh.",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "Gia đình muốn cùng con sinh sống tại Cebu và học tiếng Anh",
+        "purpose": "Giúp cả gia đình cùng sinh sống tại Cebu và học tiếng Anh phù hợp với thành phần gia đình.",
+        "direction": "Lựa chọn người học theo thành phần gia đình và lịch trình; các lớp học tập trung vào nói và hội thoại.",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "Lớp học tập trung vào nói và hội thoại, phù hợp với trình độ của trẻ."
+          },
+          {
+            "title": "English for Parents",
+            "description": "Khi phụ huynh cùng học, phụ huynh học tiếng Anh thực tế cho sinh hoạt và du lịch."
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "Cuộc sống tại Cebu tạo cơ hội để cả gia đình cùng sử dụng tiếng Anh."
+          }
+        ],
+        "familyOptions": [
+          "Chỉ trẻ em học",
+          "Trẻ em + 1 phụ huynh",
+          "Trẻ em + 2 phụ huynh"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "Chương trình tiếng Anh chính quy của SYA,\nhọc tiếng Anh dùng được trong đời sống thực tế,\nlấy Speaking & Conversation làm trọng tâm",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "Ba chương trình học\nphù hợp với mục đích học tiếng Anh của bạn",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "Học tiếng Anh dùng được trong đời sống thực tế,\nlấy Speaking & Conversation làm trọng tâm."
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "Rèn luyện cách diễn đạt và giao tiếp tiếng Anh thực tế\ncó thể dùng ngay trong công việc và cuộc sống."
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "Chuẩn bị cho bậc học tiếp theo và việc du học,\nxây dựng sự tự tin khi học và giao tiếp bằng tiếng Anh."
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "Nói tiếng Anh đã học trong lớp,\nsử dụng trong cuộc sống thường ngày tại Cebu,\nvà xây dựng sự tự tin với tiếng Anh."
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "Bạn đã sẵn sàng bắt đầu học tiếng Anh?"
+    },
+    "campPage": {
+      "description": "Học tiếng Anh, sống tại Cebu,\ncùng trải nghiệm nhiều hoạt động và kỷ niệm đặc biệt.",
+      "consultCta": "Đăng ký tư vấn trại",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "Hai chương trình trại kết hợp tiếng Anh\nvới những trải nghiệm đặc biệt tại Cebu",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "Chương trình kết hợp học tiếng Anh\nvà nhiều hoạt động tại Cebu trong kỳ nghỉ",
+          "imageAlt": "Bạn bè cùng đi thuyền khám phá đảo trên biển Cebu"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "Chương trình gia đình, nơi con và cha mẹ cùng sống tại Cebu,\nkhám phá tiếng Anh và những trải nghiệm mới",
+          "imageAlt": "Trẻ em học ngoài trời cùng giáo viên"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "Tập trung vào Speaking & Conversation"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Cuộc sống thực tế bên ngoài lớp học"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Trải nghiệm thiên nhiên và văn hóa Cebu"
+          },
+          {
+            "label": "CARE",
+            "text": "Môi trường cân bằng giữa học tập và sinh hoạt"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "Lấy tối đa 4 giờ học 1:1 mỗi ngày làm trọng tâm, chương trình tiếng Anh khoảng 8 giờ mỗi ngày nơi việc học và sinh hoạt gắn kết tự nhiên, tập trung vào nói và hội thoại"
+          },
+          {
+            "label": "MEALS",
+            "text": "Ba bữa buffet mỗi ngày"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Trải nghiệm thiên nhiên và văn hóa Cebu"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Thời gian sử dụng tiếng Anh ngoài lớp học"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "Nghỉ ngơi thoải mái và được chăm sóc sinh hoạt"
+          }
+        ],
+        "note": "Thời khóa biểu chi tiết sẽ được thông báo khi lịch trại được xác nhận."
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "Không gian lưu trú thoải mái giúp duy trì\nsự cân bằng giữa học tập và nghỉ ngơi.",
+          "imageAlt": "Phòng tại BE Pods Lahug"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "Ba bữa buffet mỗi ngày",
+          "description": "Các bữa ăn được chuẩn bị cho cuộc sống trại thoải mái.",
+          "imageAlt": "Quầy buffet với nhiều loại trái cây"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "Trẻ có thể tham gia một mình,\nhoặc cùng với cha mẹ.",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "Trại hè/đông: kỳ nghỉ hè và đông · Trại gia đình: quanh năm · Lịch cụ thể được thông báo khi tư vấn"
+      },
+      "closingTitle": "Hãy tư vấn chương trình trại phù hợp với con bạn.",
+      "closingSummerCta": "Tư vấn trại hè / trại đông",
+      "closingFamilyCta": "Tư vấn trại gia đình",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "Chọn trải nghiệm SYA phù hợp với bạn",
+      "includesLabel": "Các chương trình",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "Chương trình tiếng Anh chính quy của SYA,\nnâng cao cả trình độ lẫn khả năng sử dụng tiếng Anh thực tế",
+        "imageAlt": "Học viên trong lớp hội thoại nhìn ra biển"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "Chương trình trại của SYA kết hợp tiếng Anh\nvới cuộc sống, hoạt động và trải nghiệm gia đình tại Cebu",
+        "imageAlt": "Bạn bè cùng đi thuyền khám phá đảo trên biển Cebu"
+      }
+    },
+    "detail": {
+      "pageTitle": "Chương trình học",
+      "pageSubtitle": "Các chương trình tiếng Anh của SYA tập trung vào nói và hội thoại, lựa chọn theo mục tiêu và lịch trình",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "Mục tiêu khóa học",
+      "audienceLabel": "Đối tượng phù hợp",
+      "directionLabel": "Định hướng giảng dạy",
+      "focusAreasLabel": "Nội dung học chính",
+      "durationLabel": "Thời gian khóa học",
+      "classHoursLabel": "Thời lượng học",
+      "openingsLabel": "Ngày khai giảng",
+      "timetableLabel": "Thời khóa biểu",
+      "timetablePending": "Thời khóa biểu chi tiết sẽ được thông báo khi lịch vận hành được xác nhận. Tất cả chương trình lấy tối đa 4 giờ học 1:1 mỗi ngày làm trọng tâm, vận hành như một chương trình tiếng Anh khoảng 8 giờ mỗi ngày nơi việc học và sinh hoạt gắn kết tự nhiên.",
+      "timeHeader": "Thời gian",
+      "subjectHeader": "Nội dung",
+      "consultTitle": "Bạn quan tâm đến chương trình này?",
+      "consultDescription": "Chúng tôi sẽ tư vấn chương trình và thời gian học phù hợp theo mục tiêu, lịch trình và thành phần gia đình của bạn.",
+      "consultCta": "Đăng ký tư vấn chương trình này",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Trải nghiệm trường học địa phương (tùy chọn)",
+        "description": "Chương trình tùy chọn giúp học viên vừa học tiếng Anh tại Cebu vừa trải nghiệm môi trường học đường và văn hóa giáo dục địa phương, đồng thời sử dụng tiếng Anh trong cuộc sống thực tế.",
+        "conditionNote": "Khả năng tham gia thực tế và lịch trình tùy theo độ tuổi của học viên, trao đổi với trường học địa phương và điều kiện vận hành chương trình, và sẽ được thông báo khi tư vấn.",
+        "consultCta": "Tư vấn trải nghiệm trường học địa phương"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "Chi phí du học SYA\nminh bạch, dễ theo dõi",
+    "description": "Xem chi phí dự kiến theo chương trình và thời gian học,\nvà nhận báo giá riêng qua tư vấn khi cần.",
+    "durationLabel": "Thời gian học",
+    "weeks": {
+      "2": "2 tuần",
+      "4": "4 tuần",
+      "8": "8 tuần",
+      "12": "12 tuần"
+    },
+    "tuitionFeeLabel": "Học phí",
+    "allDurationsLabel": "Học phí theo thời gian",
+    "onRequest": "Báo khi tư vấn",
+    "perChild": "Tính cho 1 trẻ",
+    "familyParentNote": "Chi phí phụ huynh đi cùng sẽ được thông báo khi tư vấn.",
+    "notes": [
+      "Giá hiển thị là học phí; chi phí lưu trú và các khoản nộp tại địa phương tính riêng.",
+      "Mức giá hiện tại là giá tham khảo ban đầu và có thể thay đổi.",
+      "Các mục ghi “Báo khi tư vấn” sẽ được thông báo chính xác khi tư vấn."
+    ],
+    "consultCta": "Tư vấn báo giá riêng",
+    "calculatorCta": "Tính chi phí dự kiến"
+  },
+  "estimator": {
+    "title": "Công cụ tính chi phí dự kiến",
+    "subtitle": "Chọn chương trình, thời gian học, người tham gia và lưu trú để xem chi phí dự kiến.",
+    "steps": {
+      "course": "Chương trình",
+      "duration": "Thời gian học",
+      "participant": "Người tham gia",
+      "stay": "Lưu trú",
+      "parents": "Số phụ huynh đi cùng"
+    },
+    "participantTypes": {
+      "adult": "Người lớn",
+      "student": "Trẻ em / Thanh thiếu niên"
+    },
+    "childCountLabel": "Số trẻ",
+    "parentCountLabel": "Số phụ huynh",
+    "stayOptions": {
+      "included": "Bao gồm lưu trú",
+      "none": "Không cần lưu trú"
+    },
+    "stayNote": "Việc sắp xếp chỗ ở và chi phí lưu trú sẽ được thông báo khi tư vấn.",
+    "summaryTitle": "Chi phí dự kiến",
+    "lines": {
+      "tuition": "Học phí",
+      "additionalChild": "Thêm trẻ",
+      "parent": "Phụ huynh đi cùng",
+      "stay": "Chi phí lưu trú",
+      "option": "Tùy chọn thêm"
+    },
+    "educationSubtotal": "Tạm tính học phí",
+    "totalLabel": "Tổng chi phí dự kiến",
+    "knownTotalLabel": "Tổng các khoản đã xác định",
+    "totalNote": "Các mục “Báo khi tư vấn” không được tính vào tổng. Chi phí nộp tại địa phương tính riêng.",
+    "consultCta": "Đăng ký tư vấn với lựa chọn này"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "Khách sạn cao cấp,\nnơi việc học và nghỉ ngơi hòa quyện",
+    "description": "Sau một ngày tập trung học tập,\nhọc viên có thể nghỉ ngơi thoải mái\ntrong không gian lưu trú sạch sẽ, tiện nghi.",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "Sảnh lounge của BE Pods Lahug"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "Một ngày ổn định bắt đầu\ntừ căn phòng thoải mái",
+      "description": "Với chăn gối êm ái và căn phòng gọn gàng,\nhọc viên có thể nghỉ ngơi đầy đủ sau giờ học.",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "Phòng twin tại BE Pods Lahug"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "Môi trường sống cân bằng\ngiữa học tập và nghỉ ngơi",
+      "description": "Sau giờ học, học viên có thể thư giãn bên hồ bơi và ghế tắm nắng để khép lại một ngày.",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "Hồ bơi và ghế tắm nắng tại BE Pods Lahug"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "Sự tiện lợi cho cuộc sống\ntrong thời gian lưu trú",
+      "description": "Các không gian phục vụ nhu cầu hằng ngày giúp học viên duy trì nhịp sống ổn định, kể cả khi lưu trú dài ngày.",
+      "gym": {
+        "caption": "Fitness",
+        "text": "Không gian vận động nhẹ nhàng, giữ nhịp sống khỏe mạnh",
+        "alt": "Khu tập thể dục tại BE Pods Lahug"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "Không gian hỗ trợ tiện ích sinh hoạt khi lưu trú dài ngày",
+        "alt": "Không gian sinh hoạt có máy giặt tại BE Pods Lahug"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "Một ngày tại BE Pods",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "Hồ bơi giữa khuôn viên tòa nhà BE Pods Lahug"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "Phòng ngủ có cửa sổ lớn tại BE Pods Lahug"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "Khách tận hưởng thời gian ở hồ bơi"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "Tùy theo tình trạng phòng tại BE Pods, khách sạn này có thể được sử dụng làm chỗ ở bổ sung."
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "Ngay cả sau giờ học,\nmột ngày thoải mái vẫn tiếp diễn.",
+      "description": "Không chỉ nơi học tiếng Anh,\nmà cả nơi lưu trú và nhịp sống hằng ngày\nđều trở thành một trải nghiệm giáo dục trọn vẹn.",
+      "imageAlt": "Hồ bơi tại BE Pods Lahug"
+    }
+  },
+  "localFees": {
+    "title": "Hướng dẫn chi phí nộp tại địa phương",
+    "subtitle": "SSP, gia hạn visa và các khoản liên quan đến chỗ ở",
+    "heading": "Chi phí nộp tại Philippines (Local Fees)",
+    "description": "Đây là các khoản chi phí liên quan đến việc lưu trú và sinh hoạt tại Philippines. Số tiền và thời điểm nộp từng khoản tùy theo thời gian lưu trú và lịch trình, và sẽ được thông báo khi tư vấn.",
+    "columns": {
+      "item": "Khoản mục",
+      "amount": "Số tiền",
+      "note": "Ghi chú"
+    },
+    "onRequest": "Báo khi tư vấn",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "Giấy phép học tập cần thiết cho học viên nước ngoài học ngôn ngữ tại Philippines"
+      },
+      "visaExtension1": {
+        "name": "Gia hạn visa (lưu trú quá 30 ngày)",
+        "note": "Cần thiết nếu lưu trú quá 30 ngày sau khi nhập cảnh miễn thị thực"
+      },
+      "visaExtension2": {
+        "name": "Gia hạn visa bổ sung (lưu trú quá 59 ngày)",
+        "note": "Cần gia hạn thêm tùy theo thời gian lưu trú"
+      },
+      "acrICard": {
+        "name": "ACR I-Card (Thẻ đăng ký người nước ngoài)",
+        "note": "Thẻ đăng ký người nước ngoài cần thiết khi lưu trú từ 59 ngày trở lên"
+      },
+      "accommodationDeposit": {
+        "name": "Tiền đặt cọc chỗ ở",
+        "note": "Số tiền và điều kiện hoàn trả sẽ được thông báo khi tư vấn"
+      },
+      "accommodationUtilities": {
+        "name": "Phí điện nước chỗ ở",
+        "note": "Tùy theo chỗ ở và mức sử dụng, được thông báo khi tư vấn"
+      },
+      "courseMaterials": {
+        "name": "Phí giáo trình",
+        "note": "Tùy theo chương trình và trình độ, được thông báo khi tư vấn"
+      },
+      "airportPickup": {
+        "name": "Đón sân bay",
+        "note": "Đón khi đến Sân bay Quốc tế Mactan-Cebu — cách sử dụng và chi phí được thông báo khi tư vấn"
+      }
+    },
+    "depositBox": {
+      "title": "Tiền đặt cọc chỗ ở",
+      "description": "Số tiền và điều kiện hoàn trả tiền đặt cọc chỗ ở sẽ được thông báo khi tư vấn."
+    },
+    "paymentBox": {
+      "title": "Thông tin thanh toán",
+      "description": "Loại tiền và thời điểm nộp các khoản chi phí tại địa phương sẽ được thông báo khi tư vấn, phù hợp với lịch trình của bạn."
+    }
+  },
+  "consultation": {
+    "interestsLabel": "Trải nghiệm quan tâm",
+    "interests": {
+      "cebuMonthStay": "Sống một tháng ở Cebu",
+      "localSchool": "Trải nghiệm trường học địa phương"
+    },
+    "noneLabel": "Không có"
+  },
+  "comingSoon": {
+    "badge": "Sắp ra mắt",
+    "message": "Trang này hiện đang được xây dựng. Chúng tôi sẽ sớm quay lại.",
+    "backHome": "Về trang chủ"
+  }
+}

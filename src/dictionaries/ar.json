@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "عن الأكاديمية",
+    "programs": "البرامج الدراسية",
+    "campus": "دليل الحياة في الفلبين",
+    "services": "التكاليف والسكن",
+    "admission": "القبول",
+    "community": "المجتمع"
+  },
+  "hero": {
+    "sloganMain": "⁦The Best Options!⁩",
+    "sloganSub": "أفضل دورات الانغماس في اللغة الإنجليزية في سيبو، مصممة وفق أهدافك",
+    "ctaConsult": "استشارة عبر ⁦KakaoTalk⁩ / الإنترنت",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "⁦PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES⁩",
+    "headlineLine1": "من سيبو تبدأ",
+    "headlineLine2": "رحلة التغيير الحقيقي في لغتك الإنجليزية",
+    "accent": "⁦Speaking & Conversation⁩",
+    "description": "تعليم متميز للغة الإنجليزية يتمحور حول التحدث والمحادثة،\nتستخدم فيه الإنجليزية في الحياة اليومية وفي المدارس المحلية.",
+    "ctaPrimary": "احجز استشارة",
+    "ctaPrograms": "استكشف البرامج",
+    "ctaCost": "تعرّف على تكاليف البرامج",
+    "facts": [
+      {
+        "value": "⁦AGES 5+⁩",
+        "label": "من الأطفال بعمر 5 سنوات حتى البالغين"
+      },
+      {
+        "value": "⁦2·4·8·12 WEEKS⁩",
+        "label": "برامج مرنة لمدة 2 · 4 · 8 · 12 أسبوعًا"
+      },
+      {
+        "value": "⁦2 OPENINGS / MONTH⁩",
+        "label": "انطلاق الفصول النظامية مرتين كل شهر"
+      },
+      {
+        "value": "⁦UP TO 4 HOURS / DAY⁩",
+        "label": "برنامج للغة الإنجليزية يمتد نحو 8 ساعات يوميًا، محوره دروس فردية 1:1 تصل إلى 4 ساعات يوميًا، ويتكامل فيه التعلّم مع الحياة اليومية بشكل طبيعي"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "حرم ⁦SYA⁩ في سيبو بطابع المنتجعات مع أشجار النخيل والمسبح"
+  },
+  "langSwitcher": {
+    "label": "اللغة"
+  },
+  "whySya": {
+    "title": "⁦WHY SYA?⁩",
+    "subtitle": "تعليم متميز للغة الإنجليزية على طريقة ⁦SYA⁩",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "تعليم للغة الإنجليزية محوره التحدث",
+        "description": "لا نكتفي بالقواعد وحل التمارين، بل ننمّي القدرة على الاستماع والتحدث واستخدام الإنجليزية فعليًا."
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "إنجليزية تستمر خارج الفصل الدراسي",
+        "description": "من خلال الحياة اليومية في سيبو والمشاركة في دروس مدرسة محلية، يطبّق الطلاب ما تعلّموه في مواقف حقيقية."
+      },
+      "premiumStay": {
+        "englishTitle": "⁦Premium Stay & Care⁩",
+        "title": "بيئة متميزة يتناغم فيها التعلّم مع الحياة",
+        "description": "بفضل السكن المريح وبيئة المعيشة الهادئة، نوفّر برنامجًا دراسيًا يحقق التوازن بين التعلّم والراحة."
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "⁦LIVE & LEARN IN CEBU⁩",
+    "title": "عِش شهرًا في سيبو،\nوجرّب الإنجليزية الحقيقية.",
+    "description": [
+      "نربط دراسة المحادثة الإنجليزية\nبالحياة في سيبو في تجربة واحدة.",
+      "يمكن للبالغين والطلاب والأطفال اختيار البرنامج\nالذي يناسب أهدافهم وجدولهم،\nوتجربة الإنجليزية في الدروس وفي الحياة اليومية."
+    ],
+    "audienceNote": "يمكن للبالغين والأطفال والعائلات استشارتنا حول البرنامج الذي يناسب أهدافهم.",
+    "consultCta": "استشر حول الإقامة لمدة شهر في سيبو",
+    "image": {
+      "alt": "التنقل بين الجزر في بحر سيبو",
+      "caption": "⁦Island Hopping · Cebu⁩"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "إنجليزية محورها التحدث",
+        "description": "تعلّم من خلال التحدث والمحادثة،\nواستخدم ما تتعلمه في حياتك اليومية."
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "تجربة الإنجليزية في الحياة اليومية",
+        "description": "أبعد من الفصل الدراسي، يستخدم الطلاب الإنجليزية\nفي الحياة اليومية في سيبو\nوفي بيئات معيشية متنوعة."
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "تجربة مدرسة خاصة محلية عن قرب",
+        "description": "بناءً على التنسيق مع المدرسة،\nنتيح للطلاب فرصة مميزة لتجربة\nالبيئة التعليمية الحقيقية لمدرسة خاصة محلية."
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "تجربة المدرسة المحلية",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "تعلّم الإنجليزية في سيبو،\nواختبر البيئة المدرسية المحلية وثقافتها التعليمية،\nمع فرص لاستخدام الإنجليزية في الحياة الواقعية.",
+      "conditionNote": "نوضّح إمكانية المشاركة الفعلية ومواعيدها وفقًا للتنسيق مع المدرسة المحلية وشروط تشغيل البرنامج.",
+      "imageAlt": "معلّمة وطلاب يتشاركون درسًا في فصل بمدرسة محلية"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "برامج ⁦SYA⁩ المتميزة للغة الإنجليزية،\nتختارها وفق أهدافك وجدولك",
+    "subtitle": "محورها التحدث والمحادثة، للأطفال وحتى البالغين، بمدد 2 و4 و8 و12 أسبوعًا.",
+    "viewAll": "عرض جميع البرامج",
+    "learnMore": "اعرف المزيد",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "⁦2 · 4 · 8 · 12 WEEKS⁩",
+      "localized": "2 · 4 · 8 · 12 أسبوعًا"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "⁦UP TO 4 HOURS / DAY⁩",
+      "localized": "برنامج للغة الإنجليزية يمتد نحو 8 ساعات يوميًا، محوره دروس فردية 1:1 تصل إلى 4 ساعات يوميًا، ويتكامل فيه التعلّم مع الحياة اليومية بشكل طبيعي"
+    },
+    "audienceLabel": "الفئة المستهدفة",
+    "familyOptionsLabel": "خيارات العائلة",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "البرامج النظامية",
+        "description": "برامج إنجليزية أساسية تبني مهارات عملية للحياة الواقعية، محورها التحدث والمحادثة.",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "⁦1ST & 3RD MONDAY⁩",
+          "localized": "انطلاق مرتين شهريًا · الاثنين الأول والثالث"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "برامج المخيمات",
+        "description": "برامج تجمع بين تعلّم الإنجليزية والحياة اليومية، مصممة حول العطلات المدرسية والإقامات العائلية."
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "الإنجليزية المكثفة ⁦(Intensive ESL)⁩",
+        "summary": "برنامج محوره التحدث والمحادثة، يوازن بين الاستماع والتحدث ويبني الإنجليزية العملية وفق مستوى كل طالب.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "الطلاب والبالغون الراغبون في بناء إنجليزية عملية، من المحادثة الأساسية حتى التواصل الطبيعي",
+        "purpose": "بناء القدرة على استخدام الإنجليزية بثقة في المواقف الحقيقية من خلال دروس تركّز على التحدث والمحادثة.",
+        "direction": "نقيّم مستوى كل طالب، ونوازن بين الاستماع والتحدث، ونكرّر التدرب على عبارات يمكن استخدامها فورًا في المحادثات الحقيقية.",
+        "focusAreas": [
+          {
+            "title": "⁦Speaking & Conversation⁩",
+            "description": "بناء الثقة والطلاقة في التحدث من خلال محادثات حول موضوعات يومية ومتنوعة."
+          },
+          {
+            "title": "Listening",
+            "description": "فهم الإنجليزية بسرعتها الطبيعية والرد بشكل طبيعي في المحادثة."
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "يُكيَّف محتوى التعلّم ووتيرته وفق مستوى كل طالب وأهدافه."
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "الإنجليزية للأعمال",
+        "summary": "برنامج عملي يساعدك على التواصل بثقة بالإنجليزية في مواقف العمل الحقيقية مثل الاجتماعات والبريد الإلكتروني والعروض التقديمية.",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "المهنيون الذين يستخدمون الإنجليزية في العمل والبالغون المستعدون لوظيفة جديدة أو تغيير مسارهم المهني",
+        "purpose": "تطوير مهارات التواصل بالإنجليزية اللازمة في مواقف العمل الحقيقية مع التركيز على الجانب العملي.",
+        "direction": "من خلال التدرب المتكرر على التحدث والكتابة استنادًا إلى سيناريوهات عمل حقيقية مثل الاجتماعات والبريد الإلكتروني والعروض التقديمية، نهدف إلى تواصل واثق.",
+        "focusAreas": [
+          {
+            "title": "⁦Meetings & Discussion⁩",
+            "description": "تعلّم عبارات إدارة الاجتماعات وتبادل الآراء والوصول إلى اتفاق."
+          },
+          {
+            "title": "Business Email",
+            "description": "تعلّم تنظيم رسائل البريد الإلكتروني وصياغتها بوضوح لكل موقف."
+          },
+          {
+            "title": "Presentation",
+            "description": "التدرب على بناء العروض التقديمية وإيصال الرسائل الأساسية بفعالية."
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "التحضير للدراسة في الخارج",
+        "summary": "استعد بالإنجليزية التي تحتاجها للحياة المدرسية في الخارج: التعبيرات الأكاديمية إلى جانب التحدث والعروض التقديمية والنقاشات.",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "الطلاب المستعدون للدراسة في الخارج أو الانضمام إلى برنامج تبادل أو بدء الدراسة في مدرسة بالخارج",
+        "purpose": "التحضير المسبق لمهارات الإنجليزية اللازمة للحياة المدرسية والبيئات الأكاديمية في الخارج.",
+        "direction": "يتمحور التدرب على التحدث حول المواقف التي ستواجهها أثناء الدراسة في الخارج، مثل المشاركة في الدروس وتقديم العروض والنقاش.",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "تعلّم الإنجليزية الأكاديمية الشائعة في الدروس والواجبات."
+          },
+          {
+            "title": "⁦Presentation & Discussion⁩",
+            "description": "التدرب على عرض أفكارك والمشاركة في النقاشات."
+          },
+          {
+            "title": "School Life English",
+            "description": "الاستعداد بالإنجليزية اللازمة للتواصل مع الزملاء والمعلمين."
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "⁦SUMMER / WINTER CAMP⁩",
+        "name": "مخيم العطلة الصيفية / الشتوية",
+        "summary": "خلال العطلات المدرسية، يجمع الطلاب بين دراسة الإنجليزية وتجارب حياتية متنوعة، مع التركيز على التحدث والمحادثة العملية.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "الأطفال والمراهقون بشكل أساسي",
+        "purpose": "بناء الثقة في الإنجليزية بالجمع بين الدراسة وتجارب الحياة اليومية في سيبو خلال العطلة المدرسية.",
+        "direction": "تتمحور الدروس حول التحدث والمحادثة، ونولي أهمية لتجربة استخدام ما يتعلمه الطلاب فعليًا في الحياة اليومية.",
+        "focusAreas": [
+          {
+            "title": "⁦Speaking & Conversation⁩",
+            "description": "يساعد التدرب على المحادثة في الدروس الطلاب على الارتياح في التحدث بالإنجليزية."
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "يستخدم الطلاب الإنجليزية التي يتعلمونها بشكل طبيعي من خلال تجارب يومية متنوعة."
+          },
+          {
+            "title": "Confidence in English",
+            "description": "يبني الطلاب ثقتهم بأنفسهم وهم يستمتعون بالتعبير عن أنفسهم بالإنجليزية."
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "مخيم العائلة على مدار العام",
+        "summary": "برنامج عائلي للغة الإنجليزية يعيش فيه الأطفال والآباء معًا في سيبو أثناء تعلّم الإنجليزية.",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "العائلات الراغبة في العيش معًا في سيبو وتعلّم الإنجليزية مع أطفالها",
+        "purpose": "تمكين العائلات من العيش معًا في سيبو وتعلّم الإنجليزية بطريقة تناسب تكوين العائلة.",
+        "direction": "تختار العائلات من يحضر الدروس بحسب تكوينها وجدولها، وتركّز جميع الدروس على التحدث والمحادثة.",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "دروس تركّز على التحدث والمحادثة وتناسب مستوى كل طفل."
+          },
+          {
+            "title": "English for Parents",
+            "description": "عند التحاق الآباء أيضًا، يتعلمون إنجليزية عملية للحياة اليومية والسفر."
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "تخلق الحياة اليومية في سيبو فرصًا لاستخدام الإنجليزية للعائلة بأكملها."
+          }
+        ],
+        "familyOptions": [
+          "الأطفال فقط",
+          "الأطفال + أحد الوالدين",
+          "الأطفال + الوالدان"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "برامج ⁦SYA⁩ النظامية للغة الإنجليزية، حيث تتعلم\nإنجليزية يمكنك استخدامها في الحياة الواقعية،\nمحورها ⁦Speaking & Conversation⁩",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "ثلاثة برامج\nتناسب هدفك من تعلّم الإنجليزية",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "تعلّم إنجليزية يمكنك استخدامها في الحياة الواقعية،\nمحورها ⁦Speaking & Conversation⁩."
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "تعلّم عبارات إنجليزية عملية ومهارات تواصل\nيمكنك استخدامها فورًا في العمل والحياة اليومية."
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "استعد لمرحلتك التعليمية التالية وللدراسة في الخارج،\nوابنِ ثقتك في التعلّم والتواصل بالإنجليزية."
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "تحدّث بالإنجليزية التي تتعلمها في الدروس،\nواستخدمها في الحياة اليومية في سيبو،\nوابنِ ثقة حقيقية في لغتك الإنجليزية."
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "هل أنت مستعد لبدء تعلّم الإنجليزية؟"
+    },
+    "campPage": {
+      "description": "تعلّم الإنجليزية، وعِش في سيبو،\nوشارك في الأنشطة والتجارب المميزة.",
+      "consultCta": "احجز استشارة المخيم",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "مخيمان يجمعان الإنجليزية\nبتجارب مميزة في سيبو",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "⁦SUMMER / WINTER CAMP⁩",
+          "summary": "برنامج لتجربة تعلّم الإنجليزية\nومجموعة متنوعة من أنشطة سيبو خلال العطلات المدرسية",
+          "imageAlt": "أصدقاء يستمتعون بالتنقل بين الجزر في بحر سيبو"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "برنامج عائلي يعيش فيه الأطفال والآباء معًا في سيبو،\nويكتشفون الإنجليزية وتجارب جديدة",
+          "imageAlt": "أطفال يدرسون في الهواء الطلق مع معلّم"
+        }
+      },
+      "different": {
+        "eyebrow": "⁦WHAT MAKES SYA CAMP DIFFERENT?⁩",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "محوره ⁦Speaking & Conversation⁩"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "حياة حقيقية خارج الفصل الدراسي"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "تجربة طبيعة سيبو وثقافتها"
+          },
+          {
+            "label": "CARE",
+            "text": "توازن بين التعلّم والحياة اليومية"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "حتى 4 ساعات يوميًا من الدروس التي تركّز على التحدث والمحادثة"
+          },
+          {
+            "label": "MEALS",
+            "text": "3 وجبات بوفيه يوميًا"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "تجربة طبيعة سيبو وثقافتها"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "وقت لاستخدام الإنجليزية خارج الفصل الدراسي"
+          },
+          {
+            "label": "⁦REST & CARE⁩",
+            "text": "راحة مريحة ورعاية يومية"
+          }
+        ],
+        "note": "سنشارك الجدول التفصيلي بعد تأكيد مواعيد المخيم."
+      },
+      "stayMeals": {
+        "eyebrow": "⁦STAY & MEALS⁩",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "مكان إقامة مريح يحافظ\nعلى التوازن بين التعلّم والراحة.",
+          "imageAlt": "غرفة في ⁦BE Pods Lahug⁩"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "3 وجبات بوفيه يوميًا",
+          "description": "تُقدَّم الوجبات لحياة مريحة في المخيم.",
+          "imageAlt": "بوفيه مع تشكيلة متنوعة من الفواكه"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "يمكن للأطفال المشاركة بمفردهم،\nأو مع والديهم.",
+        "optionLabels": [
+          "CHILD ONLY",
+          "⁦CHILD + 1 PARENT⁩",
+          "⁦CHILD + 2 PARENTS⁩"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "⁦SUMMER / WINTER · YEAR-ROUND⁩",
+        "localized": "مخيم العطلة: العطلتان الصيفية والشتوية · مخيم العائلة: على مدار العام · نوضّح المواعيد الدقيقة خلال الاستشارة"
+      },
+      "closingTitle": "اعثر على المخيم المناسب لطفلك.",
+      "closingSummerCta": "استشارة مخيم الصيف / الشتاء",
+      "closingFamilyCta": "استشارة مخيم العائلة",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "اختر تجربتك مع ⁦SYA⁩",
+      "includesLabel": "البرامج المشمولة",
+      "regular": {
+        "tagline": "⁦Learn English. Build Your Future.⁩",
+        "description": "برامج ⁦SYA⁩ النظامية للغة الإنجليزية التي تبني\nمهاراتك في الإنجليزية وقدرتك على استخدامها",
+        "imageAlt": "طلاب في درس محادثة مع إطلالة على البحر"
+      },
+      "camp": {
+        "tagline": "⁦Learn English. Live in Cebu. Make memories.⁩",
+        "description": "برامج مخيمات ⁦SYA⁩ التي تجمع بين الإنجليزية\nوالحياة في سيبو والأنشطة والتجارب العائلية",
+        "imageAlt": "أصدقاء يستمتعون بالتنقل بين الجزر في بحر سيبو"
+      }
+    },
+    "detail": {
+      "pageTitle": "البرامج",
+      "pageSubtitle": "برامج ⁦SYA⁩ للغة الإنجليزية محورها التحدث والمحادثة، تختارها وفق أهدافك وجدولك",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "هدف البرنامج",
+      "audienceLabel": "موصى به لـ",
+      "directionLabel": "أسلوب التدريس",
+      "focusAreasLabel": "مجالات التعلّم الرئيسية",
+      "durationLabel": "مدة البرنامج",
+      "classHoursLabel": "ساعات الدروس",
+      "openingsLabel": "مواعيد البدء",
+      "timetableLabel": "الجدول اليومي",
+      "timetablePending": "سنشارك الجدول التفصيلي بعد اعتماده. تعمل جميع البرامج بحد أقصى 4 ساعات من الدروس يوميًا.",
+      "timeHeader": "الوقت",
+      "subjectHeader": "الدرس",
+      "consultTitle": "هل أنت مهتم بهذا البرنامج؟",
+      "consultDescription": "سنوصي بالبرنامج والمدة المناسبين بناءً على أهدافك وجدولك وتكوين عائلتك.",
+      "consultCta": "استشر حول هذا البرنامج",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "تجربة المدرسة المحلية (اختيارية)",
+        "description": "برنامج اختياري يتيح للطلاب، أثناء تعلّم الإنجليزية في سيبو، تجربة البيئة المدرسية المحلية وثقافتها التعليمية واستخدام الإنجليزية في الحياة الواقعية.",
+        "conditionNote": "تعتمد إمكانية المشاركة الفعلية ومواعيدها على عمر الطالب والتنسيق مع المدرسة المحلية وشروط تشغيل البرنامج، ونوضّحها خلال الاستشارة.",
+        "consultCta": "استشر حول تجربة المدرسة المحلية"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "تكاليف برامج ⁦SYA⁩\nبوضوح تام",
+    "description": "اطّلع على التكاليف التقديرية حسب البرنامج ومدة الدراسة،\nواطلب عرض سعر مخصصًا عبر الاستشارة عند الحاجة.",
+    "durationLabel": "مدة الدراسة",
+    "weeks": {
+      "2": "أسبوعان",
+      "4": "4 أسابيع",
+      "8": "8 أسابيع",
+      "12": "12 أسبوعًا"
+    },
+    "tuitionFeeLabel": "الرسوم الدراسية",
+    "allDurationsLabel": "الرسوم الدراسية حسب المدة",
+    "onRequest": "عند الاستشارة",
+    "perChild": "لكل طفل",
+    "familyParentNote": "نوضّح تكاليف الوالدين المرافقين خلال الاستشارة.",
+    "notes": [
+      "الأسعار المعروضة هي الرسوم الدراسية فقط؛ السكن والرسوم المحلية منفصلة.",
+      "الأسعار الحالية أسعار مرجعية أولية وقد تتغير.",
+      "البنود المشار إليها بـ«عند الاستشارة» تُؤكَّد خلال الاستشارة."
+    ],
+    "consultCta": "اطلب عرض سعر مخصصًا",
+    "calculatorCta": "احسب التكلفة التقديرية"
+  },
+  "estimator": {
+    "title": "حاسبة التكلفة",
+    "subtitle": "اختر البرنامج ومدة الدراسة والمشاركين والسكن لمعرفة التكلفة التقديرية.",
+    "steps": {
+      "course": "البرنامج",
+      "duration": "مدة الدراسة",
+      "participant": "المشاركون",
+      "stay": "السكن",
+      "parents": "الوالدان المرافقان"
+    },
+    "participantTypes": {
+      "adult": "بالغ",
+      "student": "طفل / مراهق"
+    },
+    "childCountLabel": "الأطفال",
+    "parentCountLabel": "الوالدان",
+    "stayOptions": {
+      "included": "مع السكن",
+      "none": "لا حاجة إلى سكن"
+    },
+    "stayNote": "نوضّح توزيع الغرف وتكاليف السكن خلال الاستشارة.",
+    "summaryTitle": "التكلفة التقديرية",
+    "lines": {
+      "tuition": "الرسوم الدراسية",
+      "additionalChild": "طفل إضافي",
+      "parent": "أحد الوالدين المرافقين",
+      "stay": "السكن",
+      "option": "خيار إضافي"
+    },
+    "educationSubtotal": "المجموع الفرعي للرسوم الدراسية",
+    "totalLabel": "الإجمالي التقديري",
+    "knownTotalLabel": "المجموع الفرعي المؤكَّد",
+    "totalNote": "البنود المشار إليها بـ«عند الاستشارة» غير مشمولة في الإجمالي. الرسوم المحلية منفصلة.",
+    "consultCta": "استشر بهذه الخيارات"
+  },
+  "accommodation": {
+    "chapterLabel": "⁦STAY & LIVE IN CEBU⁩",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "فندق متميز يتناغم فيه\nالتعلّم مع الراحة بشكل طبيعي",
+    "description": "بعد يوم مليء بالتركيز على التعلّم،\nيمكن للطلاب أن يرتاحوا جيدًا في مكان إقامة\nنظيف ومريح.",
+    "lobby": {
+      "caption": "⁦Lobby & Lounge⁩",
+      "alt": "صالة الاستقبال في ⁦BE Pods Lahug⁩"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "يوم مستقر يبدأ\nفي غرفة مريحة",
+      "description": "بفضل الأسرّة المريحة والغرفة المرتبة،\nيمكن للطلاب أن يرتاحوا جيدًا بعد الدروس.",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "غرفة بسريرين في ⁦BE Pods Lahug⁩"
+      }
+    },
+    "facilities": {
+      "eyebrow": "⁦RESORT-STYLE FACILITIES⁩",
+      "title": "بيئة معيشية متوازنة\nبين التعلّم والراحة",
+      "description": "بعد الدروس، يمكن للطلاب الاسترخاء بجانب المسبح وعلى كراسي الاستلقاء في نهاية اليوم.",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "المسبح وكراسي الاستلقاء في ⁦BE Pods Lahug⁩"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "راحة يومية\nطوال فترة إقامتك",
+      "description": "تساعد المساحات المخصصة للاحتياجات اليومية الطلاب على الحفاظ على روتين ثابت، حتى خلال الإقامات الطويلة.",
+      "gym": {
+        "caption": "Fitness",
+        "text": "مساحة لممارسة التمارين الخفيفة والحفاظ على إيقاع يومي صحي",
+        "alt": "منطقة اللياقة البدنية في ⁦BE Pods Lahug⁩"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "مساحة تلبي الاحتياجات اليومية خلال الإقامات الطويلة",
+        "alt": "مساحة معيشة مع غسالة ملابس في ⁦BE Pods Lahug⁩"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "يوم في ⁦BE Pods⁩",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "مسبح الفناء الذي يحيط به مبنى ⁦BE Pods Lahug⁩"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "غرفة نوم مشرقة بنوافذ كبيرة في ⁦BE Pods Lahug⁩"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "نزلاء يستمتعون بالمسبح"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "قد يُستخدم كسكن إضافي بحسب توفر الغرف في ⁦BE Pods⁩."
+    },
+    "closing": {
+      "eyebrow": "⁦A PLACE TO REST, A PLACE TO LIVE.⁩",
+      "title": "حتى بعد انتهاء الدروس،\nيبقى يومك مريحًا.",
+      "description": "ليس المكان الذي تتعلم فيه الإنجليزية فحسب،\nبل أيضًا المكان الذي تقيم فيه وطريقة قضاء أيامك\nتصبح جميعها تجربة تعليمية واحدة.",
+      "imageAlt": "المسبح في ⁦BE Pods Lahug⁩"
+    }
+  },
+  "localFees": {
+    "title": "دليل المدفوعات المحلية",
+    "subtitle": "تصريح ⁦SSP⁩ وتمديد التأشيرة والبنود المتعلقة بالسكن",
+    "heading": "الرسوم المحلية في الفلبين",
+    "description": "هذه بنود تكاليف مرتبطة بالإقامة والمعيشة في الفلبين. تعتمد المبالغ ومواعيد الدفع على مدة إقامتك وجدولك، ونوضّحها خلال الاستشارة.",
+    "columns": {
+      "item": "البند",
+      "amount": "المبلغ",
+      "note": "التفاصيل"
+    },
+    "onRequest": "عند الاستشارة",
+    "items": {
+      "ssp": {
+        "name": "⁦SSP (Special Study Permit)⁩",
+        "note": "تصريح دراسة مطلوب للطلاب الأجانب الملتحقين بدورات اللغة في الفلبين"
+      },
+      "visaExtension1": {
+        "name": "تمديد التأشيرة (للإقامة أكثر من 30 يومًا)",
+        "note": "مطلوب إذا تجاوزت إقامتك 30 يومًا بعد الدخول دون تأشيرة"
+      },
+      "visaExtension2": {
+        "name": "تمديد إضافي للتأشيرة (للإقامة أكثر من 59 يومًا)",
+        "note": "تلزم تمديدات إضافية بحسب مدة الإقامة"
+      },
+      "acrICard": {
+        "name": "بطاقة ⁦ACR I-Card⁩ (تسجيل الأجانب)",
+        "note": "بطاقة تسجيل الأجانب المطلوبة للإقامة 59 يومًا أو أكثر"
+      },
+      "accommodationDeposit": {
+        "name": "تأمين السكن",
+        "note": "نوضّح المبلغ وشروط الاسترداد خلال الاستشارة"
+      },
+      "accommodationUtilities": {
+        "name": "مرافق السكن (الكهرباء/المياه)",
+        "note": "تختلف بحسب السكن والاستهلاك؛ نوضّحها خلال الاستشارة"
+      },
+      "courseMaterials": {
+        "name": "المواد الدراسية",
+        "note": "تختلف بحسب البرنامج والمستوى؛ نوضّحها خلال الاستشارة"
+      },
+      "airportPickup": {
+        "name": "الاستقبال من المطار",
+        "note": "الاستقبال عند الوصول إلى مطار ماكتان-سيبو الدولي — نوضّح التفاصيل والتكلفة خلال الاستشارة"
+      }
+    },
+    "depositBox": {
+      "title": "تأمين السكن",
+      "description": "نوضّح مبلغ تأمين السكن وشروط استرداده خلال الاستشارة."
+    },
+    "paymentBox": {
+      "title": "معلومات الدفع",
+      "description": "نوضّح عملة الدفع وموعده للرسوم المحلية خلال الاستشارة، بحسب جدولك."
+    }
+  },
+  "consultation": {
+    "interestsLabel": "التجارب التي تهمك",
+    "interests": {
+      "cebuMonthStay": "الإقامة لمدة شهر في سيبو",
+      "localSchool": "تجربة المدرسة المحلية"
+    },
+    "noneLabel": "لا يوجد"
+  },
+  "comingSoon": {
+    "badge": "قريبًا",
+    "message": "هذه الصفحة قيد الإنشاء حاليًا. سنعود قريبًا بالمزيد.",
+    "backHome": "العودة إلى الصفحة الرئيسية"
+  }
+}

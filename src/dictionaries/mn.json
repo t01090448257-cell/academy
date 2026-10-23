@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "Бидний тухай",
+    "programs": "Сургалтын хөтөлбөр",
+    "campus": "Филиппин дэх амьдрал",
+    "services": "Төлбөр ба дотуур байр",
+    "admission": "Элсэлт",
+    "community": "Нийгэмлэг"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "Таны зорилгод тохирсон Себү хотын шилдэг англи хэл дадлагажуулах курс",
+    "ctaConsult": "KakaoTalk / Онлайн зөвлөгөө",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "Себугаас эхлэх,",
+    "headlineLine2": "англи хэлний жинхэнэ өөрчлөлт",
+    "accent": "Speaking & Conversation",
+    "description": "Ярих чадвар болон харилцан ярианд төвлөрсөн премиум англи хэлний боловсрол —\nөдөр тутмын амьдрал, орон нутгийн сургуульд англи хэлийг бодитоор хэрэглэнэ.",
+    "ctaPrimary": "Зөвлөгөө авах",
+    "ctaPrograms": "Хөтөлбөр үзэх",
+    "ctaCost": "Сургалтын төлбөр харах",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "5 настай хүүхдээс насанд хүрэгчид хүртэл"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "2 · 4 · 8 · 12 долоо хоногийн сургалт"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "Сард 2 удаа шинэ анги нээгдэнэ"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "Өдөрт дээд тал нь 4 цагийн 1:1 ганцаарчилсан хичээлийг гол болгож, суралцах болон өдөр тутмын амьдрал байгалиасаа уялдсан өдөрт 8 цаг орчим англи хэлний хөтөлбөр"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "Далдуу мод, усан сантай Себу дахь SYA-ийн амралтын газар маягийн кампус"
+  },
+  "langSwitcher": {
+    "label": "Хэл сонгох"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "SYA-ийн онцгой премиум англи хэлний боловсрол",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "Ярих чадварыг төвд тавьсан англи хэлний боловсрол",
+        "description": "Дүрэм, тест бодолтоор хязгаарлагдалгүй, англи хэлийг бодитоор сонсож, ярьж, хэрэглэх чадварыг хөгжүүлнэ."
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "Ангиас гадна ч үргэлжлэх англи хэл",
+        "description": "Себу дахь өдөр тутмын амьдрал болон орон нутгийн сургуулийн хичээлд оролцох замаар сурсан англи хэлээ бодит нөхцөлд хэрэглэнэ."
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "Суралцах болон амьдрал зохицсон премиум орчин",
+        "description": "Тав тухтай байр, амар тайван амьдралын орчинд тулгуурлан хичээл, амралт тэнцвэртэй сургалтын орчныг бүрдүүлнэ."
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "Себуд нэг сар амьдарч,\nжинхэнэ англи хэлийг мэдэр.",
+    "description": [
+      "Англи хэлний ярианы сургалт болон Себу дахь амьдралыг\nнэгэн туршлага болгон холбоно.",
+      "Насанд хүрэгчдээс эхлээд сурагч, хүүхэд хүртэл\nөөрийн зорилго, хуваарьт тохирсон хөтөлбөрөө сонгож,\nхичээл болон бодит амьдралд англи хэлийг мэдэрнэ."
+    ],
+    "audienceNote": "Насанд хүрэгч, хүүхэд, гэр бүл хүртэл өөрийн зорилгод тохирсон хөтөлбөрийн талаар зөвлөгөө авах боломжтой.",
+    "consultCta": "Себуд нэг сар амьдрах талаар зөвлөгөө авах",
+    "image": {
+      "alt": "Себугийн далайд арлаар аялж буй нь",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "Ярихад төвлөрсөн англи хэл",
+        "description": "Ярих, харилцан ярианд төвлөрч суралцаж,\nсурсан англи хэлээ бодит амьдралд хэрэглэнэ."
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "Англи хэлийг амьдралд мэдрэх",
+        "description": "Ангид сурсан зүйлээс цааш\nСебугийн өдөр тутмын амьдрал, олон төрлийн орчинд\nангли хэлийг бодитоор хэрэглэх туршлагыг олгоно."
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Орон нутгийн хувийн сургуулийг биечлэн мэдрэх",
+        "description": "Сургуулийн талтай тохиролцсоны үндсэн дээр\nорон нутгийн хувийн сургуулийн бодит боловсролын орчныг\nмэдрэх онцгой боломжийг олгоно."
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "Орон нутгийн сургуулийн туршлага",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "Себу хотод англи хэл сурахын зэрэгцээ\nорон нутгийн сургуулийн орчин, боловсролын соёлтой танилцаж,\nбодит амьдралд англи хэлийг ашиглах боломжийг олгоно.",
+      "conditionNote": "Бодитоор оролцох боломж болон хуваарийг орон нутгийн сургуультай хийх зөвшилцөл, хөтөлбөрийн зохион байгуулалтын нөхцөлөөс хамааран мэдэгдэнэ.",
+      "imageAlt": "Орон нутгийн сургуулийн ангид багш, сурагчид хамтдаа хичээллэж буй нь"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "Зорилго, хуваарьтаа тохируулан сонгох\nSYA премиум англи хэлний хөтөлбөр",
+    "subtitle": "Ярих чадвар, харилцан ярианд төвлөрсөн, хүүхдээс насанд хүрэгчид хүртэл 2·4·8·12 долоо хоногийн хуваарьт тохируулан сонгох боломжтой.",
+    "viewAll": "Бүх хөтөлбөрийг үзэх",
+    "learnMore": "Дэлгэрэнгүй",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2 · 4 · 8 · 12 долоо хоног"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "Өдөрт дээд тал нь 4 цагийн 1:1 ганцаарчилсан хичээлийг гол болгож, суралцах болон өдөр тутмын амьдрал байгалиасаа уялдсан өдөрт 8 цаг орчим англи хэлний хөтөлбөр"
+    },
+    "audienceLabel": "Хамрах бүлэг",
+    "familyOptionsLabel": "Гэр бүлийн бүрэлдэхүүн",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "Байнгын анги",
+        "description": "Ярих чадвар, харилцан ярианд төвлөрч, англи хэлийг бодитоор хэрэглэх чадварыг хөгжүүлэх үндсэн сургалт.",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "Сард 2 удаа элсэлт · Сарын 1 ба 3 дахь Даваа гараг"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "Кэмп хөтөлбөр",
+        "description": "Амралт болон гэр бүлээрээ байрлах зорилгод тохируулан англи хэлний сургалт, амьдралын туршлагыг хамтад нь олгох хөтөлбөр."
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "Интенсив ESL",
+        "summary": "Ярих чадвар, харилцан ярианд төвлөрч, сонсох ба ярихын тэнцвэрийг хангаж, хүн бүрийн түвшинд тохируулан англи хэлийг бодитоор хэрэглэх чадварыг эрчимтэй сайжруулна.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "Энгийн харилцан ярианаас эхлээд чөлөөтэй харилцаа хүртэл англи хэлээ бодитоор сайжруулахыг хүссэн сурагч, насанд хүрэгчид",
+        "purpose": "Ярих, харилцан ярианд төвлөрсөн хичээлээр бодит нөхцөлд англи хэлийг итгэлтэй хэрэглэх чадварыг хөгжүүлнэ.",
+        "direction": "Хүн бүрийн түвшинг тодорхойлж, сонсох ба ярихын тэнцвэрийг хангаж, бодит ярианд шууд хэрэглэх хэллэгүүдийг давтан дадлагажуулна.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Өдөр тутмын болон олон сэдвээр ярилцаж, ярих итгэл, чөлөөт байдлаа хөгжүүлнэ."
+          },
+          {
+            "title": "Listening",
+            "description": "Байгалийн хурдтай англи яриаг ойлгож, ярианд чөлөөтэй хариулах чадвар эзэмшинэ."
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "Хүн бүрийн түвшин, зорилгод тохируулан хичээлийн агуулга, хурдыг тохируулна."
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "Бизнесийн практик англи хэл",
+        "summary": "Хурал, имэйл, илтгэл зэрэг бодит ажлын нөхцөлд англиар итгэлтэй харилцаж чадахуйц практикт суурилсан сургалт.",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "Ажил дээрээ англиар харилцах шаардлагатай ажилтнууд, ажилд орох болон ажлаа солихоор бэлтгэж буй насанд хүрэгчид",
+        "purpose": "Бодит ажлын нөхцөлд шаардлагатай англи хэлний харилцааны чадварыг практикт суурилан эзэмшинэ.",
+        "direction": "Хурал, имэйл, илтгэл зэрэг бодит ажлын нөхцөлд тулгуурлан ярих, бичих дадлагыг давтан хийж, итгэлтэй харилцахыг зорино.",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "Хурал удирдах, санал бодлоо илэрхийлэх, зөвшилцөхөд хэрэгтэй хэллэгийг эзэмшинэ."
+          },
+          {
+            "title": "Business Email",
+            "description": "Нөхцөл байдалд тохирсон имэйлийг ойлгомжтой бүтэц, хэллэгээр бичиж сурна."
+          },
+          {
+            "title": "Presentation",
+            "description": "Гол санааг үр дүнтэй хүргэх илтгэлийн бүтэц, илэрхийллийг дадлагажуулна."
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "Гадаадад суралцах бэлтгэл",
+        "summary": "Гадаадын сургуулийн орчин, суралцах нөхцөлд хэрэгтэй англи хэллэг болон ярих, илтгэх, хэлэлцэх зэрэг бодит суралцах амьдралд шаардлагатай англи хэлийг бэлтгэнэ.",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "Гадаадын сургуульд элсэх, солилцооны хөтөлбөрт хамрагдах болон гадаадад суралцахаар бэлтгэж буй сурагчид",
+        "purpose": "Гадаад дахь сургуулийн амьдрал, суралцах орчинд шаардлагатай англи хэлний чадварыг урьдчилан бэлтгэнэ.",
+        "direction": "Хичээлд оролцох, илтгэх, хэлэлцэх зэрэг гадаадад суралцахад тулгарах нөхцөлд төвлөрсөн ярианы дадлага хийнэ.",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "Хичээл, даалгаварт түгээмэл хэрэглэгддэг академик англи хэллэгийг эзэмшинэ."
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "Өөрийн санааг илтгэж, хэлэлцүүлэгт оролцох дадлага хийнэ."
+          },
+          {
+            "title": "School Life English",
+            "description": "Ангийнхан, багш нартай харилцахад хэрэгтэй англи хэлийг бэлтгэнэ."
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "Зуны / Өвлийн амралтын кэмп",
+        "summary": "Амралтын хугацаанд англи хэлний сургалт болон олон төрлийн амьдралын туршлагыг хослуулж, ярих, харилцан ярианд төвлөрсөн практик англи хэлийг эрчимтэй мэдэрнэ.",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "Голчлон хүүхэд, өсвөр насныхан",
+        "purpose": "Амралтын үеэр Себуд англи хэлний сургалт, амьдралын туршлагыг хослуулж, англи хэлэнд итгэх итгэлийг хөгжүүлнэ.",
+        "direction": "Ярих, харилцан ярианд төвлөрсөн хичээл дээр тулгуурлан сурсан англи хэлээ амьдралд шууд хэрэглэх туршлагыг чухалчилна.",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "Хичээл дээрх ярианы дадлагаар англиар ярихад дасна."
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "Олон төрлийн амьдралын туршлага дундаас сурсан англи хэлээ байгалийн жамаар хэрэглэнэ."
+          },
+          {
+            "title": "Confidence in English",
+            "description": "Англиар илэрхийлэхийн таашаалыг мэдэрч итгэлээ нэмэгдүүлнэ."
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "Жилийн турш гэр бүлийн кэмп",
+        "summary": "Хүүхэд, эцэг эх хамтдаа Себуд амьдарч англи хэл сурах гэр бүлд зориулсан англи хэлний хөтөлбөр.",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "Хүүхэдтэйгээ хамт Себуд амьдарч англи хэл сурахыг хүссэн гэр бүл",
+        "purpose": "Гэр бүлээрээ Себуд хамтдаа амьдарч, гэр бүлийн бүрэлдэхүүнд тохируулан англи хэл сурах боломжийг олгоно.",
+        "direction": "Гэр бүлийн бүрэлдэхүүн, хуваарьт тохируулан хичээлд суух хүнээ сонгож, ярих, харилцан ярианд төвлөрсөн хичээлээр явуулна.",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "Хүүхдийн түвшинд тохирсон ярих, харилцан ярианд төвлөрсөн хичээл явуулна."
+          },
+          {
+            "title": "English for Parents",
+            "description": "Эцэг эх хамт хичээллэх тохиолдолд өдөр тутам, аялалд хэрэгтэй практик англи хэл сурна."
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "Себу дахь амьдралд гэр бүлээрээ англи хэл хэрэглэх боломжийг бүрдүүлнэ."
+          }
+        ],
+        "familyOptions": [
+          "Зөвхөн хүүхэд хичээллэнэ",
+          "Хүүхэд + 1 эцэг эх",
+          "Хүүхэд + 2 эцэг эх"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "Speaking & Conversation-д төвлөрч,\nбодит амьдралд хэрэглэх англи хэлийг сурах\nSYA-ийн үндсэн англи хэлний хөтөлбөр",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "Англи хэл сурах зорилгодоо тохирсон\nгурван хөтөлбөр",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "Speaking & Conversation-д төвлөрч,\nбодит амьдралд хэрэглэх англи хэлийг сурна."
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "Ажил болон өдөр тутамд шууд хэрэглэх\nпрактик англи хэллэг, харилцааг эзэмшинэ."
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "Дараагийн боловсролын шат, гадаадад суралцахад бэлтгэж,\nангли хэлээр суралцах, харилцах итгэлээ бэхжүүлнэ."
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "Ангид сурсан англи хэлээ бодитоор ярьж,\nСебугийн өдөр тутмын амьдралд хэрэглэн,\nангли хэлэнд итгэх итгэлээ бий болгоно."
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "Англи хэл сурч эхлэхэд бэлэн үү?"
+    },
+    "campPage": {
+      "description": "Англи хэл сурч, Себуд амьдарч,\nолон төрлийн үйл ажиллагаа, онцгой туршлагыг хуваалцана.",
+      "consultCta": "Кэмпийн зөвлөгөө авах",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "Англи хэлийг Себу дахь онцгой туршлагатай\nхослуулсан хоёр кэмп",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "Амралтын үеэр англи хэлний сургалт болон\nСебугийн олон төрлийн үйл ажиллагааг хамтад нь мэдрэх хөтөлбөр",
+          "imageAlt": "Найзуудтайгаа Себугийн далайд арлаар аялж буй нь"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "Хүүхэд, эцэг эх хамтдаа Себуд амьдарч,\nангли хэл болон шинэ туршлагатай танилцах гэр бүлийн хөтөлбөр",
+          "imageAlt": "Багштайгаа гадаа хичээллэж буй хүүхдүүд"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "Speaking & Conversation-д төвлөрсөн"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Ангиас гадуурх бодит амьдрал"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Себугийн байгаль, соёлыг мэдрэх"
+          },
+          {
+            "label": "CARE",
+            "text": "Суралцах, амьдрахын тэнцвэртэй орчин"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "Өдөрт хамгийн ихдээ 4 цаг, ярианд төвлөрсөн хичээл"
+          },
+          {
+            "label": "MEALS",
+            "text": "Өдөрт 3 удаа буфет хоол"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "Себугийн байгаль, соёлыг мэдрэх"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "Ангиас гадуур англи хэл хэрэглэх цаг"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "Тав тухтай амралт, амьдралын халамж"
+          }
+        ],
+        "note": "Дэлгэрэнгүй хуваарийг кэмпийн хуваарь батлагдсаны дараа мэдэгдэнэ."
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "Тав тухтай байранд суралцах, амрахын\nтэнцвэрийг хадгална.",
+          "imageAlt": "BE Pods Lahug-ийн өрөө"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "Өдөрт 3 удаа буфет",
+          "description": "Кэмпийн тав тухтай амьдралд зориулсан хоол санал болгоно.",
+          "imageAlt": "Олон төрлийн жимс бүхий буфет"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "Хүүхэд ганцаараа ч,\nэцэг эхтэйгээ хамт ч оролцож болно.",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "Амралтын кэмп: зун, өвлийн амралт · Гэр бүлийн кэмп: жилийн турш · Тодорхой хуваарийг зөвлөгөөний үеэр мэдэгдэнэ"
+      },
+      "closingTitle": "Хүүхэддээ тохирох кэмпийн талаар зөвлөгөө аваарай.",
+      "closingSummerCta": "Зуны / өвлийн кэмпийн зөвлөгөө",
+      "closingFamilyCta": "Гэр бүлийн кэмпийн зөвлөгөө",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "Өөрт тохирох SYA туршлагаа сонгоорой",
+      "includesLabel": "Багтсан хөтөлбөрүүд",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "Англи хэлний чадвар, бодит хэрэглээг хөгжүүлэх\nSYA-ийн үндсэн англи хэлний хөтөлбөр",
+        "imageAlt": "Далай харагдах ангид ярианы хичээлд сууж буй сурагчид"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "Англи хэлийг Себу дахь амьдрал, үйл ажиллагаа,\nгэр бүлийн туршлагатай хослуулсан SYA-ийн кэмп хөтөлбөр",
+        "imageAlt": "Найзуудтайгаа Себугийн далайд арлаар аялж буй нь"
+      }
+    },
+    "detail": {
+      "pageTitle": "Сургалтын хөтөлбөр",
+      "pageSubtitle": "Ярих, харилцан ярианд төвлөрсөн, зорилго, хуваарьтаа тохируулан сонгох SYA-ийн англи хэлний хөтөлбөрүүд",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "Хөтөлбөрийн зорилго",
+      "audienceLabel": "Санал болгох бүлэг",
+      "directionLabel": "Сургалтын чиглэл",
+      "focusAreasLabel": "Үндсэн суралцах чиглэл",
+      "durationLabel": "Сургалтын хугацаа",
+      "classHoursLabel": "Хичээлийн цаг",
+      "openingsLabel": "Элсэлтийн өдөр",
+      "timetableLabel": "Өдрийн хуваарь",
+      "timetablePending": "Дэлгэрэнгүй хуваарийг үйл ажиллагааны хуваарь батлагдсаны дараа мэдэгдэнэ. Бүх хөтөлбөр өдөрт хамгийн ихдээ 4 цагийн хичээлээр явагдана.",
+      "timeHeader": "Цаг",
+      "subjectHeader": "Хичээл",
+      "consultTitle": "Энэ хөтөлбөрийг сонирхож байна уу?",
+      "consultDescription": "Таны зорилго, хуваарь, гэр бүлийн бүрэлдэхүүнд тохирсон хөтөлбөр, хугацааг зөвлөнө.",
+      "consultCta": "Энэ хөтөлбөрөөр зөвлөгөө авах",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "Орон нутгийн сургуулийн туршлага (сонголтот)",
+        "description": "Себу хотод англи хэл сурахын зэрэгцээ орон нутгийн сургуулийн орчин, боловсролын соёлтой танилцаж, бодит амьдралд англи хэлийг ашиглах сонголтот хөтөлбөр юм.",
+        "conditionNote": "Бодитоор оролцох боломж болон хуваарийг сурагчийн нас, орон нутгийн сургуультай хийх зөвшилцөл, хөтөлбөрийн зохион байгуулалтын нөхцөлөөс хамааран зөвлөгөөний үеэр мэдэгдэнэ.",
+        "consultCta": "Орон нутгийн сургуулийн туршлагын талаар зөвлөгөө авах"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "Ил тод харагдах\nSYA-ийн сургалтын зардал",
+    "description": "Хөтөлбөр, сургалтын хугацаанаас хамааран урьдчилсан зардлаа шалгаж,\nшаардлагатай бол зөвлөгөөгөөр дамжуулан хувийн үнийн санал авах боломжтой.",
+    "durationLabel": "Сургалтын хугацаа",
+    "weeks": {
+      "2": "2 долоо хоног",
+      "4": "4 долоо хоног",
+      "8": "8 долоо хоног",
+      "12": "12 долоо хоног"
+    },
+    "tuitionFeeLabel": "Сургалтын төлбөр",
+    "allDurationsLabel": "Хугацаа тус бүрийн төлбөр",
+    "onRequest": "Зөвлөгөөгөөр мэдэгдэнэ",
+    "perChild": "1 хүүхдэд",
+    "familyParentNote": "Дагалдах эцэг эхийн зардлыг зөвлөгөөний үеэр мэдэгдэнэ.",
+    "notes": [
+      "Үзүүлсэн дүн нь сургалтын төлбөр бөгөөд байрны төлбөр, орон нутагт төлөх зардал тусдаа.",
+      "Одоогийн дүн нь анхны лавлах үнэ бөгөөд өөрчлөгдөж болно.",
+      "“Зөвлөгөөгөөр мэдэгдэнэ” гэсэн зүйлсийг зөвлөгөөний үеэр тодорхой мэдэгдэнэ."
+    ],
+    "consultCta": "Хувийн үнийн санал авах",
+    "calculatorCta": "Урьдчилсан зардал тооцох"
+  },
+  "estimator": {
+    "title": "Урьдчилсан зардлын тооцоолуур",
+    "subtitle": "Хөтөлбөр, хугацаа, оролцогч, байрны сонголтоо хийж урьдчилсан зардлаа харна уу.",
+    "steps": {
+      "course": "Хөтөлбөр",
+      "duration": "Сургалтын хугацаа",
+      "participant": "Оролцогч",
+      "stay": "Байр",
+      "parents": "Дагалдах эцэг эхийн тоо"
+    },
+    "participantTypes": {
+      "adult": "Насанд хүрэгч",
+      "student": "Хүүхэд / Өсвөр насны"
+    },
+    "childCountLabel": "Хүүхдийн тоо",
+    "parentCountLabel": "Эцэг эхийн тоо",
+    "stayOptions": {
+      "included": "Байртай",
+      "none": "Байр шаардлагагүй"
+    },
+    "stayNote": "Байр хуваарилалт болон байрны төлбөрийг зөвлөгөөний үеэр мэдэгдэнэ.",
+    "summaryTitle": "Урьдчилсан зардал",
+    "lines": {
+      "tuition": "Сургалтын төлбөр",
+      "additionalChild": "Нэмэлт хүүхэд",
+      "parent": "Дагалдах эцэг эх",
+      "stay": "Байрны төлбөр",
+      "option": "Нэмэлт сонголт"
+    },
+    "educationSubtotal": "Сургалтын төлбөрийн дүн",
+    "totalLabel": "Урьдчилсан нийт дүн",
+    "knownTotalLabel": "Тодорхой дүнгийн нийлбэр",
+    "totalNote": "“Зөвлөгөөгөөр мэдэгдэнэ” гэсэн зүйлс нийт дүнд ороогүй. Орон нутагт төлөх зардал тусдаа.",
+    "consultCta": "Энэ нөхцлөөр зөвлөгөө авах"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "Суралцах, амрах хоёр байгалийн\nжамаар уялдсан премиум зочид буудал",
+    "description": "Хичээлдээ төвлөрсөн өдрийн дараа\nтав тухтай орчинд сайн амрах боломжтой\nцэвэрхэн, тохилог байрны орчныг санал болгоно.",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "BE Pods Lahug-ийн лобби амралтын хэсэг"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "Тав тухтай өрөөнөөс эхлэх\nтогтвортой өдөр",
+      "description": "Тухтай ор дэрний хэрэгсэл, цэвэрхэн өрөөнд\nхичээлийн дараа сайн амарч болно.",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "BE Pods Lahug-ийн хоёр ортой өрөө"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "Суралцах, амрах хоёрын тэнцвэрийг\nхангах амьдралын орчин",
+      "description": "Хичээлийн дараа усан сан, наранд шарах сандал бүхий орчинд өдрөө тайван өнгөрүүлэх боломжтой.",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "BE Pods Lahug-ийн усан сан, наранд шарах сандал"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "Байрлах хугацаанд хэрэгтэй\nөдөр тутмын тав тух",
+      "description": "Удаан хугацаагаар байрлахад ч амьдралын хэмнэлээ хадгалах өдөр тутмын хэрэгцээт орон зайнууд бий.",
+      "gym": {
+        "caption": "Fitness",
+        "text": "Хөнгөн дасгал хийж, эрүүл амьдралын хэмнэлээ хадгалах орон зай",
+        "alt": "BE Pods Lahug-ийн фитнесс хэсэг"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "Удаан хугацаагаар байрлахад хэрэгтэй өдөр тутмын тав тухыг дэмжих орон зай",
+        "alt": "Угаалгын машинтай BE Pods Lahug-ийн амьдрах орчин"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "BE Pods дахь нэгэн өдөр",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "Барилгаар хүрээлэгдсэн BE Pods Lahug-ийн усан сан"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "Том цонхтой BE Pods Lahug-ийн өрөө"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "Усан санд чөлөөт цагаа өнгөрүүлж буй нь"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "BE Pods-ийн өрөөний байдлаас хамааран нэмэлт байраар ашиглагдаж болно."
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "Хичээлийн дараа ч\nтав тухтай өдөр үргэлжилнэ.",
+      "description": "Англи хэл сурах орчин төдийгүй\nбайрлах орон зай, өдөр тутмын цаг хугацаа хүртэл\nнэгэн боловсролын туршлага болон холбогдоно.",
+      "imageAlt": "BE Pods Lahug-ийн усан сан"
+    }
+  },
+  "localFees": {
+    "title": "Орон нутагт төлөх зардлын заавар",
+    "subtitle": "SSP, визний сунгалт, байртай холбоотой зардал",
+    "heading": "Филиппинд төлөх зардал (Local Fees)",
+    "description": "Филиппинд байрлах, амьдрахад шаардлагатай зардлын зүйлс юм. Зүйл тус бүрийн дүн, төлөх хугацаа нь байрлах хугацаа, хуваариас хамаарах тул зөвлөгөөний үеэр мэдэгдэнэ.",
+    "columns": {
+      "item": "Зүйл",
+      "amount": "Дүн",
+      "note": "Тайлбар"
+    },
+    "onRequest": "Зөвлөгөөгөөр мэдэгдэнэ",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "Филиппинд хэлний сургалтад хамрагдаж буй гадаад оюутанд шаардлагатай суралцах зөвшөөрөл"
+      },
+      "visaExtension1": {
+        "name": "Визний сунгалт (30 хоногоос дээш байрлах)",
+        "note": "Визгүй орж ирснээс хойш 30 хоногоос дээш байрлах бол шаардлагатай"
+      },
+      "visaExtension2": {
+        "name": "Визний нэмэлт сунгалт (59 хоногоос дээш байрлах)",
+        "note": "Байрлах хугацаанаас хамааран нэмэлт сунгалт шаардлагатай"
+      },
+      "acrICard": {
+        "name": "ACR I-Card (Гадаад иргэний бүртгэлийн карт)",
+        "note": "59 ба түүнээс дээш хоног байрлах бол шаардлагатай гадаад иргэний бүртгэлийн карт"
+      },
+      "accommodationDeposit": {
+        "name": "Байрны барьцаа",
+        "note": "Дүн болон буцаан олгох нөхцлийг зөвлөгөөний үеэр мэдэгдэнэ"
+      },
+      "accommodationUtilities": {
+        "name": "Байрны цахилгаан, усны төлбөр",
+        "note": "Байр, хэрэглээнээс хамааран өөр өөр тул зөвлөгөөний үеэр мэдэгдэнэ"
+      },
+      "courseMaterials": {
+        "name": "Сурах бичгийн төлбөр",
+        "note": "Хөтөлбөр, түвшнээс хамааран өөр өөр тул зөвлөгөөний үеэр мэдэгдэнэ"
+      },
+      "airportPickup": {
+        "name": "Нисэх буудлаас тосох",
+        "note": "Мактан-Себу олон улсын нисэх буудалд ирэхэд тосох — журам, төлбөрийг зөвлөгөөний үеэр мэдэгдэнэ"
+      }
+    },
+    "depositBox": {
+      "title": "Байрны барьцаа",
+      "description": "Байрны барьцааны дүн болон буцаан олгох нөхцлийг зөвлөгөөний үеэр мэдэгдэнэ."
+    },
+    "paymentBox": {
+      "title": "Төлбөрийн мэдээлэл",
+      "description": "Орон нутагт төлөх зардлын валют, төлөх хугацааг таны хуваарьт тохируулан зөвлөгөөний үеэр мэдэгдэнэ."
+    }
+  },
+  "consultation": {
+    "interestsLabel": "Сонирхож буй туршлага",
+    "interests": {
+      "cebuMonthStay": "Себуд нэг сар амьдрах",
+      "localSchool": "Орон нутгийн сургуулийн туршлага"
+    },
+    "noneLabel": "Байхгүй"
+  },
+  "comingSoon": {
+    "badge": "Бэлтгэгдэж байна",
+    "message": "Энэ хуудас одоогоор бэлтгэгдэж байна. Удахгүй эргэж ирнэ.",
+    "backHome": "Нүүр хуудас руу буцах"
+  }
+}

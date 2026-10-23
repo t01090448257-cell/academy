@@ -39,3 +39,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local database backups - never commit
+/db-backup/
+
+# Local project backups and review copies
+/review_backups/
+/out.previous/
+/academy_*.zip
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated Prisma Client
+/src/generated/prisma/
+
+src/app/api/enrollments/route.ts.before_first_payment_validation_20261022_192005.bak

@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "siteName": "SYA",
+    "siteNameFull": "Special Your Academy"
+  },
+  "nav": {
+    "about": "學院介紹",
+    "programs": "教育課程",
+    "campus": "菲律賓生活指南",
+    "services": "學費與宿舍",
+    "admission": "入學申請",
+    "community": "學員社群"
+  },
+  "hero": {
+    "sloganMain": "The Best Options!",
+    "sloganSub": "量身打造，宿霧最頂級的英語沉浸式課程",
+    "ctaConsult": "LINE / 線上諮詢",
+    "motto": "BRIDGING FUTURE THROUGH EDUCATION",
+    "eyebrow": "PREMIUM ENGLISH ACADEMY · CEBU, PHILIPPINES",
+    "headlineLine1": "從宿霧開始，",
+    "headlineLine2": "真正的英語蛻變",
+    "accent": "Speaking & Conversation",
+    "description": "以口說與會話為核心學習，\n在生活與當地學校中實際運用英語的頂級英語教育。",
+    "ctaPrimary": "預約諮詢",
+    "ctaPrograms": "查看課程",
+    "ctaCost": "了解遊學費用",
+    "facts": [
+      {
+        "value": "AGES 5+",
+        "label": "5歲兒童至成人"
+      },
+      {
+        "value": "2·4·8·12 WEEKS",
+        "label": "2・4・8・12週客製化課程"
+      },
+      {
+        "value": "2 OPENINGS / MONTH",
+        "label": "每月2次正規班開課"
+      },
+      {
+        "value": "UP TO 4 HOURS / DAY",
+        "label": "以每日最多4小時的1:1一對一課程為核心，讓學習與生活自然銜接、每日約8小時的英語計畫"
+      }
+    ],
+    "trustStrip": [
+      "CEBU",
+      "PHILIPPINES",
+      "SPEAKING",
+      "CONVERSATION",
+      "REAL LIFE ENGLISH"
+    ],
+    "imageAlt": "棕櫚樹與泳池環繞的宿霧SYA度假村式校園"
+  },
+  "langSwitcher": {
+    "label": "語言選擇"
+  },
+  "whySya": {
+    "title": "WHY SYA?",
+    "subtitle": "SYA獨有的頂級英語教育",
+    "items": {
+      "speakingFirst": {
+        "englishTitle": "Speaking First",
+        "title": "以口說為核心的英語教育",
+        "description": "不只停留在文法與解題，而是培養實際聆聽、開口並運用英語的能力。"
+      },
+      "realEnglishLife": {
+        "englishTitle": "Real English Life",
+        "title": "延續到教室之外的英語",
+        "description": "透過宿霧的日常生活與參與當地學校課程，將所學的英語運用於真實情境。"
+      },
+      "premiumStay": {
+        "englishTitle": "Premium Stay & Care",
+        "title": "學習與生活和諧共融的頂級環境",
+        "description": "以舒適的住宿與安心的生活環境為基礎，打造學習與休息兼具平衡的遊學環境。"
+      }
+    }
+  },
+  "liveLearn": {
+    "eyebrow": "LIVE & LEARN IN CEBU",
+    "title": "在宿霧住上一個月，\n體驗真正的英語。",
+    "description": [
+      "我們將英語會話學習與宿霧生活，\n串聯成一段完整的體驗。",
+      "從成人、學生到兒童，\n都能依自己的目的與行程選擇課程，\n在課堂與實際生活中體驗英語。"
+    ],
+    "audienceNote": "從成人、兒童到家庭，皆可諮詢符合各自目的的課程。",
+    "consultCta": "諮詢宿霧一個月生活",
+    "image": {
+      "alt": "在宿霧海上跳島遊的情景",
+      "caption": "Island Hopping · Cebu"
+    },
+    "points": [
+      {
+        "label": "ENGLISH CONVERSATION",
+        "title": "以口說為核心的英語",
+        "description": "以口說與會話為中心學習，\n並將所學英語運用於實際生活中。"
+      },
+      {
+        "label": "CEBU LIFE",
+        "title": "在生活中體驗英語",
+        "description": "超越課堂所學，\n在宿霧的日常與多樣的生活環境中，\n提供實際使用英語的經驗。"
+      },
+      {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "親身體驗當地私立學校",
+        "description": "基於與校方的協議，\n提供體驗當地私立學校\n真實教育環境的特別機會。"
+      }
+    ],
+    "school": {
+      "eyebrow": "LOCAL SCHOOL EXPERIENCE",
+      "title": "當地學校體驗",
+      "tagline": "Experience a Local School in Cebu",
+      "description": "在宿霧學習英語，\n體驗當地學校環境與教育文化，\n並提供在實際生活中使用英語的機會。",
+      "conditionNote": "實際能否參與及日程，將依與當地學校的協商及課程營運條件另行說明。",
+      "imageAlt": "老師與學生在當地學校教室裡一起上課的情景"
+    }
+  },
+  "programs": {
+    "eyebrow": "OUR PROGRAMS",
+    "title": "依目標與行程選擇的\nSYA頂級英語課程",
+    "subtitle": "以口說與會話為核心，從兒童到成人，皆可依2・4・8・12週的行程選擇。",
+    "viewAll": "查看所有課程",
+    "learnMore": "了解更多",
+    "duration": {
+      "label": "PROGRAM LENGTH",
+      "value": "2 · 4 · 8 · 12 WEEKS",
+      "localized": "2週 · 4週 · 8週 · 12週"
+    },
+    "classHours": {
+      "label": "CLASS HOURS",
+      "value": "UP TO 4 HOURS / DAY",
+      "localized": "以每日最多4小時的1:1一對一課程為核心，讓學習與生活自然銜接、每日約8小時的英語計畫"
+    },
+    "audienceLabel": "對象",
+    "familyOptionsLabel": "家庭組成",
+    "groups": {
+      "regular": {
+        "label": "REGULAR PROGRAMS",
+        "title": "正規班",
+        "description": "以口說與會話為核心，培養實戰英語運用能力的正規英語課程。",
+        "openings": {
+          "label": "MONTHLY OPENINGS",
+          "value": "1ST & 3RD MONDAY",
+          "localized": "每月開課2次 · 第一、第三個星期一"
+        }
+      },
+      "camp": {
+        "label": "CAMP PROGRAMS",
+        "title": "營隊班",
+        "description": "配合寒暑假與家庭停留目的，同時體驗英語學習與生活的課程。"
+      }
+    },
+    "courses": {
+      "intensiveEsl": {
+        "englishName": "INTENSIVE ESL",
+        "name": "密集ESL",
+        "summary": "以口說與會話為核心，平衡聽力與口說，依個人程度集中提升實戰英語運用能力。",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Personalized Learning"
+        ],
+        "audience": "希望從基礎會話到自然溝通，提升實戰英語能力的學生與成人",
+        "purpose": "透過以口說與會話為中心的課程，培養在實際情境中自信運用英語的能力。",
+        "direction": "掌握每位學員的程度，平衡聽與說，反覆練習能在實際對話中立即使用的表達。",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "透過日常與多元主題的對話，培養口說自信與流暢度。"
+          },
+          {
+            "title": "Listening",
+            "description": "聽懂自然語速的英語，並在對話中自然回應。"
+          },
+          {
+            "title": "Personalized Learning",
+            "description": "依個人程度與目標調整學習內容與進度。"
+          }
+        ]
+      },
+      "business": {
+        "englishName": "BUSINESS ENGLISH",
+        "name": "商務實務英語",
+        "summary": "以實務為中心，讓您在會議、電子郵件、簡報等實際工作情境中，自信地以英語溝通。",
+        "keywords": [
+          "Business Communication",
+          "Presentation",
+          "Practical English"
+        ],
+        "audience": "工作上需要以英語溝通的上班族，以及準備求職或轉職的成人",
+        "purpose": "以實務為中心，培養實際工作情境所需的英語溝通能力。",
+        "direction": "以會議、電子郵件、簡報等實際工作場景為基礎，反覆練習說與寫，以自信溝通為目標。",
+        "focusAreas": [
+          {
+            "title": "Meetings & Discussion",
+            "description": "學習主持會議、提出與協調意見等工作對話所需的表達。"
+          },
+          {
+            "title": "Business Email",
+            "description": "學習依情境撰寫結構清楚、表達明確的電子郵件。"
+          },
+          {
+            "title": "Presentation",
+            "description": "實際練習傳達重點的簡報架構與表達方式。"
+          }
+        ]
+      },
+      "studyAbroad": {
+        "englishName": "STUDY ABROAD",
+        "name": "留學準備",
+        "summary": "準備海外校園生活與學習環境所需的英語表達，以及口說、發表、討論等實際留學生活需要的英語。",
+        "keywords": [
+          "Academic English",
+          "Speaking",
+          "Presentation",
+          "Discussion"
+        ],
+        "audience": "即將赴海外升學、交換或留學的學生",
+        "purpose": "事先準備海外校園生活與學習環境所需的英語能力。",
+        "direction": "以參與課堂、發表、討論等留學生活中會遇到的情境為中心進行口說練習。",
+        "focusAreas": [
+          {
+            "title": "Academic English",
+            "description": "學習課堂與作業中常用的學術英語表達。"
+          },
+          {
+            "title": "Presentation & Discussion",
+            "description": "練習發表自己的想法並參與討論。"
+          },
+          {
+            "title": "School Life English",
+            "description": "準備與同學、老師溝通所需的英語。"
+          }
+        ]
+      },
+      "summerWinterCamp": {
+        "englishName": "SUMMER / WINTER CAMP",
+        "name": "寒暑假營隊",
+        "summary": "在假期中結合英語學習與多樣的生活體驗，集中體驗以口說與會話為核心的實戰英語。",
+        "keywords": [
+          "Speaking",
+          "Conversation",
+          "Vacation Experience"
+        ],
+        "audience": "以兒童與青少年為主",
+        "purpose": "假期在宿霧結合英語學習與生活體驗，培養對英語的自信。",
+        "direction": "以口說與會話為核心的課程為基礎，重視將所學英語實際運用於生活中的體驗。",
+        "focusAreas": [
+          {
+            "title": "Speaking & Conversation",
+            "description": "透過課堂對話練習，逐漸習慣用英語開口說話。"
+          },
+          {
+            "title": "Learning Through Experience",
+            "description": "在多樣的生活體驗中自然運用所學英語。"
+          },
+          {
+            "title": "Confidence in English",
+            "description": "在享受以英語表達的樂趣中累積自信。"
+          }
+        ]
+      },
+      "familyCamp": {
+        "englishName": "FAMILY CAMP",
+        "name": "全年家庭營",
+        "summary": "孩子與父母一同在宿霧生活並學習英語的家庭客製化英語課程。",
+        "keywords": [
+          "Family Stay",
+          "Speaking",
+          "Conversation"
+        ],
+        "audience": "希望與孩子一起在宿霧生活並學習英語的家庭",
+        "purpose": "讓家人一同在宿霧生活，並依家庭組成學習英語。",
+        "direction": "依家庭組成與行程選擇上課對象，並以口說與會話為核心進行課程。",
+        "focusAreas": [
+          {
+            "title": "English for Children",
+            "description": "依孩子程度進行以口說與會話為核心的課程。"
+          },
+          {
+            "title": "English for Parents",
+            "description": "家長一同上課時，學習生活與旅行所需的實用英語。"
+          },
+          {
+            "title": "Family Life in Cebu",
+            "description": "在宿霧的生活中創造全家一起使用英語的機會。"
+          }
+        ],
+        "familyOptions": [
+          "僅兒童上課",
+          "兒童 + 家長1名",
+          "兒童 + 家長2名"
+        ]
+      }
+    },
+    "regularPage": {
+      "description": "以 Speaking & Conversation 為核心，\n學習能在實際生活中運用的英語的\nSYA 正規英語教育課程",
+      "listEyebrow": "OUR REGULAR PROGRAMS",
+      "listTitle": "依學習英語的目的\n選擇三種課程",
+      "programs": {
+        "intensiveEsl": {
+          "englishName": "INTENSIVE ESL",
+          "summary": "以 Speaking & Conversation 為核心，\n學習能在實際生活中運用的英語。"
+        },
+        "business": {
+          "englishName": "BUSINESS PRACTICAL ENGLISH",
+          "summary": "學習能立即運用於工作與日常的\n實用英語表達與溝通。"
+        },
+        "studyAbroad": {
+          "englishName": "STUDY ABROAD PREPARATION",
+          "summary": "為下一個教育階段與海外學業做準備，\n培養以英語學習與溝通的自信。"
+        }
+      },
+      "localSchoolTag": "Local School Experience",
+      "howYouLearn": {
+        "eyebrow": "HOW YOU LEARN",
+        "steps": [
+          "SPEAKING",
+          "CONVERSATION",
+          "REAL LIFE",
+          "CONFIDENCE"
+        ],
+        "description": "將課堂所學的英語實際說出口，\n在宿霧的日常中運用，\n逐步建立對英語的自信。"
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "closingTitle": "準備好開始學英語了嗎？"
+    },
+    "campPage": {
+      "description": "學習英語、在宿霧生活，\n一起體驗多元活動與特別的經歷。",
+      "consultCta": "預約營隊諮詢",
+      "listEyebrow": "OUR CAMP PROGRAMS",
+      "listTitle": "結合英語與宿霧特別體驗的\n兩種營隊",
+      "programs": {
+        "summerWinterCamp": {
+          "englishName": "SUMMER / WINTER CAMP",
+          "summary": "在假期中同時體驗英語學習\n與宿霧多元活動的課程",
+          "imageAlt": "與朋友在宿霧海上享受跳島遊"
+        },
+        "familyCamp": {
+          "englishName": "FAMILY CAMP",
+          "summary": "孩子與父母一同在宿霧生活，\n接觸英語與全新體驗的家庭課程",
+          "imageAlt": "在戶外與老師一起學習的孩子們"
+        }
+      },
+      "different": {
+        "eyebrow": "WHAT MAKES SYA CAMP DIFFERENT?",
+        "items": [
+          {
+            "label": "ENGLISH",
+            "text": "以 Speaking & Conversation 為核心"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "在教室外體驗的真實生活"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "體驗宿霧的自然與文化"
+          },
+          {
+            "label": "CARE",
+            "text": "學習與生活取得平衡的環境"
+          }
+        ]
+      },
+      "day": {
+        "eyebrow": "A DAY AT SYA CAMP",
+        "steps": [
+          {
+            "label": "ENGLISH",
+            "text": "以每日最多4小時的1:1一對一課程為核心，讓學習與生活自然銜接、每日約8小時的英語計畫，以口說與會話為核心的課程"
+          },
+          {
+            "label": "MEALS",
+            "text": "每日三餐自助餐"
+          },
+          {
+            "label": "ACTIVITIES",
+            "text": "體驗宿霧的自然與文化"
+          },
+          {
+            "label": "CEBU LIFE",
+            "text": "在教室外使用英語的時間"
+          },
+          {
+            "label": "REST & CARE",
+            "text": "舒適的休息與生活照顧"
+          }
+        ],
+        "note": "詳細課表將於營隊日程確定後另行公告。"
+      },
+      "stayMeals": {
+        "eyebrow": "STAY & MEALS",
+        "stay": {
+          "label": "STAY",
+          "name": "BE Pods Lahug Hotel",
+          "description": "舒適的住宿環境，\n讓學習與休息取得平衡。",
+          "imageAlt": "BE Pods Lahug 客房"
+        },
+        "meals": {
+          "label": "MEALS",
+          "name": "每日三餐自助餐",
+          "description": "提供讓營隊生活更舒適的餐點。",
+          "imageAlt": "擺滿各式水果的自助餐"
+        }
+      },
+      "family": {
+        "eyebrow": "FAMILY CAMP",
+        "message": "孩子可以單獨參加，\n也可以與父母一起參加。",
+        "optionLabels": [
+          "CHILD ONLY",
+          "CHILD + 1 PARENT",
+          "CHILD + 2 PARENTS"
+        ]
+      },
+      "infoEyebrow": "PROGRAM INFORMATION",
+      "schedule": {
+        "label": "CAMP SCHEDULE",
+        "value": "SUMMER / WINTER · YEAR-ROUND",
+        "localized": "寒暑假營隊：暑假・寒假 · 家庭營：全年 · 具體日程於諮詢時說明"
+      },
+      "closingTitle": "為孩子諮詢合適的營隊。",
+      "closingSummerCta": "寒暑假營隊諮詢",
+      "closingFamilyCta": "家庭營諮詢",
+      "operations": {
+        "eyebrow": "CAMP OPERATING SYSTEM",
+        "title": "One operating system for learning, daily life and activities.",
+        "intro": "A structured camp model designed to improve practical English while creating a positive Cebu experience.",
+        "levelTitle": "Student Level Placement",
+        "levelIntro": "Students are placed by actual English ability, not age alone.",
+        "levels": [
+          [
+            "A1",
+            "Beginner",
+            "Basic daily English · vocabulary · pronunciation · basic sentences"
+          ],
+          [
+            "A2",
+            "Elementary / Pre-intermediate",
+            "Daily conversation · basic grammar · listening"
+          ],
+          [
+            "B1",
+            "Intermediate",
+            "Fluency · reading/writing · extended conversation"
+          ],
+          [
+            "B1+/B2",
+            "Upper-intermediate",
+            "Discussion · presentation · academic communication"
+          ]
+        ],
+        "dayTitle": "A Student Day",
+        "dayIntro": "Focused English classes, guided study and leisure activities are balanced throughout the day.",
+        "schedule": [
+          [
+            "07:00–08:00",
+            "Breakfast / class preparation"
+          ],
+          [
+            "08:00–08:20",
+            "Morning briefing / English warm-up"
+          ],
+          [
+            "08:30–09:20",
+            "1:1 Speaking"
+          ],
+          [
+            "09:30–10:20",
+            "1:1 Reading / Pronunciation"
+          ],
+          [
+            "10:30–11:20",
+            "Small group – Grammar & Vocabulary"
+          ],
+          [
+            "11:30–12:20",
+            "Small group – Listening"
+          ],
+          [
+            "12:20–13:30",
+            "Lunch / Break"
+          ],
+          [
+            "13:30–14:20",
+            "1:1 Conversation"
+          ],
+          [
+            "14:30–15:20",
+            "Group Communication / Role-play"
+          ],
+          [
+            "15:30–16:30",
+            "Activity English / Project"
+          ],
+          [
+            "16:30–17:30",
+            "Sports / Recreation"
+          ],
+          [
+            "17:30–18:30",
+            "Dinner"
+          ],
+          [
+            "19:00–20:00",
+            "Guided self-study / Vocabulary review"
+          ],
+          [
+            "After 20:00",
+            "Free time / Bedtime preparation / Life guidance"
+          ]
+        ],
+        "levelOpsTitle": "Level-based Class Operation",
+        "levelOps": [
+          [
+            "Beginner",
+            "Simple English expressions, visual materials, repetition, pronunciation practice, games and role-play. Real-life topics such as introductions, food, shopping, directions and hobbies."
+          ],
+          [
+            "Intermediate",
+            "Extended conversation, projects, presentations, problem-solving and discussion. Integrated reading, writing, listening and vocabulary with feedback on fluency, accuracy and pronunciation."
+          ]
+        ],
+        "careTitle": "Life, Safety & Camp Operations",
+        "care": [
+          "Student attendance, room checks and accommodation supervision",
+          "Meal operations and dietary restriction / allergy information",
+          "Transportation and off-site activity headcounts",
+          "Designated medical and emergency response procedures",
+          "Regular parent/guardian communication and learning updates",
+          "Korean-language support for younger students, parents and emergencies",
+          "Clear teacher duty rosters, life rules, incident reports and response procedures"
+        ],
+        "weeklyTitle": "Weekly Learning & Activities",
+        "weekly": [
+          [
+            "Mon",
+            "Weekly goals / New lessons"
+          ],
+          [
+            "Tue",
+            "Intensive classes"
+          ],
+          [
+            "Wed",
+            "Intensive classes"
+          ],
+          [
+            "Thu",
+            "Practice & projects"
+          ],
+          [
+            "Fri",
+            "Speaking + weekly assessment"
+          ],
+          [
+            "Sat",
+            "Educational excursion / activity"
+          ],
+          [
+            "Sun",
+            "Rest · review / preparation"
+          ]
+        ],
+        "outcomesTitle": "Learning Outcomes & Parent Report",
+        "outcomes": [
+          "Entry level test and short speaking interview",
+          "Individual level and learning goals",
+          "Teacher attendance and class records",
+          "Weekly speaking, vocabulary and learning assessment",
+          "Teacher comments on strengths, improvement areas and participation",
+          "Final assessment comparing entry and completion performance",
+          "Certificate and final learning outcome report for parents"
+        ],
+        "careTeamTitle": "Teaching & Operations Team",
+        "careTeamIntro": "Role-based operations support both academic learning and student life with clear responsibilities.",
+        "roles": [
+          "Camp Director",
+          "Academic Manager",
+          "Head Teacher",
+          "ESL Teachers",
+          "Student Life & Welfare Team"
+        ]
+      }
+    },
+    "experience": {
+      "eyebrow": "PROGRAMS",
+      "title": "選擇適合你的 SYA 體驗",
+      "includesLabel": "包含課程",
+      "regular": {
+        "tagline": "Learn English. Build Your Future.",
+        "description": "培養英語實力與實際運用能力的\nSYA 正規英語教育課程",
+        "imageAlt": "在看得見海景的教室上會話課的學生"
+      },
+      "camp": {
+        "tagline": "Learn English. Live in Cebu. Make memories.",
+        "description": "結合英語與宿霧生活、活動及家庭體驗的\nSYA 營隊課程",
+        "imageAlt": "與朋友在宿霧海上享受跳島遊"
+      }
+    },
+    "detail": {
+      "pageTitle": "課程介紹",
+      "pageSubtitle": "以口說與會話為核心，依目標與行程選擇的SYA英語課程",
+      "breadcrumbHome": "HOME",
+      "purposeLabel": "課程目的",
+      "audienceLabel": "推薦對象",
+      "directionLabel": "教學方向",
+      "focusAreasLabel": "主要學習領域",
+      "durationLabel": "課程期間",
+      "classHoursLabel": "基本上課時數",
+      "openingsLabel": "開課日",
+      "timetableLabel": "每日課表",
+      "timetablePending": "詳細課表將於營運行程確定後另行公告。所有課程皆以每日最多4小時的1:1一對一課程為核心，作為學習與生活自然銜接、每日約8小時的英語計畫運作。",
+      "timeHeader": "時間",
+      "subjectHeader": "課程內容",
+      "consultTitle": "想進一步了解這個課程嗎？",
+      "consultDescription": "我們將依您的學習目標、行程與家庭組成，推薦合適的課程與期間。",
+      "consultCta": "預約此課程諮詢",
+      "localSchool": {
+        "label": "LOCAL SCHOOL EXPERIENCE",
+        "title": "當地學校體驗（選修）",
+        "description": "在宿霧學習英語的同時，體驗當地學校環境與教育文化，並在實際生活中使用英語的選修課程。",
+        "conditionNote": "實際能否參與及日程，將依學生年齡、與當地學校的協商及課程營運條件，於諮詢時說明。",
+        "consultCta": "諮詢當地學校體驗"
+      }
+    }
+  },
+  "tuition": {
+    "eyebrow": "TUITION",
+    "title": "清楚透明的\nSYA遊學費用",
+    "description": "依課程與遊學期間確認預估費用，\n如有需要，可透過諮詢取得專屬報價。",
+    "durationLabel": "遊學期間",
+    "weeks": {
+      "2": "2週",
+      "4": "4週",
+      "8": "8週",
+      "12": "12週"
+    },
+    "tuitionFeeLabel": "學費",
+    "allDurationsLabel": "各期間學費",
+    "onRequest": "諮詢時說明",
+    "perChild": "以兒童1名計",
+    "familyParentNote": "家長同行費用將於諮詢時說明。",
+    "notes": [
+      "顯示金額為學費，住宿費與當地繳納費用另計。",
+      "目前金額為初期參考價格，可能依營運情況調整。",
+      "標示「諮詢時說明」的項目，將於諮詢時提供正確金額。"
+    ],
+    "consultCta": "諮詢專屬報價",
+    "calculatorCta": "計算預估費用"
+  },
+  "estimator": {
+    "title": "預估費用計算機",
+    "subtitle": "選擇課程、遊學期間、參加者與是否住宿，即可查看預估費用。",
+    "steps": {
+      "course": "課程",
+      "duration": "遊學期間",
+      "participant": "參加者",
+      "stay": "住宿",
+      "parents": "同行家長人數"
+    },
+    "participantTypes": {
+      "adult": "成人",
+      "student": "兒童・青少年"
+    },
+    "childCountLabel": "兒童人數",
+    "parentCountLabel": "家長人數",
+    "stayOptions": {
+      "included": "含住宿",
+      "none": "不需住宿"
+    },
+    "stayNote": "住宿安排與住宿費將於諮詢時說明。",
+    "summaryTitle": "預估費用",
+    "lines": {
+      "tuition": "學費",
+      "additionalChild": "兒童追加",
+      "parent": "家長同行",
+      "stay": "住宿費",
+      "option": "附加選項"
+    },
+    "educationSubtotal": "學費小計",
+    "totalLabel": "預估總額",
+    "knownTotalLabel": "已確定金額合計",
+    "totalNote": "標示「諮詢時說明」的項目不計入總額。當地繳納費用另計。",
+    "consultCta": "以此條件申請諮詢"
+  },
+  "accommodation": {
+    "chapterLabel": "STAY & LIVE IN CEBU",
+    "eyebrow": "ACCOMMODATION",
+    "title": "BE Pods Lahug",
+    "subtitle": "學習與休息自然銜接的\n頂級飯店環境",
+    "description": "在專注學習的一天之後，\n於舒適的空間好好休息，\n我們提供整潔舒適的住宿環境。",
+    "lobby": {
+      "caption": "Lobby & Lounge",
+      "alt": "BE Pods Lahug 大廳休息區"
+    },
+    "stay": {
+      "eyebrow": "COMFORTABLE STAY",
+      "title": "從舒適客房開始的\n安穩一天",
+      "description": "舒適的寢具與整潔的客房，\n讓您在課後好好休息。",
+      "photo": {
+        "caption": "Twin Room",
+        "alt": "BE Pods Lahug 雙床房"
+      }
+    },
+    "facilities": {
+      "eyebrow": "RESORT-STYLE FACILITIES",
+      "title": "兼顧學習與休息的\n生活環境",
+      "description": "下課後，可在設有泳池與躺椅的空間悠閒地結束一天。",
+      "photo": {
+        "caption": "Swimming Pool",
+        "alt": "BE Pods Lahug 泳池與躺椅"
+      }
+    },
+    "convenience": {
+      "eyebrow": "EVERYDAY CONVENIENCE",
+      "title": "住宿期間所需的\n生活便利",
+      "description": "即使長期停留，也備有日常所需的空間，幫助維持生活節奏。",
+      "gym": {
+        "caption": "Fitness",
+        "text": "可輕鬆運動、維持健康生活節奏的空間",
+        "alt": "BE Pods Lahug 健身空間"
+      },
+      "laundry": {
+        "caption": "Laundry",
+        "text": "支援長期停留生活便利的空間",
+        "alt": "設有洗衣機的 BE Pods Lahug 生活空間"
+      }
+    },
+    "gallery": {
+      "eyebrow": "LIFESTYLE GALLERY",
+      "title": "在 BE Pods 的一天",
+      "poolCourtyard": {
+        "caption": "Courtyard Pool",
+        "alt": "被建築環繞的 BE Pods Lahug 泳池"
+      },
+      "bedroom": {
+        "caption": "Bedroom",
+        "alt": "窗戶寬敞的 BE Pods Lahug 客房"
+      },
+      "poolLifestyle": {
+        "caption": "Pool Time",
+        "alt": "在泳池享受休閒時光"
+      }
+    },
+    "additional": {
+      "eyebrow": "ADDITIONAL ACCOMMODATION",
+      "name": "Noble Hotel",
+      "description": "視 BE Pods 客房狀況，可能作為追加住宿使用。"
+    },
+    "closing": {
+      "eyebrow": "A PLACE TO REST, A PLACE TO LIVE.",
+      "title": "下課之後，\n舒適的一天仍在延續。",
+      "description": "不只是學習英語的地方，\n連同居住的空間與日常時光，\n都串聯成一段完整的教育體驗。",
+      "imageAlt": "BE Pods Lahug 泳池"
+    }
+  },
+  "localFees": {
+    "title": "當地繳納費用說明",
+    "subtitle": "SSP・簽證延期・住宿相關費用",
+    "heading": "菲律賓當地繳納費用（Local Fees）",
+    "description": "以下為在菲律賓停留與當地生活所需的費用項目。各項金額與繳納時間依停留期間與行程而定，將於諮詢時說明。",
+    "columns": {
+      "item": "項目",
+      "amount": "金額",
+      "note": "說明"
+    },
+    "onRequest": "諮詢時說明",
+    "items": {
+      "ssp": {
+        "name": "SSP (Special Study Permit)",
+        "note": "外國學生在菲律賓進行語言研修所需的學習許可"
+      },
+      "visaExtension1": {
+        "name": "簽證延期（停留超過30天）",
+        "note": "免簽入境後停留超過30天時需辦理"
+      },
+      "visaExtension2": {
+        "name": "簽證追加延期（停留超過59天）",
+        "note": "依停留期間需追加延期"
+      },
+      "acrICard": {
+        "name": "ACR I-Card（外國人登記證）",
+        "note": "停留59天以上時需申辦的外國人登記證"
+      },
+      "accommodationDeposit": {
+        "name": "住宿押金",
+        "note": "金額及退還條件將於諮詢時說明"
+      },
+      "accommodationUtilities": {
+        "name": "住宿水電費",
+        "note": "依住宿與使用量而異，將於諮詢時說明"
+      },
+      "courseMaterials": {
+        "name": "教材費",
+        "note": "依課程與程度而異，將於諮詢時說明"
+      },
+      "airportPickup": {
+        "name": "機場接送",
+        "note": "抵達麥克坦－宿霧國際機場時接機 — 使用方式與費用將於諮詢時說明"
+      }
+    },
+    "depositBox": {
+      "title": "住宿押金",
+      "description": "住宿押金的金額及退還條件將於諮詢時說明。"
+    },
+    "paymentBox": {
+      "title": "繳納說明",
+      "description": "當地繳納費用的幣別與繳納時間，將依您的行程於諮詢時一併說明。"
+    }
+  },
+  "consultation": {
+    "interestsLabel": "感興趣的體驗",
+    "interests": {
+      "cebuMonthStay": "宿霧一個月生活",
+      "localSchool": "當地學校體驗"
+    },
+    "noneLabel": "無"
+  },
+  "comingSoon": {
+    "badge": "籌備中",
+    "message": "此頁面目前建置中，敬請期待。",
+    "backHome": "返回首頁"
+  }
+}

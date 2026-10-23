@@ -1,0 +1,599 @@
+{
+  "page": {
+    "title": "Philippines Life Guide",
+    "subtitle": "Complete peace-of-mind guidance for Cebu life, from departure to daily living",
+    "breakfastComboLabel": "Combo {n}",
+    "difficultyLabel": "Difficulty",
+    "activityImageAlt": "SYA weekend activities in Cebu"
+  },
+  "consultCard": {
+    "title": "Admission & Consultation Center",
+    "phoneLabel": "Main Consultation Line",
+    "kakaoLabel": "KakaoTalk Consult",
+    "ctaButton": "1:1 Quick Online Consultation",
+    "accreditation": "Officially Accredited by Philippine TESDA"
+  },
+  "meals": {
+    "sidebarTitle": "Meal Plan (3 Buffet Meals a Day)",
+    "heroBadge": "3 Daily Hotel-Style Buffet Meals",
+    "heroHeading": "A Balanced, Nutritious Menu for Taste and Health",
+    "heroDesc": "In a large, rigorously hygienic kitchen, expert Korean chefs and local chefs prepare a variety of fresh Korean, Filipino, and fusion dishes, served as a full buffet three times a day.",
+    "timeLabels": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner"
+    },
+    "timeValues": {
+      "breakfast": "07:00 - 08:00",
+      "lunch": "12:00 - 13:00",
+      "dinner": "18:00 - 19:00"
+    },
+    "checklist": [
+      "Self-serve buffet for all 3 daily meals",
+      "Traditional World Cuisine Day every Thursday",
+      "Seasonal tropical fruit served every evening",
+      "Regular professional-grade kitchen sanitation"
+    ],
+    "tabs": {
+      "lunch": "Lunch (9 Sets)",
+      "dinner": "Dinner (9 Sets)",
+      "breakfast": "Breakfast",
+      "globalDay": "Traditional Food Day",
+      "fruit": "Tropical Fruit Dessert",
+      "weekly": "Weekly Sample Menu"
+    },
+    "lunchGalleryTitle": "Signature Lunch Menu Gallery (9 Sets Total)",
+    "lunchGallerySubtitle": "Nutritious main dishes, warm soup, and a variety of side dishes to recharge after class",
+    "dinnerGalleryTitle": "Signature Dinner Menu Gallery (9 Sets Total)",
+    "dinnerGallerySubtitle": "Hearty meat dishes and fresh fruit to enjoy after a full day — BBQ parties, pork cutlets, braised short ribs, and more",
+    "breakfastHeading": "A Light, Healthy Way to Start the Day",
+    "breakfastDesc": "Every morning you can freely choose from freshly cooked rice with warm soup, soft nutritious vegetable porridge, a toast corner (bread, strawberry jam, butter, cheese), corn cereal with fresh milk, morning rolls, and seasonal fruit — everything you need for an energetic start to the day.",
+    "breakfastAlwaysTitle": "Always-Available Breakfast Corner",
+    "globalDayHeading": "Every Thursday: Traditional Food Day (Multicultural Exchange Special)",
+    "globalDayDesc": "Reflecting our global campus where students from Korea, Japan, Taiwan, Vietnam, Mongolia, Russia and more live together, every Thursday we serve a special buffet featuring each country's signature traditional dishes. It's a popular program where students get to taste each other's food cultures and naturally chat with friends in English over a meal.",
+    "globalDayMenuLabel": "Featured Menu",
+    "fruitHeading": "Unlimited Fresh Tropical Fruit, Every Day",
+    "fruitDesc": "Enjoy an abundance of sweet, locally grown fresh fruit every evening at the buffet — including mango (Carabao mango), pineapple, papaya, sweet banana, and refreshing watermelon.",
+    "fruitCaptions": [
+      "Sweet Carabao mango and papaya",
+      "Freshly cut seasonal fruit corner",
+      "Watermelon, pineapple, and banana dessert"
+    ],
+    "weeklyHeading": "Standard Weekly Menu Guide (1-Week Sample Cycle)",
+    "weeklyNote": "Menus may vary depending on ingredient availability",
+    "weeklyDayHeader": "Day",
+    "weeklyBreakfastHeader": "Breakfast (07:00-08:00)",
+    "weeklyLunchHeader": "Lunch (12:00-13:00)",
+    "weeklyDinnerHeader": "Dinner (18:00-19:00)",
+    "safetyHeading": "Cooking & Hygiene Safety Principles",
+    "safetyBullets": [
+      "Only safe water passed through a cooking-water filtration system is used.",
+      "Kitchen tools like knives, cutting boards, and cloths are color-coded by meat/seafood/vegetable and sanitized at high temperature.",
+      "Fresh ingredients are delivered every morning and used the same day as a standard practice.",
+      "Students with specific food allergies (peanuts, shellfish, etc.) can inform their manager before the program starts to receive alternative menu options."
+    ]
+  },
+  "lunchSets": [
+    {
+      "title": "Traditional Bibimbap Set",
+      "tags": [
+        "#KoreanFood",
+        "#Nutritious",
+        "#BestMenu"
+      ],
+      "desc": "Vegetable bibimbap, hearty soybean paste stew, kimchi, fried egg, seasonal fruit"
+    },
+    {
+      "title": "Chicken Skewers & Festival Noodles",
+      "tags": [
+        "#Special",
+        "#Skewers",
+        "#Popular"
+      ],
+      "desc": "Rice, warm noodle soup, BBQ chicken skewers, sweet-spicy rice cake skewers, kimchi, watermelon"
+    },
+    {
+      "title": "Chinese Jjajang Rice & Odeng Soup",
+      "tags": [
+        "#ChineseFusion",
+        "#Filling"
+      ],
+      "desc": "Rich jjajang rice, sautéed radish, crunchy diced radish kimchi, warm fish-cake soup, kimchi"
+    },
+    {
+      "title": "Homemade Meat Patties & Potato Balls",
+      "tags": [
+        "#KoreanSideDish",
+        "#CrispyFried"
+      ],
+      "desc": "Rice, homemade meat pancake, tangy cucumber salad, crispy potato balls, cool bean-sprout soup"
+    },
+    {
+      "title": "Beef-Bone Rice Cake & Dumpling Soup",
+      "tags": [
+        "#HeartyMeal",
+        "#FestiveStyle"
+      ],
+      "desc": "Rice, beef-bone rice cake & dumpling soup, assorted skewers, mixed vegetable fritters, fruit salad, kimchi"
+    },
+    {
+      "title": "Hot-Pot Beef Bulgogi & Chewy Sujebi",
+      "tags": [
+        "#BeefBulgogi",
+        "#CrowdFavorite"
+      ],
+      "desc": "Rice, sweet-savory beef bulgogi, sautéed potato strips, fresh cabbage salad, kimchi, hand-torn dough soup"
+    },
+    {
+      "title": "Soft Hayashi Rice & Royal Japchae",
+      "tags": [
+        "#Japchae",
+        "#HayashiRice"
+      ],
+      "desc": "Hayashi rice, clear egg-drop soup, beef & vegetable royal japchae, tomato-cabbage salad, diced radish kimchi"
+    },
+    {
+      "title": "Sweet & Savory Chicken Mayo Rice Bowl",
+      "tags": [
+        "#RiceBowl",
+        "#Nutritious"
+      ],
+      "desc": "Chicken mayo rice bowl, tangy pickled onion, spicy kimchi soup, sweet corn salad, kimchi, seasonal fruit"
+    },
+    {
+      "title": "Chinese-Style Fried Rice & Jjajangmyeon",
+      "tags": [
+        "#ChineseDay",
+        "#SteadySeller"
+      ],
+      "desc": "Fluffy egg fried rice, jjajangmyeon, pickled radish, scallion egg soup, kimchi"
+    }
+  ],
+  "dinnerSets": [
+    {
+      "title": "Homemade Curry Pork Cutlet Set",
+      "tags": [
+        "#PorkCutlet",
+        "#SignatureCurry"
+      ],
+      "desc": "Rice, crispy homemade curry pork cutlet, clear egg soup, cabbage salad, pickled onion, kimchi"
+    },
+    {
+      "title": "Charcoal Samgyeopsal BBQ Party",
+      "tags": [
+        "#Samgyeopsal",
+        "#MeatParty",
+        "#TopRated"
+      ],
+      "desc": "Rice, grilled golden pork belly, fresh assorted lettuce wraps, spicy scallion salad, ssamjang, hearty soybean stew"
+    },
+    {
+      "title": "Braised Beef Short Ribs & Royal Japchae",
+      "tags": [
+        "#BeefRibs",
+        "#Nourishing"
+      ],
+      "desc": "Rice, tender braised beef short ribs, cool beef radish soup, blanched cabbage wraps, royal japchae, kimchi"
+    },
+    {
+      "title": "Grilled Pork Bulgogi & Kangkong Stir-Fry",
+      "tags": [
+        "#GrilledBulgogi",
+        "#LocalGreens"
+      ],
+      "desc": "Rice, savory grilled pork bulgogi, kangkong (morning glory) stir-fry, pickled onion, soybean paste soup"
+    },
+    {
+      "title": "Spicy Stir-Fried Pork & Crisp Fresh Kimchi",
+      "tags": [
+        "#SpicyPorkStirFry",
+        "#KoreanFavorite"
+      ],
+      "desc": "Rice, sweet & spicy stir-fried pork, crisp bean sprouts, freshly made cabbage kimchi, cool tofu soybean soup, tomato"
+    },
+    {
+      "title": "Loin Pork Cutlet & Sweet Potato Mousse",
+      "tags": [
+        "#HomemadeCutlet",
+        "#SweetDessert"
+      ],
+      "desc": "Rice, crispy loin pork cutlet, sweet potato mousse salad, mixed vegetable stir-fry, spicy kimchi soup"
+    },
+    {
+      "title": "Sweet & Sour Pork with Sticky Rice & Spicy Stew",
+      "tags": [
+        "#StickyRiceSweetSour",
+        "#SpicyStew"
+      ],
+      "desc": "Rice, chewy crispy sweet-and-sour pork, spicy zucchini gochujang stew, cucumber salad, fresh tomato salad"
+    },
+    {
+      "title": "Crispy Fish Cutlet & Sweet Pumpkin Salad",
+      "tags": [
+        "#FishCutlet",
+        "#Tartar"
+      ],
+      "desc": "Fish cutlet with tartar sauce, sweet pumpkin salad, spicy stir-fried kimchi, cool squid radish soup, green salad"
+    },
+    {
+      "title": "Sweet & Spicy Kkanpunggi & Candied Sweet Potato",
+      "tags": [
+        "#Kkanpunggi",
+        "#CandiedSweetPotato"
+      ],
+      "desc": "Rice, crispy boneless kkanpunggi chicken, crisp-outside-soft-inside candied sweet potato, tangy seaweed salad, creamy mushroom soup, kimchi"
+    }
+  ],
+  "breakfastCombos": [
+    "Rice, sausage, scrambled eggs, toast, egg soup, kimchi",
+    "Toast, vegetable porridge, corn cereal, fresh milk, morning roll, seasonal watermelon",
+    "Rice, fried egg, toast, cool bean-sprout soup, kimchi, stir-fried fish cake, pineapple",
+    "Nutritious vegetable porridge, egg sandwich, strawberry jam toast, cereal, banana",
+    "Vegetable fried rice, buttered toast, fried egg, sausage, egg soup, kimchi, apple",
+    "Omurice, toast, creamy corn soup, Vienna sausages, kimchi",
+    "Club sandwich, freshly baked morning roll, cereal, soft rice porridge, milk, pineapple",
+    "Rice, crispy chicken nuggets, scrambled eggs, kimchi, clear egg soup, morning roll, apple",
+    "Egg vegetable fried rice, fried egg, grilled sausage, kimchi, bean-sprout soup, sweet watermelon"
+  ],
+  "breakfastAlways": [
+    "🍞 Freshly baked toast & morning rolls (jam/butter)",
+    "🥣 Nutritious vegetable & plain rice porridge",
+    "🥛 Two cereal choices & fresh milk",
+    "☕ Coffee & hot tea / juice"
+  ],
+  "globalDayCountries": [
+    {
+      "name": "Korea",
+      "desc": "Authentic Korean home cooking with hearty, spicy stews",
+      "menu": "Beef bulgogi, royal braised short ribs, kimchi stew, boiled pork belly, japchae"
+    },
+    {
+      "name": "China",
+      "desc": "Authentic wok-fired Chinese dishes and crispy fried favorites",
+      "menu": "Mapo tofu, guo bao rou (sweet & sour pork), chili shrimp, Yangzhou fried rice"
+    },
+    {
+      "name": "Japan",
+      "desc": "Clean, deeply flavorful Japanese home-style rice bowls and curry",
+      "menu": "Tonkatsu, katsudon, rich Japanese beef curry, yakisoba, miso soup"
+    },
+    {
+      "name": "Taiwan",
+      "desc": "Rich meat dishes recreating the flavors of Taiwan's night markets",
+      "menu": "Lu rou fan (braised pork rice), Taiwanese beef noodle soup, chicken cutlet (ji pai)"
+    },
+    {
+      "name": "Vietnam",
+      "desc": "Vietnam's signature dishes with fresh herbs and rich, clear broth",
+      "menu": "Beef pho, fresh spring rolls, bun cha, banh mi sandwich"
+    },
+    {
+      "name": "Philippines",
+      "desc": "Sweet-savory BBQ and the Philippines' beloved local soul food",
+      "menu": "Chicken adobo, BBQ skewers, sisig, kangkong greens"
+    },
+    {
+      "name": "Thailand",
+      "desc": "Thai food where sweet, sour, and spicy flavors come together perfectly",
+      "menu": "Pad Thai, crab curry, pineapple fried rice, tom yum"
+    },
+    {
+      "name": "Mongolia",
+      "desc": "Juicy meat dishes and hearty Mongolian dumplings",
+      "menu": "Khuushuur (fried meat dumplings), buuz, Mongolian beef steak"
+    },
+    {
+      "name": "Russia",
+      "desc": "Warm, hearty authentic Russian soups and meat dishes",
+      "menu": "Beef stroganoff, borscht, blini pancakes"
+    }
+  ],
+  "weeklyTable": [
+    {
+      "day": "Monday",
+      "breakfast": "Vegetable fried rice, egg soup, sausage, toast, kimchi, watermelon",
+      "lunch": "Traditional vegetable bibimbap, soybean stew, kimchi pancake, fried egg, apple",
+      "dinner": "Homemade loin pork cutlet, soup, cabbage salad, kimchi, mango"
+    },
+    {
+      "day": "Tuesday",
+      "breakfast": "Rice, scrambled eggs, bean-sprout soup, morning roll, cereal, banana",
+      "lunch": "Beef bulgogi, clear hand-torn noodle soup, braised potatoes, kimchi, fresh kimchi salad",
+      "dinner": "Charcoal samgyeopsal BBQ, assorted lettuce wraps, scallion salad, soybean stew, pineapple"
+    },
+    {
+      "day": "Wednesday",
+      "breakfast": "Nutritious beef & vegetable porridge, egg sandwich, milk, jam toast, apple",
+      "lunch": "Chinese jjajang rice, warm fish cake soup, fried dumplings, pickled radish, diced radish kimchi",
+      "dinner": "Spicy stir-fried pork, tofu soybean soup, bean sprouts, assorted wraps, papaya"
+    },
+    {
+      "day": "Thursday",
+      "breakfast": "Rice, chicken nuggets, fried egg, toast, kimchi soup, watermelon",
+      "lunch": "Chicken mayo rice bowl, clear udon soup, corn salad, diced radish kimchi, fruit",
+      "dinner": "[Global Day] Vietnamese beef pho & fresh spring rolls, mango dessert"
+    },
+    {
+      "day": "Friday",
+      "breakfast": "Omurice, corn soup, Vienna sausages, morning roll, pineapple",
+      "lunch": "Beef-bone rice cake & dumpling soup, assorted skewers, mixed fritters, fresh kimchi salad, kimchi",
+      "dinner": "Crispy boneless kkanpunggi chicken, candied sweet potato, scallion egg soup, salad, banana"
+    },
+    {
+      "day": "Saturday",
+      "breakfast": "Weekend brunch (pancakes, sausage, bacon, scrambled eggs, coffee)",
+      "lunch": "Hayashi rice, mini pork cutlet, japchae, cabbage salad, kimchi",
+      "dinner": "Royal braised beef short ribs, beef radish soup, japchae, kimchi, seasonal fruit"
+    },
+    {
+      "day": "Sunday",
+      "breakfast": "Weekend brunch (club sandwich, cereal, fruit juice, morning roll)",
+      "lunch": "Festival noodle soup, chicken skewer BBQ, rice cake skewers, kimchi, watermelon",
+      "dinner": "Fish cutlet set, tartar sauce, sweet pumpkin salad, stir-fried kimchi, mango"
+    }
+  ],
+  "activities": {
+    "sidebarTitle": "Activities (Cebu Weekend Tours)",
+    "heroBadge": "Weekend & After-School Activity Program",
+    "heroHeading": "Immersive Study on Weekdays, Unforgettable Cebu Adventures on Weekends",
+    "heroDesc": "Activities help release the study stress that builds up during the week, while giving you the chance to use English in real situations with multinational friends and create memories you'll treasure for life.",
+    "heroBoxLabel": "Regular Activity",
+    "heroBoxValue": "Held Every Weekend",
+    "heroBoxNote": "Register at the campus info desk",
+    "checklist": [
+      "Dedicated Korean manager accompanies every trip",
+      "Round-trip transport via the academy's private shuttle van",
+      "Underwater GoPro filming with photos provided",
+      "Real English communication with multinational friends"
+    ],
+    "filters": {
+      "all": "All (8 Tours)",
+      "marine": "Marine Leisure & Canyoneering",
+      "history": "Cebu History & City Culture",
+      "waterpark": "Water Park & Indoor Activities"
+    },
+    "galleryLabel": "On-Site Photos (click to enlarge)",
+    "highlightsLabel": "Tour Highlights",
+    "scheduleLabel": "Schedule & Booking",
+    "applyLabel": "Register at",
+    "applyValue": "1st floor info desk",
+    "minGroupLabel": "Minimum group size",
+    "minGroupValue": "4 people",
+    "safetyHeading": "Activity Safety Notes",
+    "safetyBullets": [
+      "Life vests and helmets are mandatory for all marine and extreme activities.",
+      "In case of severe weather or typhoons, schedules may be postponed or refunded for student safety.",
+      "Please confirm you have overseas travel insurance before departure.",
+      "Designated meeting and return times must be strictly followed; individual departure from the group is not permitted."
+    ]
+  },
+  "tours": [
+    {
+      "difficulty": "Moderate",
+      "title": "Oslob Whale Shark Tour",
+      "location": "Oslob, South Cebu (approx. 3 hrs by academy vehicle)",
+      "duration": "Day trip (departs 4:00 AM, returns 4:00 PM)",
+      "desc": "Held in Oslob, about a 3-hour drive from downtown Cebu or Mactan. Snorkel in emerald-blue waters and observe massive 5-10 meter whale sharks up close — a signature experience found almost nowhere else in the world.",
+      "highlights": [
+        "The world's only up-close wild whale shark snorkeling",
+        "Combined with the stunning Tumalog Falls, said to have inspired scenes in Avatar",
+        "Dedicated underwater GoPro filming included",
+        "Accompanied by a Korean tour manager, with private air-conditioned van transport"
+      ],
+      "schedule": "Held biweekly on Saturday or Sunday / Register at the academy office 3 days in advance"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Island Hopping & Snorkeling Tour",
+      "location": "Mactan Marine National Park (Hilutungan, Nalusuan Islands)",
+      "duration": "Day trip (departs 9:00 AM, returns 3:30 PM)",
+      "desc": "The most popular marine leisure activity in Cebu, blessed with pristine natural scenery and clear emerald waters. Ride a traditional Filipino bangka boat out to unspoiled waters to see tropical fish and colorful coral reefs, then enjoy a hearty seafood BBQ and tropical fruit on board.",
+      "highlights": [
+        "Snorkel among thousands of tropical fish in a marine protected area",
+        "Fresh charcoal-grilled ribs and tiger shrimp seafood lunch served on board",
+        "Onboard hand-line fishing and photo time at an emerald sandbar",
+        "Beginner-friendly with 1:1 water safety care from a dedicated local helper"
+      ],
+      "schedule": "Held every Saturday / Open to all ages"
+    },
+    {
+      "difficulty": "Extreme",
+      "title": "Kawasan Extreme Canyoneering",
+      "location": "Kawasan Falls, Badian (approx. 3.5 hrs by academy vehicle)",
+      "duration": "Day trip (departs 5:30 AM, returns 6:00 PM)",
+      "desc": "A dynamic extreme adventure held at Kawasan Falls, about 4 hours from downtown Cebu. Ranked as one of the world's top 3 canyoneering spots, you'll dive, climb, and slide along natural rock-carved waterways through dramatic primeval canyons, soaking in nature's raw energy.",
+      "highlights": [
+        "3-12 meter graduated cliff jumps on one of the world's top 3 canyoneering routes",
+        "Natural canyon water slides and body rafting",
+        "Safety helmet, buoyant life vest, and 2 dedicated professional local guides",
+        "Views of the emerald 3-tier Kawasan Falls plus a local buffet meal"
+      ],
+      "schedule": "Ages 12+ only / Water shoes and rash guard required"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Fort San Pedro & Heritage Tour",
+      "location": "Downtown Cebu City (20 min by academy vehicle)",
+      "duration": "Half-day trip (departs 1:30 PM, returns 5:00 PM)",
+      "desc": "Built in 1565, Fort San Pedro is the oldest triangular stone fort in the Philippines. It served as a base for Cebu's independence movement in the late Spanish colonial era, US military barracks during the American colonial period, and a POW camp under Japanese occupation — a historic heritage site that embodies the Philippines' modern history.",
+      "highlights": [
+        "Spanish Renaissance military architecture and antique stone walls",
+        "Visit the Cebu history relics museum and archival exhibits",
+        "Atmospheric photos in the quiet Spanish-style garden",
+        "A walking stroll through Colon Street, downtown Cebu's historic culture strip"
+      ],
+      "schedule": "A light city-walk option for weekday afternoons after class or Sunday afternoons"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Magellan's Cross & Santo Niño Basilica",
+      "location": "Cebu City Hall Plaza (20 min by academy vehicle)",
+      "duration": "Half-day trip (departs 1:30 PM, returns 5:30 PM)",
+      "desc": "Erected in 1521 by Portuguese navigator Magellan when he landed in the Philippines during his circumnavigation, this cross is said to grant miracles and draws countless pilgrims; it's encased in a tindalo wood cover to prevent damage. Together with the nearby Santo Niño Basilica, famous for its statue of the infant Jesus, it is considered a sacred site of Philippine faith.",
+      "highlights": [
+        "A UNESCO-listed historic site marking the start of Catholic missionary work in the Philippines",
+        "View the 16th-century mural of Magellan's landing preserved on the octagonal pavilion ceiling",
+        "Experience the traditional candle prayer ritual (with Sinulog dancers) for health and longevity",
+        "A pilgrimage through the 450-year-old Santo Niño Basilica"
+      ],
+      "schedule": "Located downtown, easily combined with shopping at Ayala Mall"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Cebu City & Heritage Highlights Tour",
+      "location": "Cebu City & nearby areas (by academy vehicle)",
+      "duration": "Full-day trip (departs 9:00 AM, returns 7:00 PM)",
+      "desc": "A full-day city tour covering Cebu's must-see highlights, from downtown to the outskirts. From the lively local atmosphere of a traditional market to a grand pilgrimage site and a night-view lookout over the whole city — experience the many faces of Cebu in a single day.",
+      "highlights": [
+        "Explore the vibrant local market scene at Carbon Market",
+        "Pilgrimage at Simala Shrine, famed for its striking golden architecture",
+        "Admire the grand Greek-inspired architecture of Temple of Leah",
+        "Sunset & night views of Cebu City from the Tops Cebu lookout"
+      ],
+      "schedule": "Held 1-2 times a month / A full-day itinerary due to travel distance"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "Cebu Water World Park",
+      "location": "Mandaue City (approx. 15 min by academy vehicle)",
+      "duration": "Half-day or full-day (departs 10:00 AM, returns 4:30 PM)",
+      "desc": "The largest and most popular water park in Cebu, conveniently close to campus. With 10 giant extreme water slides, various rides, a relaxing 200-meter lazy river, and a wave pool, it's the perfect place to blow off steam with friends on the weekend.",
+      "highlights": [
+        "10 thrilling giant high-speed water slides",
+        "A relaxing 200-meter Lazy River and a mega wave pool",
+        "A dedicated kids' aqua play zone",
+        "Just 15 minutes from campus — an easy, low-hassle getaway"
+      ],
+      "schedule": "Open every weekend / Special group discount with student ID"
+    },
+    {
+      "difficulty": "Easy",
+      "title": "SM Seaside Ice Skating Rink",
+      "location": "3rd Floor, SM Seaside City Cebu (approx. 20 min by academy vehicle)",
+      "duration": "Half-day trip (departs 1:00 PM, returns 5:00 PM)",
+      "desc": "The only Olympic-size ice rink in the Visayas-Mindanao region — a refreshingly cool escape from the Philippine heat. Even first-timers can safely enjoy the ice with polar bear skate aids and dedicated coaching, making it a favorite indoor activity.",
+      "highlights": [
+        "The only Olympic-size (30×60m) ice rink in the Visayas-Mindanao region",
+        "Polar bear skate aids and a skating coach available for beginners",
+        "A comfortably air-conditioned indoor venue — no worries about the heat",
+        "Located inside SM Seaside Mall, easy to combine with shopping and dining"
+      ],
+      "schedule": "Held biweekly on Sunday afternoons / Skate rental included"
+    }
+  ],
+  "visa": {
+    "sidebarTitle": "Visa & SSP Guide",
+    "heading": "Philippine Study Abroad Essential Documents (SSP & Visa)",
+    "items": [
+      {
+        "title": "1. SSP (Special Study Permit)",
+        "desc": "Under Philippine immigration law, this is the official permit any foreigner entering on a tourist visa must obtain to legally study English. Regardless of program length, SYA arranges issuance during your first week in the Philippines; it's valid for 6 months. (Cost: 6,800 PHP)"
+      },
+      {
+        "title": "2. 30-Day Visa-Free Entry & Visa Extension",
+        "desc": "Korean nationals automatically receive 30-day visa-free entry to the Philippines. Students staying beyond 4 weeks (8/12/16 weeks, etc.) must extend their visa in 30-day increments through Philippine immigration; SYA's administration handles all extension procedures, so you never need to visit immigration yourself."
+      },
+      {
+        "title": "3. ACR I-Card (Alien Registration)",
+        "desc": "A mandatory ID card for any foreigner staying 59+ days in the Philippines (at the 2nd extension point for 8-week students). Valid for 1 year upon issuance. (Cost: 3,500 PHP)"
+      }
+    ],
+    "warning": "Attendance Below 80% = Visa Warning: Under Philippine immigration regulations, your SSP permit may be revoked if your official attendance rate falls below 80%. SYA's academic management system closely monitors attendance to help you avoid this."
+  },
+  "pickup": {
+    "sidebarTitle": "Safe Airport Pickup Guide",
+    "heading": "Airport Arrival & Safe Pickup Guide",
+    "cards": [
+      {
+        "tag": "Mactan-Cebu International Airport (CEB) — International Arrivals",
+        "title": "SYA Signboard Waiting at the Arrival Gate",
+        "bullets": [
+          "After collecting your luggage and exiting through international arrivals, an SYA staff member holding a signboard will be waiting for you.",
+          "A Korean staff member or dedicated driver will safely guide you to the private pickup vehicle.",
+          "The ride from the airport to the SYA Cebu campus takes about 25-30 minutes."
+        ]
+      },
+      {
+        "tag": "For Domestic Transfer Arrivals",
+        "title": "Terminal 1 Domestic Arrivals Meeting Point",
+        "bullets": [
+          "For domestic connections via Manila or elsewhere, we'll wait at the agreed spot in front of the domestic arrivals gate.",
+          "Let us know your flight number and connection time in advance via KakaoTalk for a tailored pickup.",
+          "Even for late-night or early-morning arrivals, we safely guide you through 24-hour dormitory check-in."
+        ]
+      }
+    ],
+    "hotlineTitle": "24-Hour Emergency Pickup Hotline",
+    "hotlineDesc": "If your flight is delayed or canceled, message us immediately via the KakaoTalk channel SYA_ACADEMY or our emergency contact — we'll check real-time flight schedules and ensure a smooth pickup regardless of delays."
+  },
+  "localLife": {
+    "sidebarTitle": "Local Life & Cost of Living",
+    "heading": "Philippines Local Living Cost & Allowance Guide",
+    "cards": [
+      {
+        "label": "Recommended Monthly Allowance (weekends included)",
+        "value": "₩300,000 - ₩500,000",
+        "note": "Cafes, dining out, shopping, massages, etc."
+      },
+      {
+        "label": "Currency Exchange Tip",
+        "value": "Traveloq / Travel Wallet",
+        "note": "Instant peso withdrawal at local ATMs"
+      },
+      {
+        "label": "Local Data / SIM",
+        "value": "Globe / Smart eSIM",
+        "note": "Unlimited data for ₩10,000-20,000/month"
+      }
+    ],
+    "bullets": [
+      "3 Daily Meals Included: Since all 3 daily Korean-style buffet meals are provided free on weekdays and weekends alike, your personal allowance mainly goes toward weekend activities (island hopping, massages, cafes) or personal essentials.",
+      "Local Healthcare: Major Cebu general hospitals (Chong Hua Hospital, UC Med) and Korean-speaking clinics are located right near campus. If you purchase overseas student insurance before departure, medical costs can be fully claimed."
+    ]
+  },
+  "packing": {
+    "sidebarTitle": "Pre-Departure Packing Checklist",
+    "heading": "Essential Pre-Departure Checklist",
+    "categories": [
+      {
+        "title": "Essential Documents",
+        "items": [
+          "Passport (valid 6+ months from departure date)",
+          "Round-trip e-ticket (return flight or onward ticket to a third country required)",
+          "Screenshot of your completed Philippine e-Travel registration QR code",
+          "English-language overseas travel/student insurance certificate",
+          "5 passport photos (for SSP and visa extensions)"
+        ]
+      },
+      {
+        "title": "Electronics & Study Supplies",
+        "items": [
+          "Laptop or tablet & charger (for 1:1 classes and assignments)",
+          "Wired earphones (for listening and pronunciation recording practice)",
+          "Type-A (2-pin) 110V plug adapter & power strip",
+          "Portable battery (must be carried in cabin baggage)",
+          "Personal notebook/pens and a vocabulary notebook"
+        ]
+      },
+      {
+        "title": "Clothing & Toiletries",
+        "items": [
+          "Summer clothing (t-shirts, shorts, linen, etc.)",
+          "A light long-sleeve cardigan or hoodie (classrooms are air-conditioned)",
+          "Swimsuit, rash guard, aqua shoes (for weekend activities)",
+          "A shower rust-water filter (recommended for sensitive skin)",
+          "Sunscreen, sunglasses, a hat"
+        ]
+      },
+      {
+        "title": "Medicine & Finance",
+        "items": [
+          "Basic medicine (anti-diarrheal, digestive aid, headache/cold medicine, band-aids, mosquito repellent)",
+          "A Traveloq/Travel Wallet overseas debit card",
+          "Emergency US dollars ($100 new-issue bills) or a small amount of pesos",
+          "Any personal prescription medication you regularly take, with an English prescription"
+        ]
+      }
+    ]
+  }
+}
