@@ -1,22 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
-import { PrismaPg } from "@prisma/adapter-pg";
-import { PrismaClient } from "@/generated/prisma/client";
+// 공용 Prisma 연결 사용 (DB 주소 선택: Netlify = NETLIFY_DB_URL, 로컬 = DATABASE_URL — src/lib/prisma.ts)
+// 이전에는 이 파일에서 PrismaClient를 따로 만들어 함수 인스턴스마다 DB 연결 풀이 하나 더 생겼습니다.
+import { prisma } from "@/lib/prisma";
 import { createSession } from "@/lib/auth";
-
-const connectionString = process.env.DATABASE_URL;
-
-if (!connectionString) {
-  throw new Error("DATABASE_URL이 설정되지 않았습니다.");
-}
-
-const adapter = new PrismaPg({
-  connectionString,
-});
-
-const prisma = new PrismaClient({
-  adapter,
-});
 
 export async function POST(request: NextRequest) {
   try {
@@ -136,7 +123,7 @@ export async function POST(request: NextRequest) {
       },
       { status: 500 }
     );
-  } finally {
-    await prisma.$disconnect();
   }
+  // 공용 연결이므로 요청마다 $disconnect()하지 않습니다.
+  // (같은 서버 인스턴스에서 동시에 처리 중인 다른 요청의 DB 연결까지 끊길 수 있음)
 }

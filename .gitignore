@@ -57,3 +57,7 @@ next-env.d.ts
 /src/generated/prisma/
 
 src/app/api/enrollments/route.ts.before_first_payment_validation_20261022_192005.bak
+
+# Local Netlify preparation backups
+/backup_before_netlify_20261024/
+/netlify-local-changes.patch
