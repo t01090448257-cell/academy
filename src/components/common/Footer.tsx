@@ -3,6 +3,8 @@
 import Link from "next/link";
 import type { Locale } from "@/config/i18n";
 import { useConsultationModal } from "@/components/common/ConsultationModalProvider";
+import { useSiteContact } from "@/components/common/SiteContactProvider";
+import { toMailtoHref, toTelHref } from "@/lib/siteContact";
 
 interface FooterProps {
   lang: Locale;
@@ -104,6 +106,8 @@ function IconChat() {
 
 export default function Footer({ lang }: FooterProps) {
   const { openConsultation } = useConsultationModal();
+  // 연락처·주소: 관리자 설정 > 학원 기본정보 (비어 있으면 기존 기본값). <bdi>는 아랍어(RTL) 화면에서 번호·주소 방향이 섞이지 않게 격리
+  const contact = useSiteContact();
 
   return (
     <footer className="bg-sya-navy text-slate-400 text-xs border-t border-white/10">
@@ -152,7 +156,16 @@ export default function Footer({ lang }: FooterProps) {
                 </span>
                 <span>
                   <strong className="font-bold text-slate-200">필리핀 캠퍼스:</strong>{" "}
-                  SYA Campus, A.S. Fortuna St, Banilad, Mandaue City, Cebu, Philippines
+                  <bdi>{contact.campusAddress}</bdi>
+                </span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-slate-500">
+                  <IconPin />
+                </span>
+                <span>
+                  <strong className="font-bold text-slate-200">필리핀 사무소:</strong>{" "}
+                  <bdi>{contact.philippinesOfficeAddress}</bdi>
                 </span>
               </p>
               <p className="flex items-start gap-2">
@@ -161,7 +174,7 @@ export default function Footer({ lang }: FooterProps) {
                 </span>
                 <span>
                   <strong className="font-bold text-slate-200">한국 등록 사무소:</strong>{" "}
-                  서울특별시 서초구 강남대로 381 두산베어스텔 1204호
+                  <bdi>{contact.koreaOfficeAddress}</bdi>
                 </span>
               </p>
             </div>
@@ -192,17 +205,17 @@ export default function Footer({ lang }: FooterProps) {
             <h4 className="text-white font-bold tracking-wide uppercase text-[11px] mb-2">
               상담 및 입학처
             </h4>
-            <a href="tel:0225887104" className="flex items-center gap-2 font-bold text-white hover:text-sky-300">
-              <IconPhone /> 02-588-7104
+            <a href={toTelHref(contact.koreaPhone)} className="flex items-center gap-2 font-bold text-white hover:text-sky-300">
+              <IconPhone /> <bdi dir="ltr">{contact.koreaPhone}</bdi>
             </a>
-            <p className="flex items-center gap-2 text-slate-300">
-              <IconPhone /> 현지 직통: +63-32-416-1227
-            </p>
+            <a href={toTelHref(contact.localPhone)} className="flex items-center gap-2 text-slate-300 hover:text-white">
+              <IconPhone /> 현지 직통: <bdi dir="ltr">{contact.localPhone}</bdi>
+            </a>
             <a
-              href="mailto:admissions@sya-academy.com"
+              href={toMailtoHref(contact.email)}
               className="flex items-center gap-2 text-slate-300 hover:text-white"
             >
-              <IconMail /> admissions@sya-academy.com
+              <IconMail /> <bdi dir="ltr">{contact.email}</bdi>
             </a>
             <p className="flex items-center gap-2 text-slate-300">
               <IconClock /> 평일 09:00 - 18:00

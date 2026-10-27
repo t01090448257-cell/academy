@@ -49,6 +49,12 @@ model app_settings {
   contact_phone          String?   @db.VarChar(50)
   contact_email          String?   @db.VarChar(255)
   address                String?
+  /// 필리핀 현지 전화번호 (홈페이지 Footer·상담 카드·학원소개)
+  local_phone            String?   @db.VarChar(50)
+  /// 한국 사무소 주소 (홈페이지 Footer)
+  korea_office_address   String?
+  /// 필리핀 사무소 주소 (홈페이지 Footer·학원소개·지도)
+  philippines_office_address String?
   default_currency       String    @default("KRW") @db.Char(3)
   default_payment_method String    @default("bank_transfer") @db.VarChar(30)
   default_enrollment_status String  @default("inquiry") @db.VarChar(30)

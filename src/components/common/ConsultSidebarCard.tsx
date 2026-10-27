@@ -2,9 +2,11 @@
 
 import { isRtlLocale, type Locale } from "@/config/i18n";
 import type { CampusDictionary } from "@/types/dictionary";
-import { isolateLtrDeep } from "@/lib/bidi";
+import { isolateLtr, isolateLtrDeep } from "@/lib/bidi";
 import { useConsultationModal } from "@/components/common/ConsultationModalProvider";
 import { CONSULT_CHANNEL_URL } from "@/components/common/ConsultationModal";
+import { useSiteContact } from "@/components/common/SiteContactProvider";
+import { toTelHref } from "@/lib/siteContact";
 
 interface ConsultSidebarCardProps {
   lang: Locale;
@@ -15,8 +17,7 @@ interface ConsultSidebarCardProps {
   copy?: CampusDictionary["consultCard"];
 }
 
-const PHONE_NUMBER_DISPLAY = "02-588-7104";
-const PHONE_NUMBER_TEL = "0225887104";
+// 한국 상담전화·필리핀 현지 전화는 관리자 설정 > 학원 기본정보 값을 사용합니다. (useSiteContact, 비어 있으면 기존 기본값)
 const KAKAO_CHANNEL_ID = "SYA_ACADEMY";
 
 const COPY = {
@@ -83,6 +84,23 @@ function IconShield() {
   );
 }
 
+/**
+ * 필리핀 현지 전화 라벨 (8개 언어)
+ * 카드의 기존 언어 구조를 따릅니다.
+ * - 페이지가 언어별 카드 문구(copy)를 넘기는 경우(필리핀 생활안내, 8개 언어): 해당 언어 라벨
+ * - 그 밖의 페이지(카드 문구 ko / en): 한국어는 ko, 나머지 언어는 en (아랍어는 영문을 방향 격리)
+ */
+const LOCAL_PHONE_LABEL: Record<Locale, string> = {
+  ko: "필리핀 현지 전화",
+  en: "Philippines Local Line",
+  ja: "フィリピン現地電話",
+  vi: "Điện thoại tại Philippines",
+  "zh-TW": "菲律賓當地電話",
+  mn: "Филиппин дахь утас",
+  ru: "Местный телефон на Филиппинах",
+  ar: "الهاتف المحلي في الفلبين",
+};
+
 // RTL(ar) 페이지에서 영문 폴백 문구가 뒤섞이지 않도록 격리한 사본
 const COPY_EN_RTL = isolateLtrDeep(COPY.en);
 
@@ -90,6 +108,14 @@ export default function ConsultSidebarCard({ lang, copy }: ConsultSidebarCardPro
   const base = lang === "ko" ? COPY.ko : isRtlLocale(lang) ? COPY_EN_RTL : COPY.en;
   const t = copy ? { ...base, ...copy } : base;
   const { openConsultation } = useConsultationModal();
+  const contact = useSiteContact();
+  const localPhoneLabel = copy
+    ? LOCAL_PHONE_LABEL[lang] ?? LOCAL_PHONE_LABEL.en
+    : lang === "ko"
+      ? LOCAL_PHONE_LABEL.ko
+      : isRtlLocale(lang)
+        ? isolateLtr(LOCAL_PHONE_LABEL.en)
+        : LOCAL_PHONE_LABEL.en;
 
   return (
     <div className="mt-4 rounded-2xl border border-sya-ink/8 bg-white p-5 shadow-sm shadow-sya-navy/5">
@@ -99,7 +125,7 @@ export default function ConsultSidebarCard({ lang, copy }: ConsultSidebarCardPro
       <h3 className="mt-1.5 text-base font-extrabold text-sya-navy">{t.title}</h3>
 
       <a
-        href={`tel:${PHONE_NUMBER_TEL}`}
+        href={toTelHref(contact.koreaPhone)}
         className="mt-4 flex items-center gap-3 rounded-xl bg-sya-navy/[0.04] px-3.5 py-3 transition-colors hover:bg-sya-navy/[0.07]"
       >
         <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-blue-100 text-blue-600">
@@ -110,7 +136,24 @@ export default function ConsultSidebarCard({ lang, copy }: ConsultSidebarCardPro
             {t.phoneLabel}
           </span>
           <span className="block text-sm font-bold text-sya-navy">
-            {PHONE_NUMBER_DISPLAY}
+            <bdi dir="ltr">{contact.koreaPhone}</bdi>
+          </span>
+        </span>
+      </a>
+
+      <a
+        href={toTelHref(contact.localPhone)}
+        className="mt-2.5 flex items-center gap-3 rounded-xl bg-sya-navy/[0.04] px-3.5 py-3 transition-colors hover:bg-sya-navy/[0.07]"
+      >
+        <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-blue-100 text-blue-600">
+          <IconPhone />
+        </span>
+        <span className="min-w-0">
+          <span className="block text-[11px] font-medium text-sya-ink/45">
+            {localPhoneLabel}
+          </span>
+          <span className="block text-sm font-bold text-sya-navy">
+            <bdi dir="ltr">{contact.localPhone}</bdi>
           </span>
         </span>
       </a>

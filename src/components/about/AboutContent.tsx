@@ -5,6 +5,8 @@ import { useSearchParams } from "next/navigation";
 import type { Locale } from "@/config/i18n";
 import ConsultSidebarCard from "@/components/common/ConsultSidebarCard";
 import { useConsultationModal } from "@/components/common/ConsultationModalProvider";
+import { useSiteContact } from "@/components/common/SiteContactProvider";
+import { officeMapEmbedSrc, toTelHref } from "@/lib/siteContact";
 
 interface AboutContentProps {
   lang: Locale;
@@ -167,11 +169,12 @@ interface AboutCopy {
     darkBox: {
       addressBadge: string;
       campusName: string;
-      address: string;
+      /** 필리핀 캠퍼스 주소 라벨 (주소 값은 관리자 설정 address) */
+      campusAddressLabel: string;
+      /** 필리핀 사무소 주소 라벨 (주소 값은 관리자 설정 philippines_office_address) */
+      officeAddressLabel: string;
       phoneKoreaLabel: string;
-      phoneKorea: string;
       phonePhLabel: string;
-      phonePh: string;
       kakaoLabel: string;
       kakao: string;
     };
@@ -246,11 +249,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "공식 주소 및 연락처",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "필리핀 캠퍼스",
+        officeAddressLabel: "필리핀 사무소",
         phoneKoreaLabel: "한국 상담처",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "현지 직통",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "카카오톡 채널",
         kakao: "SYA_ACADEMY",
       },
@@ -323,11 +325,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "Official Address & Contact",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "Philippine Campus",
+        officeAddressLabel: "Philippine Office",
         phoneKoreaLabel: "Korea Consultation Line",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "Local Direct Line",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "KakaoTalk Channel",
         kakao: "SYA_ACADEMY",
       },
@@ -400,11 +401,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "公式住所・連絡先",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "フィリピンキャンパス",
+        officeAddressLabel: "フィリピン事務所",
         phoneKoreaLabel: "韓国相談窓口",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "現地直通",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "カカオトークチャンネル",
         kakao: "SYA_ACADEMY",
       },
@@ -477,11 +477,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "Địa chỉ và liên hệ chính thức",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "Cơ sở tại Philippines",
+        officeAddressLabel: "Văn phòng tại Philippines",
         phoneKoreaLabel: "Đường dây tư vấn Hàn Quốc",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "Đường dây trực tiếp tại địa phương",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "Kênh KakaoTalk",
         kakao: "SYA_ACADEMY",
       },
@@ -554,11 +553,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "正式地址與聯絡方式",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "菲律賓校區",
+        officeAddressLabel: "菲律賓辦公室",
         phoneKoreaLabel: "韓國諮詢處",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "當地直撥電話",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "LINE官方帳號",
         kakao: "SYA_ACADEMY",
       },
@@ -631,11 +629,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "Албан ёсны хаяг ба холбоо барих",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "Филиппин дахь кампус",
+        officeAddressLabel: "Филиппин дахь оффис",
         phoneKoreaLabel: "Солонгос дахь зөвлөгөөний утас",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "Дотоод шууд утас",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "KakaoTalk суваг",
         kakao: "SYA_ACADEMY",
       },
@@ -708,11 +705,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "Официальный адрес и контакты",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)",
+        campusAddressLabel: "Кампус на Филиппинах",
+        officeAddressLabel: "Офис на Филиппинах",
         phoneKoreaLabel: "Линия консультаций в Корее",
-        phoneKorea: "02-588-7104",
         phonePhLabel: "Прямая линия на месте",
-        phonePh: "+63-32-416-1227",
         kakaoLabel: "Канал KakaoTalk",
         kakao: "SYA_ACADEMY",
       },
@@ -785,11 +781,10 @@ const translations: Record<Locale, AboutCopy> = {
       darkBox: {
         addressBadge: "العنوان الرسمي ووسائل التواصل",
         campusName: "SYA Philippine Cebu Main Campus",
-        address: "\u2066Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)\u2069",
+        campusAddressLabel: "حرم الفلبين",
+        officeAddressLabel: "مكتب الفلبين",
         phoneKoreaLabel: "خط الاستشارات في كوريا",
-        phoneKorea: "\u206602-588-7104\u2069",
         phonePhLabel: "الخط المباشر في الفلبين",
-        phonePh: "\u2066+63-32-416-1227\u2069",
         kakaoLabel: "قناة \u2066KakaoTalk\u2069",
         kakao: "\u2066SYA_ACADEMY\u2069",
       },
@@ -802,6 +797,7 @@ export default function AboutContent({ lang }: AboutContentProps) {
   const t = translations[lang];
   const searchParams = useSearchParams();
   const { openConsultation } = useConsultationModal();
+  const contact = useSiteContact();
   const [activeTab, setActiveTab] = useState<TabId>("overview");
 
   // 헤더 드롭다운 등에서 ?tab=director 같은 쿼리로 들어오면 해당 탭을 바로 열어준다.
@@ -1050,16 +1046,30 @@ export default function AboutContent({ lang }: AboutContentProps) {
                         <span>{t.location.darkBox.addressBadge}</span>
                       </div>
                       <h3 className="mb-2 text-lg font-bold text-white">{t.location.darkBox.campusName}</h3>
-                      <p className="mb-4 text-xs leading-relaxed text-slate-300">{t.location.darkBox.address}</p>
+                      {/* 주소·전화: 관리자 설정 > 학원 기본정보 (비어 있으면 기존 기본값). <bdi>로 아랍어(RTL) 화면 방향 격리 */}
+                      <div className="mb-4 space-y-1.5 text-xs leading-relaxed text-slate-300">
+                        <p>
+                          <strong className="text-slate-200">{t.location.darkBox.campusAddressLabel}:</strong>{" "}
+                          <bdi>{contact.campusAddress}</bdi>
+                        </p>
+                        <p>
+                          <strong className="text-slate-200">{t.location.darkBox.officeAddressLabel}:</strong>{" "}
+                          <bdi>{contact.philippinesOfficeAddress}</bdi>
+                        </p>
+                      </div>
 
                       <div className="space-y-2 border-t border-slate-800 pt-4 text-xs text-slate-400">
                         <p>
                           <strong className="text-slate-200">{t.location.darkBox.phoneKoreaLabel}:</strong>{" "}
-                          {t.location.darkBox.phoneKorea}
+                          <a href={toTelHref(contact.koreaPhone)} className="hover:text-white">
+                            <bdi dir="ltr">{contact.koreaPhone}</bdi>
+                          </a>
                         </p>
                         <p>
                           <strong className="text-slate-200">{t.location.darkBox.phonePhLabel}:</strong>{" "}
-                          {t.location.darkBox.phonePh}
+                          <a href={toTelHref(contact.localPhone)} className="hover:text-white">
+                            <bdi dir="ltr">{contact.localPhone}</bdi>
+                          </a>
                         </p>
                         <p>
                           <strong className="text-slate-200">{t.location.darkBox.kakaoLabel}:</strong>{" "}
@@ -1078,11 +1088,11 @@ export default function AboutContent({ lang }: AboutContentProps) {
                   </div>
                 </div>
 
-                {/* 실제 구글맵 임베드 (노블 호텔 세부 위치) */}
+                {/* 구글맵 임베드: 관리자 설정의 필리핀 사무소 주소 기준 (비어 있으면 기존 노블 호텔 세부 위치) */}
                 <div className="mt-6 overflow-hidden rounded-xl border border-sya-ink/8">
                   <iframe
                     title="SYA Campus Location - The Noble Cebu"
-                    src="https://www.google.com/maps?q=The+Noble+Cebu,+Gov.+M.+Cuenco+Ave,+Kasambagan,+Cebu+City,+Philippines&output=embed"
+                    src={officeMapEmbedSrc(contact.philippinesOfficeAddress)}
                     width="100%"
                     height="320"
                     style={{ border: 0 }}

@@ -3,8 +3,10 @@ import Header from "@/components/common/Header";
 import Footer from "@/components/common/Footer";
 import ConsultationModalProvider from "@/components/common/ConsultationModalProvider";
 import PublicTuitionProvider from "@/components/tuition/PublicTuitionProvider";
+import SiteContactProvider from "@/components/common/SiteContactProvider";
 import { getDictionary } from "@/dictionaries";
 import { loadPublicTuition } from "@/lib/publicTuition.server";
+import { loadPublicSiteContact } from "@/lib/siteContact.server";
 import {
   isLocale,
   isRtlLocale,
@@ -59,6 +61,8 @@ export default async function LocaleLayout({
   const dict = await getDictionary(lang);
   // 홈페이지 교육비: 관리자 DB의 현재 적용 가격 (정적 배포에서는 빌드 시점 값)
   const tuition = await loadPublicTuition();
+  // 홈페이지 연락처: 관리자 설정 > 학원 기본정보 (조회 실패 시 기존 기본값, 브라우저에서 5분마다 재조회)
+  const siteContact = await loadPublicSiteContact();
 
   return (
     <div
@@ -68,11 +72,13 @@ export default async function LocaleLayout({
     >
       <PublicTuitionProvider lang={lang} tuition={tuition}>
         <ConsultationModalProvider lang={lang} dict={dict}>
-          <Header lang={lang} dict={dict} />
+          <SiteContactProvider contact={siteContact}>
+            <Header lang={lang} dict={dict} />
 
-          <main className="flex-grow">{children}</main>
+            <main className="flex-grow">{children}</main>
 
-          <Footer lang={lang} />
+            <Footer lang={lang} />
+          </SiteContactProvider>
         </ConsultationModalProvider>
       </PublicTuitionProvider>
     </div>

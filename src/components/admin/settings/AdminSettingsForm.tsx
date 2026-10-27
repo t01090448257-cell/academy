@@ -7,6 +7,9 @@ interface Settings {
   contact_phone: string;
   contact_email: string;
   address: string;
+  local_phone: string;
+  korea_office_address: string;
+  philippines_office_address: string;
   default_currency: string;
   default_payment_method: string;
   default_enrollment_status: string;
@@ -18,6 +21,9 @@ const initial: Settings = {
   contact_phone: "",
   contact_email: "",
   address: "",
+  local_phone: "",
+  korea_office_address: "",
+  philippines_office_address: "",
   default_currency: "KRW",
   default_payment_method: "bank_transfer",
   default_enrollment_status: "inquiry",
@@ -48,7 +54,8 @@ export default function AdminSettingsForm() {
       .then(async (r) => {
         const data = await r.json();
         if (!r.ok || !data.success) throw new Error(data.message || "설정을 불러오지 못했습니다.");
-        setForm(data.settings);
+        // 이전 버전 API 응답에 새 항목이 없더라도 입력란이 비어 있도록 초기값과 합침
+        setForm({ ...initial, ...data.settings });
       })
       .catch((e) => setError(e instanceof Error ? e.message : "설정을 불러오지 못했습니다."))
       .finally(() => setLoading(false));
@@ -73,7 +80,7 @@ export default function AdminSettingsForm() {
       });
       const data = await response.json();
       if (!response.ok || !data.success) throw new Error(data.message || "저장하지 못했습니다.");
-      setForm(data.settings);
+      setForm({ ...initial, ...data.settings });
       setMessage("설정이 저장되었습니다.");
     } catch (e) {
       setError(e instanceof Error ? e.message : "설정 저장 중 오류가 발생했습니다.");
@@ -90,12 +97,24 @@ export default function AdminSettingsForm() {
         <div className="mb-5">
           <h2 className="font-bold text-slate-900">학원 기본정보</h2>
           <p className="mt-1 text-xs text-slate-500">관리자와 내부 운영 화면에서 사용할 기본 정보입니다.</p>
+          <p className="mt-1 text-xs text-slate-500">
+            연락처와 주소는 홈페이지 하단(Footer), 상담 카드, 학원소개 「오시는 길」에 표시됩니다. 비워 두면 기존 홈페이지 기본값이 표시됩니다.
+          </p>
         </div>
         <div className="grid gap-4 md:grid-cols-2">
           <Field label="학원명" value={form.academy_name} onChange={(v) => setField("academy_name", v)} required />
-          <Field label="대표 연락처" value={form.contact_phone} onChange={(v) => setField("contact_phone", v)} placeholder="예: +63 32 000 0000" />
-          <Field label="이메일" value={form.contact_email} onChange={(v) => setField("contact_email", v)} type="email" placeholder="academy@example.com" />
-          <Field label="주소" value={form.address} onChange={(v) => setField("address", v)} />
+          <Field label="상담 이메일" value={form.contact_email} onChange={(v) => setField("contact_email", v)} type="email" placeholder="예: admissions@sya-academy.com" maxLength={255} />
+          <Field label="한국 상담전화" value={form.contact_phone} onChange={(v) => setField("contact_phone", v)} type="tel" placeholder="예: 02-2588-7104" maxLength={50} />
+          <Field label="필리핀 현지 전화번호" value={form.local_phone} onChange={(v) => setField("local_phone", v)} type="tel" placeholder="예: +63-32-416-1227" maxLength={50} />
+          <div className="md:col-span-2">
+            <Field label="필리핀 캠퍼스 주소" value={form.address} onChange={(v) => setField("address", v)} placeholder="예: SYA Campus, A.S. Fortuna St, Banilad, Mandaue City, Cebu, Philippines" maxLength={300} />
+          </div>
+          <div className="md:col-span-2">
+            <Field label="필리핀 사무소 주소" value={form.philippines_office_address} onChange={(v) => setField("philippines_office_address", v)} placeholder="예: Gov. M. Cuenco Ave, Kasambagan, Cebu City 6000, Philippines (The Noble Cebu)" maxLength={300} />
+          </div>
+          <div className="md:col-span-2">
+            <Field label="한국 사무소 주소" value={form.korea_office_address} onChange={(v) => setField("korea_office_address", v)} placeholder="예: 서울특별시 서초구 강남대로 381 두산베어스텔 1204호" maxLength={300} />
+          </div>
         </div>
       </section>
 
